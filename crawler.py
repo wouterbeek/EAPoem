@@ -6,7 +6,7 @@ Author: Eszter Fodor
 """
 
 import mechanize
-import urllib2
+import MySQLdb
 from BeautifulSoup import BeautifulSoup
 
 
@@ -16,9 +16,22 @@ html = site.read()
 
 soup = BeautifulSoup(html)
 body = soup.body
-rightTable = body.contents[1].contents[3].p
+lorem = str(body.contents[1].contents[3].p)
+loremSplit = lorem.split("<p>")
+loremRight = loremSplit[1]
 
-print rightTable
+db = MySQLdb.connect(host = "localhost", user = "root", passwd = "", db = "test")
+cur = db.cursor() 
+
+if cur: 
+	cur.execute("INSERT INTO poemhunter VALUES (4, %s, 'test1', 'test2')", loremRight)
+	db.commit()
+else:
+	print "Something went wrong"
+
+dbClose = db.close()
+
+
 
 
 
