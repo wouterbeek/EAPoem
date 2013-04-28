@@ -34,7 +34,7 @@ def getPoem(html):
 	
 def strip_tags(text):
 	"""
-	Strip the text from the tags
+	Strip the text from the tags and replace <br /> with new line symbol
 	"""
 	for line in text:
 		for tag in reps:
