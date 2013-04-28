@@ -34,7 +34,7 @@ def getPoem(html):
 	
 def strip_tags(text):
 	"""
-	Strip the text from the tags and replace <br /> with new line symbol
+	Strip the text from the tags and replace <br /> with new line
 	"""
 	for line in text:
 		for tag in reps:
@@ -65,11 +65,16 @@ def main():
 	Program entry point
 	"""
 	br = mechanize.Browser()
-	site = br.open("http://poetry.eserver.org/sonnets/001.html")
+	site = br.open("http://poetry.eserver.org/sonnets/")
 	html = site.read()
-	poems = getPoem(html)
+	home = BeautifulSoup(html)
 	
-	databaseFunction(poems, "William Shakespeare", "sonnet")
+	links = home.body.tt
+	for al in links.findAll('a', href=True):
+		newLink = br.open("http://poetry.eserver.org/sonnets/" + str(al['href']))
+		htmlNew = newLink.read()
+		poems = getPoem(htmlNew)
+		databaseFunction(poems, "William Shakespeare", "sonnet")
 
 if __name__ == '__main__': main()
 
