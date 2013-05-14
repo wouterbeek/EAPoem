@@ -1,0 +1,3 @@
+eastbound(west1).
+eastbound(west1).
+eastbound(west1).
