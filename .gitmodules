@@ -1,6 +1,3 @@
-[submodule "ILP"]
-	path = ILP
-	url = https://github.com/wouterbeek/ILP.git
 [submodule "PGC"]
 	path = PGC
 	url = https://github.com/wouterbeek/PrologGenericsCollection.git

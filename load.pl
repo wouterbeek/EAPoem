@@ -1,7 +1,7 @@
 project_name('EAPoem').
 
 load_eapoem:-
-  source_file(load, ThisFile),
+  source_file(load_eapoem, ThisFile),
   file_directory_name(ThisFile, ThisDirectory),
   assert(user:file_search_path(project, ThisDirectory)),
   

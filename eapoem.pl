@@ -9,7 +9,7 @@ Edgar Allan Poem
 */
 
 :- use_module(library(double_metaphone)).
-
+:- format(user_output, 'EAPoem loaded.', []).
 
 
 
