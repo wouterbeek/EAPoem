@@ -5,6 +5,8 @@ load_eapoem:-
   file_directory_name(ThisFile, ThisDirectory),
   assert(user:file_search_path(project, ThisDirectory)),
   
+  assert(user:file_search_path(data, project('Data'))),
+  
   % Load the PGC.
   assert(user:file_search_path(pgc, project('PGC'))),
   (
