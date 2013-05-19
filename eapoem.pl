@@ -23,7 +23,11 @@ Edgar Allan Poem
 
 
 test:-
-  absolute_file_name(project(shakespeare), File, [access(read), file_type(csv)]),
+  absolute_file_name(
+    project(shakespeare),
+    File,
+    [access(read), file_type(csv)]
+  ),
   csv_read_file(File, Rows, [match_arity(false)]),
   flag(csv_row, _OldID, 1),
   forall(
@@ -32,5 +36,9 @@ test:-
       flag(csv_row, ID, ID + 1),
       format(user_output, '~w: ~w\n', [ID, Row])
     )
-  ).
+  ),
+  Sentence = 'Double metafone in werking.',
+  double_metaphone(Sentence, Phones),
+  format(user_output, 'Sentence:\t~w\nPhones:\t~w\n', [Sentence, Phones]).
 :- test.
+
