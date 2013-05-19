@@ -23,6 +23,7 @@ Edgar Allan Poem
 
 
 test:-
+  % Shakespeare CSV.
   absolute_file_name(
     project(shakespeare),
     File,
@@ -37,8 +38,10 @@ test:-
       format(user_output, '~w: ~w\n', [ID, Row])
     )
   ),
-  Sentence = 'Double metafone in werking.',
-  double_metaphone(Sentence, Phones),
-  format(user_output, 'Sentence:\t~w\nPhones:\t~w\n', [Sentence, Phones]).
+  
+  % Double metaphone.
+  Word = 'voorbeeld',
+  double_metaphone(Word, Phones),
+  format(user_output, 'Word:\t~w\nPhones:\t~w\n', [Word, Phones]).
 :- test.
 
