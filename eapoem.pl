@@ -2,7 +2,8 @@
   eapoem,
   [
     shakespeare_csv/0,
-    test_dbnl/0
+    test_dbnl/0,
+    test_double_metaphone/0
   ]
 ).
 
@@ -10,7 +11,8 @@
 
 Edgar Allan Poem
 
-@author Eszter Fodor, Wouter Beek
+@author Eszter Fodor
+@author Wouter Beek
 @version 2013/05
 */
 
@@ -39,3 +41,9 @@ shakespeare_csv:-
 
 test_dbnl:-
   thread_create(dbnl_scrape('Alle titels', 'alfabetisch op auteur'), _ID, []).
+
+% Double metaphone.
+test_double_metaphone:-
+  Word = 'voorbeeld',
+  double_metaphone(Word, Phones),
+  format(user_output, 'Word:\t~w\nPhones:\t~w\n', [Word, Phones]).
