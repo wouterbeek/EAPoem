@@ -1,6 +1,8 @@
 :- module(
   eapoem,
   [
+    shakespeare_csv/0,
+    test_dbnl/0
   ]
 ).
 
@@ -12,6 +14,7 @@ Edgar Allan Poem
 @version 2013/05
 */
 
+:- use_module(datasets(dbnl)).
 :- use_module(generics(db_ext)).
 :- use_module(library(csv)).
 :- use_module(library(double_metaphone)).
@@ -22,7 +25,7 @@ Edgar Allan Poem
 
 
 
-test:-
+shakespeare_csv:-
   absolute_file_name(project(shakespeare), File, [access(read), file_type(csv)]),
   csv_read_file(File, Rows, [match_arity(false)]),
   flag(csv_row, _OldID, 1),
@@ -33,4 +36,6 @@ test:-
       format(user_output, '~w: ~w\n', [ID, Row])
     )
   ).
-:- test.
+
+test_dbnl:-
+  thread_create(dbnl_scrape('Alle titels', 'alfabetisch op auteur'), _ID, []).
