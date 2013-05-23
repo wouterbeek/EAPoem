@@ -42,8 +42,9 @@ def strip_tags(text):
 				line = line.replace(tag, "")
 				if "<br />" in line:
 					line = line.replace("<br />", "\n")
-	return line		
+	return line
 	
+
 
 def databaseFunction(poem, author, style):
 	"""
