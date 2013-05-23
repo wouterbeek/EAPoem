@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>115</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Those lines that I before have writ do lie,</line>
+      <line>Even those that said I could not love you dearer,</line>
+      <line>Yet then my judgment knew no reason why,</line>
+      <line>My most full flame should afterwards burn clearer,</line>
+      <line>But reckoning time, whose millioned accidents</line>
+      <line>Creep in 'twixt vows, and change decrees of kings,</line>
+      <line>Tan sacred beauty, blunt the sharp'st intents,</line>
+      <line>Divert strong minds to the course of alt'ring things:</line>
+      <line>Alas why fearing of time's tyranny,</line>
+      <line>Might I not then say 'Now I love you best,'</line>
+      <line>When I was certain o'er incertainty,</line>
+      <line>Crowning the present, doubting of the rest?</line>
+      <line>Love is a babe, then might I not say so</line>
+      <line>To give full growth to that which still doth grow.</line>
+    </stanza>
+  </pbody>
+</poem>
