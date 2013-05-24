@@ -3,6 +3,7 @@ New version of the crawler
 This creates for every poem from the site a single XML file
 
 Author: Eszter Fodor
+Version: 05/2013
 """
 
 import sys
