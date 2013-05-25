@@ -37,7 +37,8 @@ def getRhymes(loaded,out):
 		else:
 			# Get word and phonetics
 			(word, phon) = line.split('\\')
-			phonSplit = phon.split('-')
+			phonNew = phon.replace("'", "")
+			phonSplit = phonNew.split('-')
 			phonReverse = phonSplit[::-1]
 			# Add word and last part of phonetics to dictionary
 			lines.update({word:phonReverse[0]})
@@ -71,7 +72,7 @@ def main(args):
 	getRhymes(load,out)
 	
 	end = time.time()-begin
-	rint 'Time taken: %d min and %d sec' % (end/60, end%60)
+	print 'Time taken: %d min and %d sec' % (end/60, end%60)
 	
 	
 	
