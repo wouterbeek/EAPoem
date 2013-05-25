@@ -8,7 +8,8 @@
 
 Edgar Allan Poem
 
-@author Eszter Fodor, Wouter Beek
+@author Eszter Fodor
+@author Wouter Beek
 @version 2013/05
 */
 
