@@ -41,6 +41,7 @@ shakespeare_csv:-
 
 test_dbnl:-
   thread_create(dbnl_scrape('Alle titels', 'alfabetisch op auteur'), _ID, []).
+:- test_dbnl.
 
 % Double metaphone.
 test_double_metaphone:-
