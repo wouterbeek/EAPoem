@@ -1,6 +1,9 @@
 :- module(
   eapoem,
   [
+    shakespeare_csv/0,
+    test_dbnl/0,
+    test_double_metaphone/0
   ]
 ).
 
@@ -13,6 +16,7 @@ Edgar Allan Poem
 @version 2013/05
 */
 
+:- use_module(datasets(dbnl)).
 :- use_module(generics(db_ext)).
 :- use_module(library(csv)).
 :- use_module(library(double_metaphone)).
@@ -23,13 +27,8 @@ Edgar Allan Poem
 
 
 
-test:-
-  % Shakespeare CSV.
-  absolute_file_name(
-    project(shakespeare),
-    File,
-    [access(read), file_type(csv)]
-  ),
+shakespeare_csv:-
+  absolute_file_name(project(shakespeare), File, [access(read), file_type(csv)]),
   csv_read_file(File, Rows, [match_arity(false)]),
   flag(csv_row, _OldID, 1),
   forall(
@@ -38,11 +37,14 @@ test:-
       flag(csv_row, ID, ID + 1),
       format(user_output, '~w: ~w\n', [ID, Row])
     )
-  ),
-  
-  % Double metaphone.
+  ).
+
+test_dbnl:-
+  thread_create(dbnl_scrape('Alle titels', 'alfabetisch op auteur'), _ID, []).
+:- test_dbnl.
+
+% Double metaphone.
+test_double_metaphone:-
   Word = 'voorbeeld',
   double_metaphone(Word, Phones),
   format(user_output, 'Word:\t~w\nPhones:\t~w\n', [Word, Phones]).
-:- test.
-

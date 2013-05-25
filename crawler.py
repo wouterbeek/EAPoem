@@ -1,6 +1,5 @@
 """
-This will eventually be a webcrawler to get poems from the web
-At this point this is only a minimalistic crawler since this will be my first crawler
+Crawler to get the sonnets of Shakespeare from the web
 
 Author: Eszter Fodor
 """
@@ -42,8 +41,9 @@ def strip_tags(text):
 				line = line.replace(tag, "")
 				if "<br />" in line:
 					line = line.replace("<br />", "\n")
-	return line		
+	return line
 	
+
 
 def databaseFunction(poem, author, style):
 	"""
@@ -75,6 +75,7 @@ def main():
 		htmlNew = newLink.read()
 		poems = getPoem(htmlNew)
 		databaseFunction(poems, "William Shakespeare", "sonnet")
+	site.close()
 
 if __name__ == '__main__': main()
 
