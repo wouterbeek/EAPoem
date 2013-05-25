@@ -103,5 +103,7 @@ def main():
 			fileName = str(i) + '.xml'
 			f = open(os.path.join("/media/DATA/AI/EAPoem/Data/Sonnets/", fileName), 'w')
 		f.write(xml)
+		
+	site.close()
 
 if __name__ == '__main__': main()

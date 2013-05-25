@@ -1,6 +1,5 @@
 """
-This will eventually be a webcrawler to get poems from the web
-At this point this is only a minimalistic crawler since this will be my first crawler
+Crawler to get the sonnets of Shakespeare from the web
 
 Author: Eszter Fodor
 """
@@ -76,6 +75,7 @@ def main():
 		htmlNew = newLink.read()
 		poems = getPoem(htmlNew)
 		databaseFunction(poems, "William Shakespeare", "sonnet")
+	site.close()
 
 if __name__ == '__main__': main()
 
