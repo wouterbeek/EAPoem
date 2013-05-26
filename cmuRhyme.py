@@ -1,7 +1,10 @@
 """
-Program to create a rhyme dictionary
+Program to create a rhyme dictionary from CMU dictionary
+Adapted version of rhyme.py
 
-To run: $ python rhyme.python english_phonetics.py dictionary.txt
+To run: $ python cmuRhyme.py cmudict.txt cmuRhymes.txt
+
+!!! NOTE: Doesn't return a usable dictionary
 
 Author: Eszter Fodor
 Version: 05/2013
@@ -14,11 +17,11 @@ import itertools
 import time
 
 
-def loadFile(english, output):
+def loadFile(cmu, output):
 	"""
 	Read the file and split between the words and their phonetics
 	"""
-	phonetics = open(english, 'r')
+	phonetics = open(cmu, 'r')
 	out = open(output, 'w')
 	buffer = phonetics.read().split('\n')
 	return (buffer, out)
@@ -36,12 +39,12 @@ def getRhymes(loaded,out):
 			break
 		else:
 			# Get word and phonetics
-			(word, phon) = line.split('\\')
-			phonNew = phon.replace("'", "")
-			phonSplit = phonNew.split('-')
+			(word, phon) = line.split('  ')
+			phonSplit = phon.split(' ')
 			phonReverse = phonSplit[::-1]
 			# Add word and last part of phonetics to dictionary
-			lines.update({word:phonReverse[0]})
+			lines.update({word:(phonReverse[1] + phonReverse[0])})
+	print lines
 	# For every word in dictionary
 	for key in lines.keys():
 		rhyme = []
