@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>148 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O me what eyes hath love put in my (a)head(/a)</line>
+      <line>Which have no correspondence with true (b)sight(/b)</line>
+      <line>Or if they have where is my judgment (a)fled(/a)</line>
+      <line>That censures falsely what they see (b)aright(/b)</line>
+      <line>If that be fair whereon my false eyes (c)dote(/c)</line>
+      <line>What means the world to say it is not (d)so(/d)</line>
+      <line>If it be not then love doth well (c)denote(/c)</line>
+      <line>Love's eye is not so true as all men's (d)no(/d)</line>
+      <line>How can it O how can love's eye be (e)true(/e)</line>
+      <line>That is so vexed with watching and with (f)tears(/f)</line>
+      <line>No marvel then though I mistake my (e)view(/e)</line>
+      <line>The sun it self sees not till heaven (f)clears(/f)</line>
+      <line>O cunning love with tears thou keep'st me (g)blind(/g)</line>
+      <line>Lest eyes well-seeing thy foul faults should (g)find(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

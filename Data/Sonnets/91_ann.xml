@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>91 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Some glory in their birth some in their (a)skill(/a)</line>
+      <line>Some in their wealth some in their body's (b)force(/b)</line>
+      <line>Some in their garments though new-fangled (a)ill(/a)</line>
+      <line>Some in their hawks and hounds some in their (b)horse(/b)</line>
+      <line>And every humour hath his adjunct (c)pleasure(/c)</line>
+      <line>Wherein it finds a joy above the (d)rest(/d)</line>
+      <line>But these particulars are not my (c)measure(/c)</line>
+      <line>All these I better in one general (d)best(/d)</line>
+      <line>Thy love is better than high birth to (e)me(/e)</line>
+      <line>Richer than wealth prouder than garments' (f)costs(/f)</line>
+      <line>Of more delight than hawks and horses (e)be(/e)</line>
+      <line>And having thee of all men's pride I (f)boast(/f)</line>
+      <line>Wretched in this alone that thou mayst (g)take(/g)</line>
+      <line>All this away and me most wretchcd (g)make(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

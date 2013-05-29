@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>86 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Was it the proud full sail of his great (a)verse(/a)</line>
+      <line>Bound for the prize of (all too precious) (b)you(/b)</line>
+      <line>That did my ripe thoughts in my brain (a)inhearse(/a)</line>
+      <line>Making their tomb the womb wherein they (b)grew(/b)</line>
+      <line>Was it his spirit by spirits taught to (c)write(/c)</line>
+      <line>Above a mortal pitch that struck me (d)dead(/d)</line>
+      <line>No neither he nor his compeers by (c)night(/c)</line>
+      <line>Giving him aid my verse (d)astonished(/d)</line>
+      <line>He nor that affable familiar (e)ghost(/e)</line>
+      <line>Which nightly gulls him with (f)intelligence(/f)</line>
+      <line>As victors of my silence cannot (e)boast(/e)</line>
+      <line>I was not sick of any fear from (f)thence(/f)</line>
+      <line>But when your countenance filled up his (g)line(/g)</line>
+      <line>Then lacked I matter that enfeebled (g)mine(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

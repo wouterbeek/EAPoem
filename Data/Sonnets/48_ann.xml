@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>48 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>How careful was I when I took my (a)way(/a)</line>
+      <line>Each trifle under truest bars to (b)thrust(/b)</line>
+      <line>That to my use it might unused (a)stay(/a)</line>
+      <line>From hands of falsehood in sure wards of (b)trust(/b)</line>
+      <line>But thou to whom my jewels trifles (c)are(/c)</line>
+      <line>Most worthy comfort now my greatest (d)grief(/d)</line>
+      <line>Thou best of dearest and mine only (c)care(/c)</line>
+      <line>Art left the prey of every vulgar (d)thief(/d)</line>
+      <line>Thee have I not locked up in any (e)chest(/e)</line>
+      <line>Save where thou art not though I feel thou (f)art(/f)</line>
+      <line>Within the gentle closure of my (e)breast(/e)</line>
+      <line>From whence at pleasure thou mayst come and (f)part(/f)</line>
+      <line>And even thence thou wilt be stol'n I (g)fear(/g)</line>
+      <line>For truth proves thievish for a prize so (g)dear(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

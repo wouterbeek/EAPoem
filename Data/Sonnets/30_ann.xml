@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>30 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When to the sessions of sweet silent (a)thought(/a)</line>
+      <line>I summon up remembrance of things (b)past(/b)</line>
+      <line>I sigh the lack of many a thing I (a)sought(/a)</line>
+      <line>And with old woes new wail my dear time's (b)waste(/b)</line>
+      <line>Then can I drown an eye (unused to (c)flow)(/c)</line>
+      <line>For precious friends hid in death's dateless (d)night(/d)</line>
+      <line>And weep afresh love's long since cancelled (c)woe(/c)</line>
+      <line>And moan th' expense of many a vanished (d)sight(/d)</line>
+      <line>Then can I grieve at grievances (e)foregone(/e)</line>
+      <line>And heavily from woe to woe tell (f)o'er(/f)</line>
+      <line>The sad account of fore-bemoaned (e)moan(/e)</line>
+      <line>Which I new pay as if not paid (f)before(/f)</line>
+      <line>But if the while I think on thee (dear (g)friend)(/g)</line>
+      <line>All losses are restored and sorrows (g)end(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

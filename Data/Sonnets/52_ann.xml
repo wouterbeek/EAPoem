@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>52 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So am I as the rich whose blessed (a)key(/a)</line>
+      <line>Can bring him to his sweet up-locked (b)treasure(/b)</line>
+      <line>The which he will not every hour (a)survey(/a)</line>
+      <line>For blunting the fine point of seldom (b)pleasure(/b)</line>
+      <line>Therefore are feasts so solemn and so (c)rare(/c)</line>
+      <line>Since seldom coming in that long year (d)set(/d)</line>
+      <line>Like stones of worth they thinly placed (c)are(/c)</line>
+      <line>Or captain jewels in the (d)carcanet(/d)</line>
+      <line>So is the time that keeps you as my (e)chest(/e)</line>
+      <line>Or as the wardrobe which the robe doth (f)hide(/f)</line>
+      <line>To make some special instant (e)special-blest(/e)</line>
+      <line>By new unfolding his imprisoned (f)pride(/f)</line>
+      <line>Blessed are you whose worthiness gives (g)scope(/g)</line>
+      <line>Being had to triumph being lacked to (g)hope(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

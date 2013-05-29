@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>58 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>That god forbid that made me first your (a)slave(/a)</line>
+      <line>I should in thought control your times of (b)pleasure(/b)</line>
+      <line>Or at your hand th' account of hours to (a)crave(/a)</line>
+      <line>Being your vassal bound to stay your (b)leisure(/b)</line>
+      <line>O let me suffer (being at your (c)beck)(/c)</line>
+      <line>Th' imprisoned absence of your (d)liberty(/d)</line>
+      <line>And patience tame to sufferance bide each (c)check(/c)</line>
+      <line>Without accusing you of (d)injury(/d)</line>
+      <line>Be where you list your charter is so (e)strong(/e)</line>
+      <line>That you your self may privilage your (f)time(/f)</line>
+      <line>To what you will to you it doth (e)belong(/e)</line>
+      <line>Your self to pardon of self-doing (f)crime(/f)</line>
+      <line>I am to wait though waiting so be (g)hell(/g)</line>
+      <line>Not blame your pleasure be it ill or (g)well(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

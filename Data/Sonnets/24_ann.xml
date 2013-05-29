@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>24 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Mine eye hath played the painter and hath (a)stelled(/a)</line>
+      <line>Thy beauty's form in table of my (b)heart(/b)</line>
+      <line>My body is the frame wherein 'tis (a)held(/a)</line>
+      <line>And perspective it is best painter's (b)art(/b)</line>
+      <line>For through the painter must you see his (c)skill(/c)</line>
+      <line>To find where your true image pictured (d)lies(/d)</line>
+      <line>Which in my bosom's shop is hanging (c)still(/c)</line>
+      <line>That hath his windows glazed with thine (d)eyes(/d)</line>
+      <line>Now see what good turns eyes for eyes have (e)done(/e)</line>
+      <line>Mine eyes have drawn thy shape and thine for (f)me(/f)</line>
+      <line>Are windows to my breast where-through the (e)sun(/e)</line>
+      <line>Delights to peep to gaze therein on (f)thee(/f)</line>
+      <line>Yet eyes this cunning want to grace their (g)art(/g)</line>
+      <line>They draw but what they see know not the (g)heart(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

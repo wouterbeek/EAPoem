@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>131 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Thou art as tyrannous so as thou (a)art(/a)</line>
+      <line>As those whose beauties proudly make them (b)cruel(/b)</line>
+      <line>For well thou know'st to my dear doting (a)heart(/a)</line>
+      <line>Thou art the fairest and most precious (b)jewel(/b)</line>
+      <line>Yet in good faith some say that thee (c)behold(/c)</line>
+      <line>Thy face hath not the power to make love (d)groan(/d)</line>
+      <line>To say they err I dare not be so (c)bold(/c)</line>
+      <line>Although I swear it to my self (d)alone(/d)</line>
+      <line>And to be sure that is not false I (e)swear(/e)</line>
+      <line>A thousand groans but thinking on thy (f)face(/f)</line>
+      <line>One on another's neck do witness (e)bear(/e)</line>
+      <line>Thy black is fairest in my judgment's (f)place(/f)</line>
+      <line>In nothing art thou black save in thy (g)deeds(/g)</line>
+      <line>And thence this slander as I think (g)proceeds(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>78 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So oft have I invoked thee for my (a)muse(/a)</line>
+      <line>And found such fair assistance in my (b)verse(/b)</line>
+      <line>As every alien pen hath got my (a)use(/a)</line>
+      <line>And under thee their poesy (b)disperse(/b)</line>
+      <line>Thine eyes that taught the dumb on high to (c)sing(/c)</line>
+      <line>And heavy ignorance aloft to (d)fly(/d)</line>
+      <line>Have added feathers to the learned's (c)wing(/c)</line>
+      <line>And given grace a double (d)majesty(/d)</line>
+      <line>Yet be most proud of that which I (e)compile(/e)</line>
+      <line>Whose influence is thine and born of (f)thee(/f)</line>
+      <line>In others' works thou dost but mend the (e)style(/e)</line>
+      <line>And arts with thy sweet graces graced (f)be(/f)</line>
+      <line>But thou art all my art and dost (g)advance(/g)</line>
+      <line>As high as learning my rude (g)ignorance(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>39 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O how thy worth with manners may I (a)sing(/a)</line>
+      <line>When thou art all the better part of (b)me(/b)</line>
+      <line>What can mine own praise to mine own self (a)bring(/a)</line>
+      <line>And what is't but mine own when I praise (b)thee(/b)</line>
+      <line>Even for this let us divided (c)live(/c)</line>
+      <line>And our dear love lose name of single (d)one(/d)</line>
+      <line>That by this separation I may (c)give(/c)</line>
+      <line>That due to thee which thou deserv'st (d)alone(/d)</line>
+      <line>O absence what a torment wouldst thou (e)prove(/e)</line>
+      <line>Were it not thy sour leisure gave sweet (f)leave(/f)</line>
+      <line>To entertain the time with thoughts of (e)love(/e)</line>
+      <line>Which time and thoughts so sweetly doth (f)deceive(/f)</line>
+      <line>And that thou teachest how to make one (g)twain(/g)</line>
+      <line>By praising him here who doth hence (g)remain(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

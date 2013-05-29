@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>11 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>As fast as thou shalt wane so fast thou (a)grow'st(/a)</line>
+      <line>In one of thine from that which thou (b)departest(/b)</line>
+      <line>And that fresh blood which youngly thou (a)bestow'st(/a)</line>
+      <line>Thou mayst call thine when thou from youth (b)convertest(/b)</line>
+      <line>Herein lives wisdom beauty and (c)increase(/c)</line>
+      <line>Without this folly age and cold (d)decay(/d)</line>
+      <line>If all were minded so the times should (c)cease(/c)</line>
+      <line>And threescore year would make the world (d)away(/d)</line>
+      <line>Let those whom nature hath not made for (e)store(/e)</line>
+      <line>Harsh featureless and rude barrenly (f)perish(/f)</line>
+      <line>Look whom she best endowed she gave thee (e)more(/e)</line>
+      <line>Which bounteous gift thou shouldst in bounty (f)cherish(/f)</line>
+      <line>She carved thee for her seal and meant (g)thereby(/g)</line>
+      <line>Thou shouldst print more not let that copy (g)die(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

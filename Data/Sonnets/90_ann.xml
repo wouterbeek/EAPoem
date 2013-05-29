@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>90 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Then hate me when thou wilt if ever (a)now(/a)</line>
+      <line>Now while the world is bent my deeds to (b)cross(/b)</line>
+      <line>join with the spite of fortune make me (a)bow(/a)</line>
+      <line>And do not drop in for an (b)after-loss(/b)</line>
+      <line>Ah do not when my heart hath 'scaped this (c)sorrow(/c)</line>
+      <line>Come in the rearward of a conquered (d)woe(/d)</line>
+      <line>Give not a windy night a rainy (c)morrow(/c)</line>
+      <line>To linger out a purposed (d)overthrow(/d)</line>
+      <line>If thou wilt leave me do not leave me (e)last(/e)</line>
+      <line>When other petty griefs have done their (f)spite(/f)</line>
+      <line>But in the onset come so shall I (e)taste(/e)</line>
+      <line>At first the very worst of fortune's (f)might(/f)</line>
+      <line>And other strains of woe which now seem (g)woe(/g)</line>
+      <line>Compared with loss of thee will not seem (g)so(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

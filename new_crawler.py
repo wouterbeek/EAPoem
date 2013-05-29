@@ -21,7 +21,7 @@ from xml.dom import minidom
 """
 Tags to replace in texts
 """
-reps = ["<td>", "\t", "\r", "</td>"]
+reps = ["<td>", "\t", "\r", "</td>",',', ':', ';', '.', '?', '!']
 
 
 def getPoem(html):

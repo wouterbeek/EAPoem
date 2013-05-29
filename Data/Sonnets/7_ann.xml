@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>7 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Lo in the orient when the gracious (a)light(/a)</line>
+      <line>Lifts up his burning head each under (b)eye(/b)</line>
+      <line>Doth homage to his new-appearing (a)sight(/a)</line>
+      <line>Serving with looks his sacred (b)majesty(/b)</line>
+      <line>And having climbed the steep-up heavenly (c)hill(/c)</line>
+      <line>Resembling strong youth in his middle (d)age(/d)</line>
+      <line>Yet mortal looks adore his beauty (c)still(/c)</line>
+      <line>Attending on his golden (d)pilgrimage(/d)</line>
+      <line>But when from highmost pitch with weary (e)car(/e)</line>
+      <line>Like feeble age he reeleth from the (f)day(/f)</line>
+      <line>The eyes (fore duteous) now converted (e)are(/e)</line>
+      <line>From his low tract and look another (f)way(/f)</line>
+      <line>So thou thy self out-going in thy (g)noon(/g)</line>
+      <line>Unlooked on diest unless thou get a (g)son(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>127 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>In the old age black was not counted (a)fair(/a)</line>
+      <line>Or if it were it bore not beauty's (b)name(/b)</line>
+      <line>But now is black beauty's successive (a)heir(/a)</line>
+      <line>And beauty slandered with a bastard (b)shame(/b)</line>
+      <line>For since each hand hath put on nature's (c)power(/c)</line>
+      <line>Fairing the foul with art's false borrowed (d)face(/d)</line>
+      <line>Sweet beauty hath no name no holy (c)bower(/c)</line>
+      <line>But is profaned if not lives in (d)disgrace(/d)</line>
+      <line>Therefore my mistress' eyes are raven (e)black(/e)</line>
+      <line>Her eyes so suited and they mourners (f)seem(/f)</line>
+      <line>At such who not born fair no beauty (e)lack(/e)</line>
+      <line>Slandering creation with a false (f)esteem(/f)</line>
+      <line>Yet so they mourn becoming of their (g)woe(/g)</line>
+      <line>That every tongue says beauty should look (g)so(/g)</line>
+    </stanza>
+  </pbody>
+</poem>
