@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>31 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Thy bosom is endeared with all (a)hearts(/a)</line>
+      <line>Which I by lacking have supposed (b)dead(/b)</line>
+      <line>And there reigns love and all love's loving (a)parts(/a)</line>
+      <line>And all those friends which I thought (b)buried(/b)</line>
+      <line>How many a holy and obsequious (c)tear(/c)</line>
+      <line>Hath dear religious love stol'n from mine (d)eye(/d)</line>
+      <line>As interest of the dead which now (c)appear(/c)</line>
+      <line>But things removed that hidden in thee (d)lie(/d)</line>
+      <line>Thou art the grave where buried love doth (e)live(/e)</line>
+      <line>Hung with the trophies of my lovers (f)gone(/f)</line>
+      <line>Who all their parts of me to thee did (e)give(/e)</line>
+      <line>That due of many now is thine (f)alone(/f)</line>
+      <line>Their images I loved I view in (g)thee(/g)</line>
+      <line>And thou (all they) hast all the all of (g)me(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

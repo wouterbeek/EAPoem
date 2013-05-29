@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>32 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>If thou survive my well-contented (a)day(/a)</line>
+      <line>When that churl death my bones with dust shall (b)cover(/b)</line>
+      <line>And shalt by fortune once more (a)re-survey(/a)</line>
+      <line>These poor rude lines of thy deceased (b)lover(/b)</line>
+      <line>Compare them with the bett'ring of the (c)time(/c)</line>
+      <line>And though they be outstripped by every (d)pen(/d)</line>
+      <line>Reserve them for my love not for their (c)rhyme(/c)</line>
+      <line>Exceeded by the height of happier (d)men(/d)</line>
+      <line>O then vouchsafe me but this loving (e)thought(/e)</line>
+      <line>'Had my friend's Muse grown with this growing (f)age(/f)</line>
+      <line>A dearer birth than this his love had (e)brought(/e)</line>
+      <line>To march in ranks of better (f)equipage(/f)</line>
+      <line>But since he died and poets better (g)prove(/g)</line>
+      <line>Theirs for their style I'll read his for his (g)love'(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

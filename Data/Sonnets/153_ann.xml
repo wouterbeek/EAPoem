@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>153 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Cupid laid by his brand and fell (a)asleep(/a)</line>
+      <line>A maid of Dian's this advantage (b)found(/b)</line>
+      <line>And his love-kindling fire did quickly (a)steep(/a)</line>
+      <line>In a cold valley-fountain of that (b)ground(/b)</line>
+      <line>Which borrowed from this holy fire of (c)Love(/c)</line>
+      <line>A dateless lively heat still to (d)endure(/d)</line>
+      <line>And grew a seeting bath which yet men (c)prove(/c)</line>
+      <line>Against strange maladies a sovereign (d)cure(/d)</line>
+      <line>But at my mistress' eye Love's brand (e)new-fired(/e)</line>
+      <line>The boy for trial needs would touch my (f)breast(/f)</line>
+      <line>I sick withal the help of bath (e)desired(/e)</line>
+      <line>And thither hied a sad distempered (f)guest(/f)</line>
+      <line>But found no cure the bath for my help (g)lies(/g)</line>
+      <line>Where Cupid got new fire my mistress' (g)eyes(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

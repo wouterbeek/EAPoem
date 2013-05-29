@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>152 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>In loving thee thou know'st I am (a)forsworn(/a)</line>
+      <line>But thou art twice forsworn to me love (b)swearing(/b)</line>
+      <line>In act thy bed-vow broke and new faith (a)torn(/a)</line>
+      <line>In vowing new hate after new love (b)bearing(/b)</line>
+      <line>But why of two oaths' breach do I accuse (c)thee(/c)</line>
+      <line>When I break twenty I am perjured (d)most(/d)</line>
+      <line>For all my vows are oaths but to misuse (c)thee(/c)</line>
+      <line>And all my honest faith in thee is (d)lost(/d)</line>
+      <line>For I have sworn deep oaths of thy deep (e)kindness(/e)</line>
+      <line>Oaths of thy love thy truth thy (f)constancy(/f)</line>
+      <line>And to enlighten thee gave eyes to (e)blindness(/e)</line>
+      <line>Or made them swear against the thing they (f)see(/f)</line>
+      <line>For I have sworn thee fair more perjured (g)I(/g)</line>
+      <line>To swear against the truth so foul a (g)be(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

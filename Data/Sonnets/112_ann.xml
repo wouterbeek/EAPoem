@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>112 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Your love and pity doth th' impression (a)fill(/a)</line>
+      <line>Which vulgar scandal stamped upon my (b)brow(/b)</line>
+      <line>For what care I who calls me well or (a)ill(/a)</line>
+      <line>So you o'er-green my bad my good (b)allow(/b)</line>
+      <line>You are my all the world and I must (c)strive(/c)</line>
+      <line>To know my shames and praises from your (d)tongue(/d)</line>
+      <line>None else to me nor I to none (c)alive(/c)</line>
+      <line>That my steeled sense or changes right or (d)wrong(/d)</line>
+      <line>In so profound abysm I throw all (e)care(/e)</line>
+      <line>Of others' voices that my adder's (f)sense(/f)</line>
+      <line>To critic and to flatterer stopped (e)are(/e)</line>
+      <line>Mark how with my neglect I do (f)dispense(/f)</line>
+      <line>You are so strongly in my purpose (g)bred(/g)</line>
+      <line>That all the world besides methinks are (g)dead(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

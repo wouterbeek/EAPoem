@@ -43,8 +43,11 @@ def getRhymes(loaded,out):
 			phonSplit = phon.split(' ')
 			phonReverse = phonSplit[::-1]
 			# Add word and last part of phonetics to dictionary
-			lines.update({word:(phonReverse[1] + phonReverse[0])})
-	print lines
+			# TODO: look at primary stress and get the words after that
+			if len(phonReverse) == 1:
+				lines.update({word:phonReverse[0]})
+			else:
+				lines.update({word:(phonReverse[1] + phonReverse[0])})
 	# For every word in dictionary
 	for key in lines.keys():
 		rhyme = []

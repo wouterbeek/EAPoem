@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>149 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Canst thou O cruel say I love thee (a)not(/a)</line>
+      <line>When I against my self with thee (b)partake(/b)</line>
+      <line>Do I not think on thee when I (a)forgot(/a)</line>
+      <line>Am of my self all-tyrant for thy (b)sake(/b)</line>
+      <line>Who hateth thee that I do call my (c)friend(/c)</line>
+      <line>On whom frown'st thou that I do fawn (d)upon(/d)</line>
+      <line>Nay if thou lour'st on me do I not (c)spend(/c)</line>
+      <line>Revenge upon my self with present (d)moan(/d)</line>
+      <line>What merit do I in my self (e)respect(/e)</line>
+      <line>That is so proud thy service to (f)despise(/f)</line>
+      <line>When all my best doth worship thy (e)defect(/e)</line>
+      <line>Commanded by the motion of thine (f)eyes(/f)</line>
+      <line>But love hate on for now I know thy (g)mind(/g)</line>
+      <line>Those that can see thou lov'st and I am (g)blind(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

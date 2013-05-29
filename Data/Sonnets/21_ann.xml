@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>21 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So is it not with me as with that (a)muse(/a)</line>
+      <line>Stirred by a painted beauty to his (b)verse(/b)</line>
+      <line>Who heaven it self for ornament doth (a)use(/a)</line>
+      <line>And every fair with his fair doth (b)rehearse(/b)</line>
+      <line>Making a couplement of proud (c)compare(/c)</line>
+      <line>With sun and moon with earth and sea's rich (d)gems(/d)</line>
+      <line>With April's first-born flowers and all things (c)rare(/c)</line>
+      <line>That heaven's air in this huge rondure (d)hems(/d)</line>
+      <line>O let me true in love but truly (e)write(/e)</line>
+      <line>And then believe me my love is as (f)fair(/f)</line>
+      <line>As any mother's child though not so (e)bright(/e)</line>
+      <line>As those gold candles fixed in heaven's (f)air(/f)</line>
+      <line>Let them say more that like of hearsay (g)well(/g)</line>
+      <line>I will not praise that purpose not to (g)sell(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

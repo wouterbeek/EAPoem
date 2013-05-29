@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>28 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>How can I then return in happy (a)plight(/a)</line>
+      <line>That am debarred the benefit of (b)rest(/b)</line>
+      <line>When day's oppression is not eased by (a)night(/a)</line>
+      <line>But day by night and night by day (b)oppressed(/b)</line>
+      <line>And each (though enemies to either's (c)reign)(/c)</line>
+      <line>Do in consent shake hands to torture (d)me(/d)</line>
+      <line>The one by toil the other to (c)complain(/c)</line>
+      <line>How far I toil still farther off from (d)thee(/d)</line>
+      <line>I tell the day to please him thou art (e)bright(/e)</line>
+      <line>And dost him grace when clouds do blot the (f)heaven(/f)</line>
+      <line>So flatter I the swart-complexioned (e)night(/e)</line>
+      <line>When sparkling stars twire not thou gild'st the (f)even(/f)</line>
+      <line>But day doth daily draw my sorrows (g)longer(/g)</line>
+      <line>And night doth nightly make grief's length seem (g)stronger(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

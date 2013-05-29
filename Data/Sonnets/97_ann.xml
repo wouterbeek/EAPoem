@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>97 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>How like a winter hath my absence (a)been(/a)</line>
+      <line>From thee the pleasure of the fleeting (b)year(/b)</line>
+      <line>What freezings have I felt what dark days (a)seen(/a)</line>
+      <line>What old December's bareness (b)everywhere(/b)</line>
+      <line>And yet this time removed was summer's (c)time(/c)</line>
+      <line>The teeming autumn big with rich (d)increase(/d)</line>
+      <line>Bearing the wanton burden of the (c)prime(/c)</line>
+      <line>Like widowed wombs after their lords' (d)decease(/d)</line>
+      <line>Yet this abundant issue seemed to (e)me(/e)</line>
+      <line>But hope of orphans and unfathered (f)fruit(/f)</line>
+      <line>For summer and his pleasures wait on (e)thee(/e)</line>
+      <line>And thou away the very birds are (f)mute(/f)</line>
+      <line>Or if they sing 'tis with so dull a (g)cheer(/g)</line>
+      <line>That leaves look pale dreading the winter's (g)near(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

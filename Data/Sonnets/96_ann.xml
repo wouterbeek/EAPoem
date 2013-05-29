@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>96 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Some say thy fault is youth some (a)wantonness(/a)</line>
+      <line>Some say thy grace is youth and gentle (b)sport(/b)</line>
+      <line>Both grace and faults are loved of more and (a)less(/a)</line>
+      <line>Thou mak'st faults graces that to thee (b)resort(/b)</line>
+      <line>As on the finger of a throned (c)queen(/c)</line>
+      <line>The basest jewel will be well (d)esteemed(/d)</line>
+      <line>So are those errors that in thee are (c)seen(/c)</line>
+      <line>To truths translated and for true things (d)deemed(/d)</line>
+      <line>How many lambs might the stern wolf (e)betray(/e)</line>
+      <line>If like a lamb he could his looks (f)translate(/f)</line>
+      <line>How many gazers mightst thou lead (e)away(/e)</line>
+      <line>if thou wouldst use the strength of all thy (f)state(/f)</line>
+      <line>But do not so I love thee in such (g)sort(/g)</line>
+      <line>As thou being mine mine is thy good (g)report(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

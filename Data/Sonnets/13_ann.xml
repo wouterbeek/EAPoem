@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>13 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O that you were your self but love you (a)are(/a)</line>
+      <line>No longer yours than you your self here (b)live(/b)</line>
+      <line>Against this coming end you should (a)prepare(/a)</line>
+      <line>And your sweet semblance to some other (b)give(/b)</line>
+      <line>So should that beauty which you hold in (c)lease(/c)</line>
+      <line>Find no determination then you (d)were(/d)</line>
+      <line>Your self again after your self's (c)decease(/c)</line>
+      <line>When your sweet issue your sweet form should (d)bear(/d)</line>
+      <line>Who lets so fair a house fall to (e)decay(/e)</line>
+      <line>Which husbandry in honour might (f)uphold(/f)</line>
+      <line>Against the stormy gusts of winter's (e)day(/e)</line>
+      <line>And barren rage of death's eternal (f)cold(/f)</line>
+      <line>O none but unthrifts dear my love you (g)know(/g)</line>
+      <line>You had a father let your son say (g)so(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

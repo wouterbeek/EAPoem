@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>42 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>That thou hast her it is not all my (a)grief(/a)</line>
+      <line>And yet it may be said I loved her (b)dearly(/b)</line>
+      <line>That she hath thee is of my wailing (a)chief(/a)</line>
+      <line>A loss in love that touches me more (b)nearly(/b)</line>
+      <line>Loving offenders thus I will excuse (c)ye(/c)</line>
+      <line>Thou dost love her because thou know'st I love (d)her(/d)</line>
+      <line>And for my sake even so doth she abuse (c)me(/c)</line>
+      <line>Suff'ring my friend for my sake to approve (d)her(/d)</line>
+      <line>If I lose thee my loss is my love's (e)gain(/e)</line>
+      <line>And losing her my friend hath found that (f)loss(/f)</line>
+      <line>Both find each other and I lose both (e)twain(/e)</line>
+      <line>And both for my sake lay on me this (f)cross(/f)</line>
+      <line>But here's the joy my friend and I are (g)one(/g)</line>
+      <line>Sweet flattery then she loves but me (g)alone(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

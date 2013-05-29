@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>117 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Accuse me thus that I have scanted (a)all(/a)</line>
+      <line>Wherein I should your great deserts (b)repay(/b)</line>
+      <line>Forgot upon your dearest love to (a)call(/a)</line>
+      <line>Whereto all bonds do tie me day by (b)day(/b)</line>
+      <line>That I have frequent been with unknown (c)minds(/c)</line>
+      <line>And given to time your own dear-purchased (d)right(/d)</line>
+      <line>That I have hoisted sail to all the (c)winds(/c)</line>
+      <line>Which should transport me farthest from your (d)sight(/d)</line>
+      <line>Book both my wilfulness and errors (e)down(/e)</line>
+      <line>And on just proof surmise (f)accumulate(/f)</line>
+      <line>Bring me within the level of your (e)frown(/e)</line>
+      <line>But shoot not at me in your wakened (f)hate(/f)</line>
+      <line>Since my appeal says I did strive to (g)prove(/g)</line>
+      <line>The constancy and virtue of your (g)love(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

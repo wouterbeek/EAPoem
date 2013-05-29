@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>150 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O from what power hast thou this powerful (a)might(/a)</line>
+      <line>With insufficiency my heart to (b)sway(/b)</line>
+      <line>To make me give the lie to my true (a)sight(/a)</line>
+      <line>And swear that brightness doth not grace the (b)day(/b)</line>
+      <line>Whence hast thou this becoming of things (c)ill(/c)</line>
+      <line>That in the very refuse of thy (d)deeds(/d)</line>
+      <line>There is such strength and warrantise of (c)skill(/c)</line>
+      <line>That in my mind thy worst all best (d)exceeds(/d)</line>
+      <line>Who taught thee how to make me love thee (e)more(/e)</line>
+      <line>The more I hear and see just cause of (f)hate(/f)</line>
+      <line>O though I love what others do (e)abhor(/e)</line>
+      <line>With others thou shouldst not abhor my (f)state(/f)</line>
+      <line>If thy unworthiness raised love in (g)me(/g)</line>
+      <line>More worthy I to be beloved of (g)thee(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

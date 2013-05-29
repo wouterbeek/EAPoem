@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>35 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>No more be grieved at that which thou hast (a)done(/a)</line>
+      <line>Roses have thorns and silver fountains (b)mud(/b)</line>
+      <line>Clouds and eclipses stain both moon and (a)sun(/a)</line>
+      <line>And loathsome canker lives in sweetest (b)bud(/b)</line>
+      <line>All men make faults and even I in (c)this(/c)</line>
+      <line>Authorizing thy trespass with (d)compare(/d)</line>
+      <line>My self corrupting salving thy (c)amiss(/c)</line>
+      <line>Excusing thy sins more than thy sins (d)are(/d)</line>
+      <line>For to thy sensual fault I bring in (e)sense(/e)</line>
+      <line>Thy adverse party is thy (f)advocate(/f)</line>
+      <line>And 'gainst my self a lawful plea (e)commence(/e)</line>
+      <line>Such civil war is in my love and (f)hate(/f)</line>
+      <line>That I an accessary needs must (g)be(/g)</line>
+      <line>To that sweet thief which sourly robs from (g)me(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

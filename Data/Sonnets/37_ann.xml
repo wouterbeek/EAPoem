@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>37 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>As a decrepit father takes (a)delight(/a)</line>
+      <line>To see his active child do deeds of (b)youth(/b)</line>
+      <line>So I made lame by Fortune's dearest (a)spite(/a)</line>
+      <line>Take all my comfort of thy worth and (b)truth(/b)</line>
+      <line>For whether beauty birth or wealth or (c)wit(/c)</line>
+      <line>Or any of these all or all or (d)more(/d)</line>
+      <line>Entitled in thy parts do crowned (c)sit(/c)</line>
+      <line>I make my love engrafted to this (d)store(/d)</line>
+      <line>So then I am not lame poor nor (e)despised(/e)</line>
+      <line>Whilst that this shadow doth such substance (f)give(/f)</line>
+      <line>That I in thy abundance am (e)sufficed(/e)</line>
+      <line>And by a part of all thy glory (f)live(/f)</line>
+      <line>Look what is best that best I wish in (g)thee(/g)</line>
+      <line>This wish I have then ten times happy (g)me(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

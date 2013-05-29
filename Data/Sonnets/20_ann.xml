@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>20 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>A woman's face with nature's own hand (a)painted(/a)</line>
+      <line>Hast thou the master mistress of my (b)passion(/b)</line>
+      <line>A woman's gentle heart but not (a)acquainted(/a)</line>
+      <line>With shifting change as is false women's (b)fashion(/b)</line>
+      <line>An eye more bright than theirs less false in (c)rolling(/c)</line>
+      <line>Gilding the object whereupon it (d)gazeth(/d)</line>
+      <line>A man in hue all hues in his (c)controlling(/c)</line>
+      <line>Which steals men's eyes and women's souls (d)amazeth(/d)</line>
+      <line>And for a woman wert thou first (e)created(/e)</line>
+      <line>Till nature as she wrought thee fell (f)a-doting(/f)</line>
+      <line>And by addition me of thee (e)defeated(/e)</line>
+      <line>By adding one thing to my purpose (f)nothing(/f)</line>
+      <line>But since she pricked thee out for women's (g)pleasure(/g)</line>
+      <line>Mine be thy love and thy love's use their (g)treasure(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

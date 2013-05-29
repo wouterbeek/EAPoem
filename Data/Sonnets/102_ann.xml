@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>102 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>My love is strengthened though more weak in (a)seeming(/a)</line>
+      <line>I love not less though less the show (b)appear(/b)</line>
+      <line>That love is merchandized whose rich (a)esteeming(/a)</line>
+      <line>The owner's tongue doth publish every (b)where(/b)</line>
+      <line>Our love was new and then but in the (c)spring(/c)</line>
+      <line>When I was wont to greet it with my (d)lays(/d)</line>
+      <line>As Philomel in summer's front doth (c)sing(/c)</line>
+      <line>And stops her pipe in growth of riper (d)days(/d)</line>
+      <line>Not that the summer is less pleasant (e)now(/e)</line>
+      <line>Than when her mournful hymns did hush the (f)night(/f)</line>
+      <line>But that wild music burthens every (e)bough(/e)</line>
+      <line>And sweets grown common lose their dear (f)delight(/f)</line>
+      <line>Therefore like her I sometime hold my (g)tongue(/g)</line>
+      <line>Because I would not dull you with my (g)song(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

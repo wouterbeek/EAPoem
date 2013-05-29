@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>84 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Who is it that says most which can say (a)more(/a)</line>
+      <line>Than this rich praise that you alone are (b)you(/b)</line>
+      <line>In whose confine immured is the (a)store(/a)</line>
+      <line>Which should example where your equal (b)grew(/b)</line>
+      <line>Lean penury within that pen doth (c)dwell(/c)</line>
+      <line>That to his subject lends not some small (d)glory(/d)</line>
+      <line>But he that writes of you if he can (c)tell(/c)</line>
+      <line>That you are you so dignifies his (d)story(/d)</line>
+      <line>Let him but copy what in you is (e)writ(/e)</line>
+      <line>Not making worse what nature made so (f)clear(/f)</line>
+      <line>And such a counterpart shall fame his (e)wit(/e)</line>
+      <line>Making his style admired every (f)where(/f)</line>
+      <line>You to your beauteous blessings add a (g)curse(/g)</line>
+      <line>Being fond on praise which makes your praises (g)worse(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

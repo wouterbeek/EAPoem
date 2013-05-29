@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>135 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Whoever hath her wish thou hast thy (a)will(/a)</line>
+      <line>And 'Will' to boot and 'Will' in (b)over-plus(/b)</line>
+      <line>More than enough am I that vex thee (a)still(/a)</line>
+      <line>To thy sweet will making addition (b)thus(/b)</line>
+      <line>Wilt thou whose will is large and (c)spacious(/c)</line>
+      <line>Not once vouchsafe to hide my will in (d)thine(/d)</line>
+      <line>Shall will in others seem right (c)gracious(/c)</line>
+      <line>And in my will no fair acceptance (d)shine(/d)</line>
+      <line>The sea all water yet receives rain (e)still(/e)</line>
+      <line>And in abundance addeth to his (f)store(/f)</line>
+      <line>So thou being rich in will add to thy (e)will(/e)</line>
+      <line>One will of mine to make thy large will (f)more(/f)</line>
+      <line>Let no unkind no fair beseechers (g)kill(/g)</line>
+      <line>Think all but one and me in that one (g)'Will'(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

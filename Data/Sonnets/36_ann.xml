@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>36 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Let me confess that we two must be (a)twain(/a)</line>
+      <line>Although our undivided loves are (b)one(/b)</line>
+      <line>So shall those blots that do with me (a)remain(/a)</line>
+      <line>Without thy help by me be borne (b)alone(/b)</line>
+      <line>In our two loves there is but one (c)respect(/c)</line>
+      <line>Though in our lives a separable (d)spite(/d)</line>
+      <line>Which though it alter not love's sole (c)effect(/c)</line>
+      <line>Yet doth it steal sweet hours from love's (d)delight(/d)</line>
+      <line>I may not evermore acknowledge (e)thee(/e)</line>
+      <line>Lest my bewailed guilt should do thee (f)shame(/f)</line>
+      <line>Nor thou with public kindness honour (e)me(/e)</line>
+      <line>Unless thou take that honour from thy (f)name(/f)</line>
+      <line>But do not so I love thee in such (g)sort(/g)</line>
+      <line>As thou being mine mine is thy good (g)report(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

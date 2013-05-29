@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>71 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>No longer mourn for me when I am (a)dead(/a)</line>
+      <line>Than you shall hear the surly sullen (b)bell(/b)</line>
+      <line>Give warning to the world that I am (a)fled(/a)</line>
+      <line>From this vile world with vilest worms to (b)dwell(/b)</line>
+      <line>Nay if you read this line remember (c)not(/c)</line>
+      <line>The hand that writ it for I love you (d)so(/d)</line>
+      <line>That I in your sweet thoughts would be (c)forgot(/c)</line>
+      <line>If thinking on me then should make you (d)woe(/d)</line>
+      <line>O if (I say) you look upon this (e)verse(/e)</line>
+      <line>When I (perhaps) compounded am with (f)clay(/f)</line>
+      <line>Do not so much as my poor name (e)rehearse(/e)</line>
+      <line>But let your love even with my life (f)decay(/f)</line>
+      <line>Lest the wise world should look into your (g)moan(/g)</line>
+      <line>And mock you with me after I am (g)gone(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

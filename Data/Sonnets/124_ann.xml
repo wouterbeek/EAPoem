@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>124 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>If my dear love were but the child of (a)state(/a)</line>
+      <line>It might for Fortune's bastard be (b)unfathered(/b)</line>
+      <line>As subject to time's love or to time's (a)hate(/a)</line>
+      <line>Weeds among weeds or flowers with flowers (b)gathered(/b)</line>
+      <line>No it was builded far from (c)accident(/c)</line>
+      <line>It suffers not in smiling pomp nor (d)falls(/d)</line>
+      <line>Under the blow of thralled (c)discontent(/c)</line>
+      <line>Whereto th' inviting time our fashion (d)calls(/d)</line>
+      <line>It fears not policy that (e)heretic(/e)</line>
+      <line>Which works on leases of short-numbered (f)hours(/f)</line>
+      <line>But all alone stands hugely (e)politic(/e)</line>
+      <line>That it nor grows with heat nor drowns with (f)showers(/f)</line>
+      <line>To this I witness call the fools of (g)time(/g)</line>
+      <line>Which die for goodness who have lived for (g)crime(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

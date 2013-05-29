@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>103 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Alack what poverty my muse brings (a)forth(/a)</line>
+      <line>That having such a scope to show her (b)pride(/b)</line>
+      <line>The argument all bare is of more (a)worth(/a)</line>
+      <line>Than when it hath my added praise (b)beside(/b)</line>
+      <line>O blame me not if I no more can (c)write(/c)</line>
+      <line>Look in your glass and there appears a (d)face(/d)</line>
+      <line>That over-goes my blunt invention (c)quite(/c)</line>
+      <line>Dulling my lines and doing me (d)disgrace(/d)</line>
+      <line>Were it not sinful then striving to (e)mend(/e)</line>
+      <line>To mar the subject that before was (f)well(/f)</line>
+      <line>For to no other pass my verses (e)tend(/e)</line>
+      <line>Than of your graces and your gifts to (f)tell(/f)</line>
+      <line>And more much more than in my verse can (g)sit(/g)</line>
+      <line>Your own glass shows you when you look in (g)it(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

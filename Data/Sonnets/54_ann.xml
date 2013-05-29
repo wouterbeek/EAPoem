@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>54 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O how much more doth beauty beauteous (a)seem(/a)</line>
+      <line>By that sweet ornament which truth doth (b)give(/b)</line>
+      <line>The rose looks fair but fairer we it (a)deem(/a)</line>
+      <line>For that sweet odour which doth in it (b)live(/b)</line>
+      <line>The canker blooms have full as deep a (c)dye(/c)</line>
+      <line>As the perfumed tincture of the (d)roses(/d)</line>
+      <line>Hang on such thorns and play as (c)wantonly(/c)</line>
+      <line>When summer's breath their masked buds (d)discloses(/d)</line>
+      <line>But for their virtue only is their (e)show(/e)</line>
+      <line>They live unwooed and unrespected (f)fade(/f)</line>
+      <line>Die to themselves Sweet roses do not (e)so(/e)</line>
+      <line>Of their sweet deaths are sweetest odours (f)made(/f)</line>
+      <line>And so of you beauteous and lovely (g)youth(/g)</line>
+      <line>When that shall vade by verse distills your (g)truth(/g)</line>
+    </stanza>
+  </pbody>
+</poem>

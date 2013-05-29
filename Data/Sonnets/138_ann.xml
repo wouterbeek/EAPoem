@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>138 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When my love swears that she is made of (a)truth(/a)</line>
+      <line>I do believe her though I know she (b)lies(/b)</line>
+      <line>That she might think me some untutored (a)youth(/a)</line>
+      <line>Unlearned in the world's false (b)subtleties(/b)</line>
+      <line>Thus vainly thinking that she thinks me (c)young(/c)</line>
+      <line>Although she knows my days are past the (d)best(/d)</line>
+      <line>Simply I credit her false-speaking (c)tongue(/c)</line>
+      <line>On both sides thus is simple truth (d)suppressed(/d)</line>
+      <line>But wherefore says she not she is (e)unjust(/e)</line>
+      <line>And wherefore say not I that I am (f)old(/f)</line>
+      <line>O love's best habit is in seeming (e)trust(/e)</line>
+      <line>And age in love loves not to have years (f)told(/f)</line>
+      <line>Therefore I lie with her and she with (g)me(/g)</line>
+      <line>And in our faults by lies we flattered (g)be(/g)</line>
+    </stanza>
+  </pbody>
+</poem>
