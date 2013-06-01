@@ -7,6 +7,7 @@ import os
 import re
 import sys
 import xml.etree.cElementTree as ET
+import xml
 from xml.dom import minidom
 from HTMLParser import HTMLParser
 from xml.sax.saxutils import unescape
@@ -23,19 +24,19 @@ def annotate(fileName):
 		last = lineSplitReversed[0]
 		lineNumber = counter
 		if lineNumber == 1 or lineNumber == 3:
-			last = ("(a)" + last + "(/a)")
+			last = ("<a>" + last + "</a>")
 		elif lineNumber == 2 or lineNumber == 4:
-			last = ("(b)" + last + "(/b)")
+			last = ("<b>" + last + "</b>")
 		elif lineNumber == 5 or lineNumber == 7:
-			last = ("(c)" + last + "(/c)")
+			last = ("<c>" + last + "</c>")
 		elif lineNumber == 6 or lineNumber == 8:
-			last = ("(d)" + last + "(/d)")
+			last = ("<d>" + last + "</d>")
 		elif lineNumber == 9 or lineNumber == 11:
-			last = ("(e)" + last + "(/e)")
+			last = ("<e>" + last + "</e>")
 		elif lineNumber == 10 or lineNumber == 12:
-			last = ("(f)" + last + "(/f)")
+			last = ("<f>" + last + "</f>")
 		elif lineNumber == 13 or lineNumber == 14:
-			last = ("(g)" + last + "(/g)")
+			last = ("<g>" + last + "</g>")
 		lineSplitReversed[0] = last
 		newLine = lineSplitReversed[::-1]
 		newLines.append(newLine)
@@ -65,7 +66,7 @@ def newXML(lines, oldRoot):
 		line = ET.SubElement(stanza, 'line')
 		line.text = w
 	root = prettify(root)
-	return root, title
+	return xml.sax.saxutils.unescape(root), title
 	
 def prettify(elem):
     """

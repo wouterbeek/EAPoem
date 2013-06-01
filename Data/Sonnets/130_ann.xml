@@ -9,20 +9,20 @@
   </phead>
   <pbody>
     <stanza>
-      <line>My mistress' eyes are nothing like the (a)sun(/a)</line>
-      <line>Coral is far more red than her lips (b)red(/b)</line>
-      <line>If snow be white why then her breasts are (a)dun(/a)</line>
-      <line>If hairs be wires black wires grow on her (b)head(/b)</line>
-      <line>I have seen roses damasked red and (c)white(/c)</line>
-      <line>But no such roses see I in her (d)cheeks(/d)</line>
-      <line>And in some perfumes is there more (c)delight(/c)</line>
-      <line>Than in the breath that from my mistress (d)reeks(/d)</line>
-      <line>I love to hear her speak yet well I (e)know(/e)</line>
-      <line>That music hath a far more pleasing (f)sound(/f)</line>
-      <line>I grant I never saw a goddess (e)go(/e)</line>
-      <line>My mistress when she walks treads on the (f)ground(/f)</line>
-      <line>And yet by heaven I think my love as (g)rare(/g)</line>
-      <line>As any she belied with false (g)compare(/g)</line>
+      <line>My mistress' eyes are nothing like the <a>sun</a></line>
+      <line>Coral is far more red than her lips <b>red</b></line>
+      <line>If snow be white why then her breasts are <a>dun</a></line>
+      <line>If hairs be wires black wires grow on her <b>head</b></line>
+      <line>I have seen roses damasked red and <c>white</c></line>
+      <line>But no such roses see I in her <d>cheeks</d></line>
+      <line>And in some perfumes is there more <c>delight</c></line>
+      <line>Than in the breath that from my mistress <d>reeks</d></line>
+      <line>I love to hear her speak yet well I <e>know</e></line>
+      <line>That music hath a far more pleasing <f>sound</f></line>
+      <line>I grant I never saw a goddess <e>go</e></line>
+      <line>My mistress when she walks treads on the <f>ground</f></line>
+      <line>And yet by heaven I think my love as <g>rare</g></line>
+      <line>As any she belied with false <g>compare</g></line>
     </stanza>
   </pbody>
 </poem>

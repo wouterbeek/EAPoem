@@ -1,0 +1,18 @@
+Background:
+	rhymes # What is rhyme? We only work with poems, so this is general knowledge
+	
+	
+	
+	
+Positive:
+	rhymeschemes+ # For the most poem forms the rhyme schemes are different
+	
+	
+	
+Negative:
+	rhymeschemes- # Rhyme schemes that are deffinatly NOT examples for that poem form
+	
+	
+	
+NOTES:
+	- Prevent overfitting
