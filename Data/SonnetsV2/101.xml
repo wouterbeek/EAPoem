@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 101</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O truant Muse what shall be thy amends</line>
+      <line>For thy neglect of truth in beauty dyed</line>
+      <line>Both truth and beauty on my love depends</line>
+      <line>So dost thou too and therein dignified</line>
+      <line>Make answer Muse wilt thou not haply say</line>
+      <line>Truth needs no colour with his colour fixed</line>
+      <line>Beauty no pencil beauty truth to lay</line>
+      <line>But best is best if never intermixed</line>
+      <line>Because he needs no praise wilt thou be dumb</line>
+      <line>Excuse not silence so fort lies in thee</line>
+      <line>To make him much outlive a gilded tomb</line>
+      <line>And to be praised of ages yet to be</line>
+      <line>Then do thy office Muse I teach thee how</line>
+      <line>To make him seem long hence as he shows now</line>
+    </stanza>
+  </pbody>
+</poem>
