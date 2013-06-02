@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 61</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Is it thy will thy image should keep open</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>My heavy eyelids to the weary night</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Dost thou desire my slumbers should be broken</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>While shadows like to thee do mock my sight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Is it thy spirit that thou send from thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So far from home into my deeds to pry</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To find out shames and idle hours in me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The scope and tenure of thy jealousy</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O no thy love though much is not so great</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>It is my love that keeps mine eye awake</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Mine own true love that doth my rest defeat</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To play the watchman ever for thy sake</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For thee watch I whilst thou dost wake elsewhere</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>From me far off with others all too near</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

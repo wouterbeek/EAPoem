@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 102</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>My love is strengthened though more weak in seeming</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I love not less though less the show appear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That love is merchandized whose rich esteeming</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The owner tongue doth publish every where</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Our love was new and then but in the spring</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When I was wont to greet it with my lays</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As Philomel in summer front doth sing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And stops her pipe in growth of riper days</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Not that the summer is less pleasant now</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Than when her mournful hymns did hush the night</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But that wild music burthens every bough</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And sweets grown common lose their dear delight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Therefore like her I sometime hold my tongue</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Because I would not dull you with my song</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

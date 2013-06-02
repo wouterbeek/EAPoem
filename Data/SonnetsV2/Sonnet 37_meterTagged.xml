@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 37</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>As a decrepit father takes delight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To see his active child do deeds of youth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So I made lame by Fortune dearest spite</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Take all my comfort of thy worth and truth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For whether beauty birth or wealth or wit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or any of these all or all or more</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Entitled in thy parts do crowned sit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I make my love engrafted to this store</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So then I am not lame poor nor despised</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whilst that this shadow doth such substance give</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That I in thy abundance am sufficed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And by a part of all thy glory live</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Look what is best that best I wish in thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>This wish I have then ten times happy me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

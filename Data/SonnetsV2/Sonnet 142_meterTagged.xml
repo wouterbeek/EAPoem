@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 142</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Love is my sin and thy dear virtue hate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Hate of my sin grounded on sinful loving</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O but with mine compare thou thine own state</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And thou shalt find it merits not reproving</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or if it do not from those lips of thine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That have profaned their scarlet ornaments</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And sealed false bonds of love as oft as mine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Robbed others beds revenues of their rents</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Be it lawful I love thee as thou lov those</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whom thine eyes woo as mine importune thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Root pity in thy heart that when it grows</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy pity may deserve to pitied be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>If thou dost seek to have what thou dost hide</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By self-example mayst thou be denied</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

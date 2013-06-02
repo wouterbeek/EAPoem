@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 76</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Why is my verse so barren of new pride</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So far from variation or quick change</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Why with the time do I not glance aside</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To new-found methods and to compounds strange</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Why write I still all one ever the same</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And keep invention in a noted weed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That every word doth almost tell my name</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Showing their birth and where they did proceed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O know sweet love I always write of you</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And you and love are still my argument</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So all my best is dressing old words new</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Spending again what is already spent</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For as the sun is daily new and old</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So is my love still telling what is told</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

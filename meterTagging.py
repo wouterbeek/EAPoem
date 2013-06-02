@@ -48,8 +48,8 @@ def tagMeter(fileName):
 		line.text = line.text.replace(line.text, "")
 		meter = ET.SubElement(line, 'meter')
 		meter.text = " ".join([str(x) for x in meter10])
-		line = prettify(line)
-	
+		
+			
 	root = ET.tostring(root, 'utf-8')
 	return root, title
 	

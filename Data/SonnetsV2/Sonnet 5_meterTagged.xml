@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 5</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Those hours that with gentle work did frame</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The lovely gaze where every eye doth dwell</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Will play the tyrants to the very same</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And that unfair which fairly doth excel</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For never-resting time leads summer on</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To hideous winter and confounds him there</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Sap checked with frost and lusty leaves quite gone</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Beauty oer-snowed and bareness every where</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then were not summer distillation left</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A liquid prisoner pent in walls of glass</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Beauty effect with beauty were bereft</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor it nor no remembrance what it was</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But flowers distilled though they with winter meet</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Leese but their show their substance still lives sweet</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

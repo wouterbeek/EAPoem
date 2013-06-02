@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 73</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>That time of year thou mayst in me behold</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When yellow leaves or none or few do hang</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Upon those boughs which shake against the cold</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Bare ruined choirs where late the sweet birds sang</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In me thou seest the twilight of such day</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As after sunset fadeth in the west</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which by and by black night doth take away</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Death second self that seals up all in rest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In me thou seest the glowing of such fire</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That on the ashes of his youth doth lie</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As the death-bed whereon it must expire</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Consumed with that which it was nourished by</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>This thou perceiv which makes thy love more strong</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To love that well which thou must leave ere long</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

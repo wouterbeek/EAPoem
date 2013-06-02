@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 108</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>What in the brain that ink may character</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which hath not figured to thee my true spirit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>What new to speak what now to register</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That may express my love or thy dear merit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nothing sweet boy but yet like prayers divine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I must each day say oer the very same</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Counting no old thing old thou mine I thine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Even as when first I hallowed thy fair name</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So that eternal love in love fresh case</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Weighs not the dust and injury of age</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor gives to necessary wrinkles place</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But makes antiquity for aye his page</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Finding the first conceit of love there bred</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where time and outward form would show it dead</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

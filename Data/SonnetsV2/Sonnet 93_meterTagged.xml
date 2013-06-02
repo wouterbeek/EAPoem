@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 93</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>So shall I live supposing thou art true</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Like a deceived husband so love face</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>May still seem love to me though altered new</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy looks with me thy heart in other place</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For there can live no hatred in thine eye</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Therefore in that I cannot know thy change</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In many looks the false heart history</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Is writ in moods and frowns and wrinkles strange</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But heaven in thy creation did decree</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That in thy face sweet love should ever dwell</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whateer thy thoughts or thy heart workings be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy looks should nothing thence but sweetness tell</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>How like Eve apple doth thy beauty grow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>If thy sweet virtue answer not thy show&lt;p&gt;&amp;nbsp&lt;/p&gt; </text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 81</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Or I shall live your epitaph to make</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or you survive when I in earth am rotten</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>From hence your memory death cannot take</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Although in me each part will be forgotten</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Your name from hence immortal life shall have</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Though I (once gone) to all the world must die</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The earth can yield me but a common grave</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When you entombed in men eyes shall lie</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Your monument shall be my gentle verse</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which eyes not yet created shall oer-read</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And tongues to be your being shall rehearse</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When all the breathers of this world are dead</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>You still shall live (such virtue hath my pen)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where breath most breathes even in the mouths of men</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>
