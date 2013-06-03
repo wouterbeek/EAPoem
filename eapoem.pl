@@ -16,11 +16,10 @@ Edgar Allan Poem
 @version 2013/05
 */
 
-:- use_module(datasets(dbnl)).
+:- use_module(dbnl(dbnl)).
 :- use_module(generics(db_ext)).
 :- use_module(library(csv)).
 :- use_module(library(double_metaphone)).
-:- use_module(project(poem)).
 :- use_module(server(wallace)).
 
 :- db_add_novel(user:prolog_file_type(csv, csv)).
@@ -40,7 +39,7 @@ shakespeare_csv:-
   ).
 
 test_dbnl:-
-  thread_create(dbnl_scrape('Alle titels', 'alfabetisch op auteur'), _ID, []).
+  thread_create(dbnl_scrape, _ID, []).
 :- test_dbnl.
 
 % Double metaphone.
@@ -48,3 +47,4 @@ test_double_metaphone:-
   Word = 'voorbeeld',
   double_metaphone(Word, Phones),
   format(user_output, 'Word:\t~w\nPhones:\t~w\n', [Word, Phones]).
+
