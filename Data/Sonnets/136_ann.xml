@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>136 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>If thy soul check thee that I come so <a>near</a></line>
+      <line>Swear to thy blind soul that I was thy <b>'Will'</b></line>
+      <line>And will thy soul knows is admitted <a>there</a></line>
+      <line>Thus far for love my love-suit sweet <b>fulfil</b></line>
+      <line>'Will' will fulfil the treasure of thy <c>love</c></line>
+      <line>Ay fill it full with wills and my will <d>one</d></line>
+      <line>In things of great receipt with case we <c>prove</c></line>
+      <line>Among a number one is reckoned <d>none</d></line>
+      <line>Then in the number let me pass <e>untold</e></line>
+      <line>Though in thy store's account I one must <f>be</f></line>
+      <line>For nothing hold me so it please thee <e>hold</e></line>
+      <line>That nothing me a something sweet to <f>thee</f></line>
+      <line>Make but my name thy love and love that <g>still</g></line>
+      <line>And then thou lov'st me for my name is <g>Will</g></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 110</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Alas tis true I have gone here and there</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And made my self a motley to the view</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Gored mine own thoughts sold cheap what is most dear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Made old offences of affections new</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Most true it is that I have looked on truth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Askance and strangely but by all above</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>These blenches gave my heart another youth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And worse essays proved thee my best of love</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Now all is done have what shall have no end</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Mine appetite I never more will grind</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>On newer proof to try an older friend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A god in love to whom I am confined</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then give me welcome next my heaven the best</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Even to thy pure and most most loving breast</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

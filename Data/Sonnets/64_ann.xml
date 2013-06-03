@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>64 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When I have seen by Time's fell hand <a>defaced</a></line>
+      <line>The rich-proud cost of outworn buried <b>age</b></line>
+      <line>When sometime lofty towers I see <a>down-rased</a></line>
+      <line>And brass eternal slave to mortal <b>rage</b></line>
+      <line>When I have seen the hungry ocean <c>gain</c></line>
+      <line>Advantage on the kingdom of the <d>shore</d></line>
+      <line>And the firm soil win of the watery <c>main</c></line>
+      <line>Increasing store with loss and loss with <d>store</d></line>
+      <line>When I have seen such interchange of <e>State</e></line>
+      <line>Or state it self confounded to <f>decay</f></line>
+      <line>Ruin hath taught me thus to <e>ruminate</e></line>
+      <line>That Time will come and take my love <f>away</f></line>
+      <line>This thought is as a death which cannot <g>choose</g></line>
+      <line>But weep to have that which it fears to <g>lose</g></line>
+    </stanza>
+  </pbody>
+</poem>

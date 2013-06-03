@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 40</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Take all my loves my love yea take them all</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>What hast thou then more than thou hadst before</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>No love my love that thou mayst true love call</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>All mine was thine before thou hadst this more</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then if for my love thou my love receivest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I cannot blame thee for my love thou usest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But yet be blamed if thou thy self deceivest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By wilful taste of what thy self refusest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I do forgive thy robbery gentle thief</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Although thou steal thee all my poverty</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And yet love knows it is a greater grief</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To bear greater wrong than hate known injury</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Lascivious grace in whom all ill well shows</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Kill me with spites yet we must not be foes</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

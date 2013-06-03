@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 129</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Th expense of spirit in a waste of shame</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Is lust in action and till action lust</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Is perjured murdrous bloody full of blame</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Savage extreme rude cruel not to trust</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Enjoyed no sooner but despised straight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Past reason hunted and no sooner had</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Past reason hated as a swallowed bait</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>On purpose laid to make the taker mad</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Mad in pursuit and in possession so</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Had having and in quest to have extreme</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A bliss in proof and proved a very woe</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Before a joy proposed behind a dream</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>All this the world well knows yet none knows well</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To shun the heaven that leads men to this hell</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

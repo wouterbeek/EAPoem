@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>75 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So are you to my thoughts as food to <a>life</a></line>
+      <line>Or as sweet-seasoned showers are to the <b>ground</b></line>
+      <line>And for the peace of you I hold such <a>strife</a></line>
+      <line>As 'twixt a miser and his wealth is <b>found</b></line>
+      <line>Now proud as an enjoyer and <c>anon</c></line>
+      <line>Doubting the filching age will steal his <d>treasure</d></line>
+      <line>Now counting best to be with you <c>alone</c></line>
+      <line>Then bettered that the world may see my <d>pleasure</d></line>
+      <line>Sometime all full with feasting on your <e>sight</e></line>
+      <line>And by and by clean starved for a <f>look</f></line>
+      <line>Possessing or pursuing no <e>delight</e></line>
+      <line>Save what is had or must from you be <f>took</f></line>
+      <line>Thus do I pine and surfeit day by <g>day</g></line>
+      <line>Or gluttoning on all or all <g>away</g></line>
+    </stanza>
+  </pbody>
+</poem>

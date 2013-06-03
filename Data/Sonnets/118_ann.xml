@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>118 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Like as to make our appetite more <a>keen</a></line>
+      <line>With eager compounds we our palate <b>urge</b></line>
+      <line>As to prevent our maladies <a>unseen</a></line>
+      <line>We sicken to shun sickness when we <b>purge</b></line>
+      <line>Even so being full of your ne'er-cloying <c>sweetness</c></line>
+      <line>To bitter sauces did I frame my <d>feeding</d></line>
+      <line>And sick of welfare found a kind of <c>meetness</c></line>
+      <line>To be diseased ere that there was true <d>needing</d></line>
+      <line>Thus policy in love t' <e>anticipate</e></line>
+      <line>The ills that were not grew to faults <f>assured</f></line>
+      <line>And brought to medicine a healthful <e>state</e></line>
+      <line>Which rank of goodness would by ill be <f>cured</f></line>
+      <line>But thence I learn and find the lesson <g>true</g></line>
+      <line>Drugs poison him that so feil sick of <g>you</g></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 58</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>That god forbid that made me first your slave</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I should in thought control your times of pleasure</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or at your hand th account of hours to crave</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Being your vassal bound to stay your leisure</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O let me suffer (being at your beck)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Th imprisoned absence of your liberty</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And patience tame to sufferance bide each check</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Without accusing you of injury</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Be where you list your charter is so strong</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That you your self may privilage your time</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To what you will to you it doth belong</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Your self to pardon of self-doing crime</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I am to wait though waiting so be hell</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Not blame your pleasure be it ill or well</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

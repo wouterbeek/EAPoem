@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 12</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>When I do count the clock that tells the time</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And see the brave day sunk in hideous night</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When I behold the violet past prime</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And sable curls all silvered oer with white</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When lofty trees I see barren of leaves</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which erst from heat did canopy the herd</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And summer green all girded up in sheaves</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Borne on the bier with white and bristly beard</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then of thy beauty do I question make</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That thou among the wastes of time must go</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Since sweets and beauties do themselves forsake</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And die as fast as they see others grow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And nothing gainst Time scythe can make defence</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Save breed to brave him when he takes thee hence</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

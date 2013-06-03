@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 94</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>They that have power to hurt and will do none</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That do not do the thing they most do show</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Who moving others are themselves as stone</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Unmoved cold and to temptation slow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>They rightly do inherit heaven graces</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And husband nature riches from expense</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Tibey are the lords and owners of their faces</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Others but stewards of their excellence</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The summer flower is to the summer sweet</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Though to it self it only live and die</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But if that flower with base infection meet</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The basest weed outbraves his dignity</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For sweetest things turn sourest by their deeds</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Lilies that fester smell far worse than weeds</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 15</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>When I consider every thing that grows</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Holds in perfection but a little moment</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That this huge stage presenteth nought but shows</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whereon the stars in secret influence comment</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When I perceive that men as plants increase</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Cheered and checked even by the self-same sky</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Vaunt in their youthful sap at height decrease</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And wear their brave state out of memory</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then the conceit of this inconstant stay</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Sets you most rich in youth before my sight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where wasteful time debateth with decay</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To change your day of youth to sullied night</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And all in war with Time for love of you</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As he takes from you I engraft you new</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

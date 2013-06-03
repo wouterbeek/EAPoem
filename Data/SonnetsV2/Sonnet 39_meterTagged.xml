@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 39</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>O how thy worth with manners may I sing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When thou art all the better part of me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>What can mine own praise to mine own self bring</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And what ist but mine own when I praise thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Even for this let us divided live</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And our dear love lose name of single one</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That by this separation I may give</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That due to thee which thou deserv alone</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O absence what a torment wouldst thou prove</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Were it not thy sour leisure gave sweet leave</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To entertain the time with thoughts of love</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which time and thoughts so sweetly doth deceive</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And that thou teachest how to make one twain</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By praising him here who doth hence remain</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

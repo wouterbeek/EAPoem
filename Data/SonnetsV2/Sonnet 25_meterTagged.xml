@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 25</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Let those who are in favour with their stars</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Of public honour and proud titles boast</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whilst I whom fortune of such triumph bars</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Unlooked for joy in that I honour most</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Great princes favourites their fair leaves spread</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But as the marigold at the sun eye</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And in themselves their pride lies buried</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For at a frown they in their glory die</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The painful warrior famoused for fight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>After a thousand victories once foiled</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Is from the book of honour razed quite</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And all the rest forgot for which he toiled</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then happy I that love and am beloved</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where I may not remove nor be removed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

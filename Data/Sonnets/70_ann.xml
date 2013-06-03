@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>70 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>That thou art blamed shall not be thy <a>defect</a></line>
+      <line>For slander's mark was ever yet the <b>fair</b></line>
+      <line>The ornament of beauty is <a>suspect</a></line>
+      <line>A crow that flies in heaven's sweetest <b>air</b></line>
+      <line>So thou be good slander doth but <c>approve</c></line>
+      <line>Thy worth the greater being wooed of <d>time</d></line>
+      <line>For canker vice the sweetest buds doth <c>love</c></line>
+      <line>And thou present'st a pure unstained <d>prime</d></line>
+      <line>Thou hast passed by the ambush of young <e>days</e></line>
+      <line>Either not assailed or victor being <f>charged</f></line>
+      <line>Yet this thy praise cannot be so thy <e>praise</e></line>
+      <line>To tie up envy evermore <f>enlarged</f></line>
+      <line>If some suspect of ill masked not thy <g>show</g></line>
+      <line>Then thou alone kingdoms of hearts shouldst <g>owe</g></line>
+    </stanza>
+  </pbody>
+</poem>

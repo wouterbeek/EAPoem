@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>110 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Alas 'tis true I have gone here and <a>there</a></line>
+      <line>And made my self a motley to the <b>view</b></line>
+      <line>Gored mine own thoughts sold cheap what is most <a>dear</a></line>
+      <line>Made old offences of affections <b>new</b></line>
+      <line>Most true it is that I have looked on <c>truth</c></line>
+      <line>Askance and strangely but by all <d>above</d></line>
+      <line>These blenches gave my heart another <c>youth</c></line>
+      <line>And worse essays proved thee my best of <d>love</d></line>
+      <line>Now all is done have what shall have no <e>end</e></line>
+      <line>Mine appetite I never more will <f>grind</f></line>
+      <line>On newer proof to try an older <e>friend</e></line>
+      <line>A god in love to whom I am <f>confined</f></line>
+      <line>Then give me welcome next my heaven the <g>best</g></line>
+      <line>Even to thy pure and most most loving <g>breast</g></line>
+    </stanza>
+  </pbody>
+</poem>

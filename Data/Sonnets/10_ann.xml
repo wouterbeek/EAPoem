@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>10 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>For shame deny that thou bear'st love to <a>any</a></line>
+      <line>Who for thy self art so <b>unprovident</b></line>
+      <line>Grant if thou wilt thou art beloved of <a>many</a></line>
+      <line>But that thou none lov'st is most <b>evident</b></line>
+      <line>For thou art so possessed with murd'rous <c>hate</c></line>
+      <line>That 'gainst thy self thou stick'st not to <d>conspire</d></line>
+      <line>Seeking that beauteous roof to <c>ruinate</c></line>
+      <line>Which to repair should be thy chief <d>desire</d></line>
+      <line>O change thy thought that I may change my <e>mind</e></line>
+      <line>Shall hate be fairer lodged than gentle <f>love</f></line>
+      <line>Be as thy presence is gracious and <e>kind</e></line>
+      <line>Or to thy self at least kind-hearted <f>prove</f></line>
+      <line>Make thee another self for love of <g>me</g></line>
+      <line>That beauty still may live in thine or <g>thee</g></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<poem>
+  <phead>
+    <ptitle>1 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>From fairest creatures we desire <a>increase</a></line>
+      <line>That thereby beauty&apos;s rose might never <b>die</b></line>
+      <line>But as the riper should by time <a>decease</a></line>
+      <line>His tender heir might bear his <b>memory</b></line>
+      <line>But thou contracted to thine own bright <c>eyes</c></line>
+      <line>Feed&apos;st thy light&apos;s flame with self-substantial <d>fuel</d></line>
+      <line>Making a famine where abundance <c>lies</c></line>
+      <line>Thy self thy foe to thy sweet self too <d>cruel</d></line>
+      <line>Thou that art now the world&apos;s fresh <e>ornament</e></line>
+      <line>And only herald to the gaudy <f>spring</f></line>
+      <line>Within thine own bud buriest thy <e>content</e></line>
+      <line>And tender churl mak&apos;st waste in <f>niggarding</f></line>
+      <line>Pity the world or else this glutton <g>be</g></line>
+      <line>To eat the world&apos;s due by the grave and <g>thee</g></line>
+    </stanza>
+  </pbody>
+</poem>

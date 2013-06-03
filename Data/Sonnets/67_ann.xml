@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>67 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Ah wherefore with infection should he <a>live</a></line>
+      <line>And with his presence grace <b>impiety</b></line>
+      <line>That sin by him advantage should <a>achieve</a></line>
+      <line>And lace it self with his <b>society</b></line>
+      <line>Why should false painting imitate his <c>cheek</c></line>
+      <line>And steal dead seeming of his living <d>hue</d></line>
+      <line>Why should poor beauty indirectly <c>seek</c></line>
+      <line>Roses of shadow since his rose is <d>true</d></line>
+      <line>Why should he live now nature bankrupt <e>is</e></line>
+      <line>Beggared of blood to blush through lively <f>veins</f></line>
+      <line>For she hath no exchequer now but <e>his</e></line>
+      <line>And proud of many lives upon his <f>gains</f></line>
+      <line>O him she stores to show what wealth she <g>had</g></line>
+      <line>In days long since before these last so <g>bad</g></line>
+    </stanza>
+  </pbody>
+</poem>

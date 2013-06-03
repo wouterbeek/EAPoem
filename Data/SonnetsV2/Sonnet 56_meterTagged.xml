@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 56</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Sweet love renew thy force be it not said</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy edge should blunter be than appetite</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which but to-day by feeding is allayed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To-morrow sharpened in his former might</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So love be thou although to-day thou fill</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy hungry eyes even till they wink with fulness</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To-morrow see again and do not kill</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The spirit of love with a perpetual dulness</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Let this sad interim like the ocean be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which parts the shore where two contracted new</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Come daily to the banks that when they see</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Return of love more blest may be the view</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or call it winter which being full of care</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Makes summer welcome thrice more wished more rare</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

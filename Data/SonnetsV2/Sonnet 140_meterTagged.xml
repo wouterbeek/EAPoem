@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 140</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Be wise as thou art cruel do not press</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>My tongue-tied patience with too much disdain</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Lest sorrow lend me words and words express</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The manner of my pity-wanting pain</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>If I might teach thee wit better it were</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Though not to love yet love to tell me so</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As testy sick men when their deaths be near</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>No news but health from their physicians know</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For if I should despair I should grow mad</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And in my madness might speak ill of thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Now this ill-wresting world is grown so bad</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Mad slanderers by mad ears believed be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That I may not be so nor thou belied</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Bear thine eyes straight though thy proud heart go wide</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

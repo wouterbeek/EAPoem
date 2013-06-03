@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>57 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Being your slave what should I do but <a>tend</a></line>
+      <line>Upon the hours and times of your <b>desire</b></line>
+      <line>I have no precious time at all to <a>spend</a></line>
+      <line>Nor services to do till you <b>require</b></line>
+      <line>Nor dare I chide the world-without-end <c>hour</c></line>
+      <line>Whilst I (my sovereign) watch the clock for <d>you</d></line>
+      <line>Nor think the bitterness of absence <c>sour</c></line>
+      <line>When you have bid your servant once <d>adieu</d></line>
+      <line>Nor dare I question with my jealous <e>thought</e></line>
+      <line>Where you may be or your affairs <f>suppose</f></line>
+      <line>But like a sad slave stay and think of <e>nought</e></line>
+      <line>Save where you are how happy you make <f>those</f></line>
+      <line>So true a fool is love that in your <g>will</g></line>
+      <line>(Though you do any thing) he thinks no <g>ill</g></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 133</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Beshrew that heart that makes my heart to groan</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For that deep wound it gives my friend and me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Ist not enough to torture me alone</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But slave to slavery my sweet friend must be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Me from my self thy cruel eye hath taken</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And my next self thou harder hast engrossed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Of him my self and thee I am forsaken</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A torment thrice three-fold thus to be crossed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Prison my heart in thy steel bosom ward</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But then my friend heart let my poor heart bail</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whoeer keeps me let my heart be his guard</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thou canst not then use rigour in my gaol</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And yet thou wilt for I being pent in thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Perforce am thine and all that is in me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

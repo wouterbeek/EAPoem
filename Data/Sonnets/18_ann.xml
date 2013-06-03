@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>18 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Shall I compare thee to a summer's <a>day</a></line>
+      <line>Thou art more lovely and more <b>temperate</b></line>
+      <line>Rough winds do shake the darling buds of <a>May</a></line>
+      <line>And summer's lease hath all too short a <b>date</b></line>
+      <line>Sometime too hot the eye of heaven <c>shines</c></line>
+      <line>And often is his gold complexion <d>dimmed</d></line>
+      <line>And every fair from fair sometime <c>declines</c></line>
+      <line>By chance or nature's changing course <d>untrimmed</d></line>
+      <line>But thy eternal summer shall not <e>fade</e></line>
+      <line>Nor lose possession of that fair thou <f>ow'st</f></line>
+      <line>Nor shall death brag thou wand'rest in his <e>shade</e></line>
+      <line>When in eternal lines to time thou <f>grow'st</f></line>
+      <line>So long as men can breathe or eyes can <g>see</g></line>
+      <line>So long lives this and this gives life to <g>thee</g></line>
+    </stanza>
+  </pbody>
+</poem>

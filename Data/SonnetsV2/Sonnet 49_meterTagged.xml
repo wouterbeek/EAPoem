@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 49</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Against that time (if ever that time come)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When I shall see thee frown on my defects</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When as thy love hath cast his utmost sum</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Called to that audit by advised respects</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Against that time when thou shalt strangely pass</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And scarcely greet me with that sun thine eye</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When love converted from the thing it was</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Shall reasons find of settled gravity</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Against that time do I ensconce me here</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Within the knowledge of mine own desert</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And this my hand against my self uprear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To guard the lawful reasons on thy part</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To leave poor me thou hast the strength of laws</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Since why to love I can allege no cause</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

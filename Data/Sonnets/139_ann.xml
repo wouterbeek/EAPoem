@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>139 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O call not me to justify the <a>wrong</a></line>
+      <line>That thy unkindness lays upon my <b>heart</b></line>
+      <line>Wound me not with thine eye but with thy <a>tongue</a></line>
+      <line>Use power with power and slay me not by <b>art</b></line>
+      <line>Tell me thou lov'st elsewhere but in my <c>sight</c></line>
+      <line>Dear heart forbear to glance thine eye <d>aside</d></line>
+      <line>What need'st thou wound with cunning when thy <c>might</c></line>
+      <line>Is more than my o'erpressed defence can <d>bide</d></line>
+      <line>Let me excuse thee ah my love well <e>knows</e></line>
+      <line>Her pretty looks have been mine <f>enemies</f></line>
+      <line>And therefore from my face she turns my <e>foes</e></line>
+      <line>That they elsewhere might dart their <f>injuries</f></line>
+      <line>Yet do not so but since I am near <g>slain</g></line>
+      <line>Kill me outright with looks and rid my <g>pain</g></line>
+    </stanza>
+  </pbody>
+</poem>

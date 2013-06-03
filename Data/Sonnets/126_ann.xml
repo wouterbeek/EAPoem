@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>126 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O thou my lovely boy who in thy <a>power</a></line>
+      <line>Dost hold Time's fickle glass his fickle <b>hour</b></line>
+      <line>Who hast by waning grown and therein <a>show'st</a></line>
+      <line>Thy lovers withering as thy sweet self <b>grow'st</b></line>
+      <line>If Nature (sovereign mistress over <c>wrack)</c></line>
+      <line>As thou goest onwards still will pluck thee <d>back</d></line>
+      <line>She keeps thee to this purpose that her <c>skill</c></line>
+      <line>May time disgrace and wretched minutes <d>kill</d></line>
+      <line>Yet fear her O thou minion of her <e>pleasure</e></line>
+      <line>She may detain but not still keep her <f>treasure</f></line>
+      <line>Her audit (though delayed) answered must <e>be</e></line>
+      <line>And her quietus is to render <f>thee</f></line>
+    </stanza>
+  </pbody>
+</poem>

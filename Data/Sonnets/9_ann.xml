@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>9 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Is it for fear to wet a widow's <a>eye</a></line>
+      <line>That thou consum'st thy self in single <b>life</b></line>
+      <line>Ah if thou issueless shalt hap to <a>die</a></line>
+      <line>The world will wail thee like a makeless <b>wife</b></line>
+      <line>The world will be thy widow and still <c>weep</c></line>
+      <line>That thou no form of thee hast left <d>behind</d></line>
+      <line>When every private widow well may <c>keep</c></line>
+      <line>By children's eyes her husband's shape in <d>mind</d></line>
+      <line>Look what an unthrift in the world doth <e>spend</e></line>
+      <line>Shifts but his place for still the world enjoys <f>it</f></line>
+      <line>But beauty's waste hath in the world an <e>end</e></line>
+      <line>And kept unused the user so destroys <f>it</f></line>
+      <line>No love toward others in that bosom <g>sits</g></line>
+      <line>That on himself such murd'rous shame <g>commits</g></line>
+    </stanza>
+  </pbody>
+</poem>

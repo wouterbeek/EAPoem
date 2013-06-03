@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 92</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>But do thy worst to steal thy self away</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For term of life thou art assured mine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And life no longer than thy love will stay</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For it depends upon that love of thine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then need I not to fear the worst of wrongs</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When in the least of them my life hath end</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I see a better state to me belongs</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Than that which on thy humour doth depend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thou canst not vex me with inconstant mind</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Since that my life on thy revolt doth lie</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O what a happy title do I find</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Happy to have thy love happy to die</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But what so blessed-fair that fears no blot</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thou mayst be false and yet I know it not</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

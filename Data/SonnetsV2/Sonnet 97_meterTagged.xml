@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 97</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>How like a winter hath my absence been</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>From thee the pleasure of the fleeting year</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>What freezings have I felt what dark days seen</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>What old December bareness everywhere</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And yet this time removed was summer time</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The teeming autumn big with rich increase</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Bearing the wanton burden of the prime</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Like widowed wombs after their lords decease</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Yet this abundant issue seemed to me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But hope of orphans and unfathered fruit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For summer and his pleasures wait on thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And thou away the very birds are mute</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or if they sing tis with so dull a cheer</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That leaves look pale dreading the winter near</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

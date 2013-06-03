@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 116</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Let me not to the marriage of true minds</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Admit impediments love is not love</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which alters when it alteration finds</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or bends with the remover to remove</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O no it is an ever-fixed mark</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That looks on tempests and is never shaken</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>It is the star to every wandring bark</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whose worth unknown although his height be taken</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Love not Time fool though rosy lips and cheeks</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Within his bending sickle compass come</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Love alters not with his brief hours and weeks</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But bears it out even to the edge of doom</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>If this be error and upon me proved</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I never writ nor no man ever loved</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

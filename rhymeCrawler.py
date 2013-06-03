@@ -7,6 +7,8 @@ Version: 05/2013
 !!! NOTE: Uncomplete !!!
 """
 
+# regex: <a class="d" href="d=*"> ... </a> || <a href="d=*"> ... </a>
+
 import sys
 import mechanize
 import re
@@ -18,8 +20,13 @@ def getRhymes(html):
 	Constructs list with all the words that came up on the site
 	"""
 	soup = BeautifulSoup(html)
-	find = str(soup.body.center.font)
-	print find
+	find = soup.body.center.center.font.center
+	b = find.findAll('a', href = True,text=True)
+	print b
+
+
+	#rhymes = find.findAll('a', href = True)
+	#print rhymes
 	
 def main(args):
 	"""

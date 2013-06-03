@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>17 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Who will believe my verse in time to <a>come</a></line>
+      <line>If it were filled with your most high <b>deserts</b></line>
+      <line>Though yet heaven knows it is but as a <a>tomb</a></line>
+      <line>Which hides your life and shows not half your <b>parts</b></line>
+      <line>If I could write the beauty of your <c>eyes</c></line>
+      <line>And in fresh numbers number all your <d>graces</d></line>
+      <line>The age to come would say this poet <c>lies</c></line>
+      <line>Such heavenly touches ne'er touched earthly <d>faces</d></line>
+      <line>So should my papers (yellowed with their <e>age)</e></line>
+      <line>Be scorned like old men of less truth than <f>tongue</f></line>
+      <line>And your true rights be termed a poet's <e>rage</e></line>
+      <line>And stretched metre of an antique <f>song</f></line>
+      <line>But were some child of yours alive that <g>time</g></line>
+      <line>You should live twice in it and in my <g>rhyme</g></line>
+    </stanza>
+  </pbody>
+</poem>

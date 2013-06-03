@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>109 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O never say that I was false of <a>heart</a></line>
+      <line>Though absence seemed my flame to <b>qualify</b></line>
+      <line>As easy might I from my self <a>depart</a></line>
+      <line>As from my soul which in thy breast doth <b>lie</b></line>
+      <line>That is my home of love if I have <c>ranged</c></line>
+      <line>Like him that travels I return <d>again</d></line>
+      <line>Just to the time not with the time <c>exchanged</c></line>
+      <line>So that my self bring water for my <d>stain</d></line>
+      <line>Never believe though in my nature <e>reigned</e></line>
+      <line>All frailties that besiege all kinds of <f>blood</f></line>
+      <line>That it could so preposterously be <e>stained</e></line>
+      <line>To leave for nothing all thy sum of <f>good</f></line>
+      <line>For nothing this wide universe I <g>call</g></line>
+      <line>Save thou my rose in it thou art my <g>all</g></line>
+    </stanza>
+  </pbody>
+</poem>

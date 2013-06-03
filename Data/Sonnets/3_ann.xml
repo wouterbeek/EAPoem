@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>3 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Look in thy glass and tell the face thou <a>viewest</a></line>
+      <line>Now is the time that face should form <b>another</b></line>
+      <line>Whose fresh repair if now thou not <a>renewest</a></line>
+      <line>Thou dost beguile the world unbless some <b>mother</b></line>
+      <line>For where is she so fair whose uneared <c>womb</c></line>
+      <line>Disdains the tillage of thy <d>husbandry</d></line>
+      <line>Or who is he so fond will be the <c>tomb</c></line>
+      <line>Of his self-love to stop <d>posterity</d></line>
+      <line>Thou art thy mother's glass and she in <e>thee</e></line>
+      <line>Calls back the lovely April of her <f>prime</f></line>
+      <line>So thou through windows of thine age shalt <e>see</e></line>
+      <line>Despite of wrinkles this thy golden <f>time</f></line>
+      <line>But if thou live remembered not to <g>be</g></line>
+      <line>Die single and thine image dies with <g>thee</g></line>
+    </stanza>
+  </pbody>
+</poem>

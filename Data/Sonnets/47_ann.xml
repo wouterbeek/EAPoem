@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>47 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Betwixt mine eye and heart a league is <a>took</a></line>
+      <line>And each doth good turns now unto the <b>other</b></line>
+      <line>When that mine eye is famished for a <a>look</a></line>
+      <line>Or heart in love with sighs himself doth <b>smother</b></line>
+      <line>With my love's picture then my eye doth <c>feast</c></line>
+      <line>And to the painted banquet bids my <d>heart</d></line>
+      <line>Another time mine eye is my heart's <c>guest</c></line>
+      <line>And in his thoughts of love doth share a <d>part</d></line>
+      <line>So either by thy picture or my <e>love</e></line>
+      <line>Thy self away art present still with <f>me</f></line>
+      <line>For thou not farther than my thoughts canst <e>move</e></line>
+      <line>And I am still with them and they with <f>thee</f></line>
+      <line>Or if they sleep thy picture in my <g>sight</g></line>
+      <line>Awakes my heart to heart's and eye's <g>delight</g></line>
+    </stanza>
+  </pbody>
+</poem>

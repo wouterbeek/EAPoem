@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 122</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Thy gift thy tables are within my brain</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Full charactered with lasting memory</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which shall above that idle rank remain</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Beyond all date even to eternity</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or at the least so long as brain and heart</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Have faculty by nature to subsist</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Till each to razed oblivion yield his part</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Of thee thy record never can be missed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That poor retention could not so much hold</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor need I tallies thy dear love to score</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Therefore to give them from me was I bold</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To trust those tables that receive thee more</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To keep an adjunct to remember thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Were to import forgetfulness in me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

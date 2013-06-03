@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>95 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>How sweet and lovely dost thou make the <a>shame</a></line>
+      <line>Which like a canker in the fragrant <b>rose</b></line>
+      <line>Doth spot the beauty of thy budding <a>name</a></line>
+      <line>O in what sweets dost thou thy sins <b>enclose</b></line>
+      <line>That tongue that tells the story of thy <c>days</c></line>
+      <line>(Making lascivious comments on thy <d>sport)</d></line>
+      <line>Cannot dispraise but in a kind of <c>praise</c></line>
+      <line>Naming thy name blesses an ill <d>report</d></line>
+      <line>O what a mansion have those vices <e>got</e></line>
+      <line>Which for their habitation chose out <f>thee</f></line>
+      <line>Where beauty's veil doth cover every <e>blot</e></line>
+      <line>And all things turns to fair that eyes can <f>see</f></line>
+      <line>Take heed (dear heart) of this large <g>privilege</g></line>
+      <line>The hardest knife ill-used doth lose his <g>edge</g></line>
+    </stanza>
+  </pbody>
+</poem>

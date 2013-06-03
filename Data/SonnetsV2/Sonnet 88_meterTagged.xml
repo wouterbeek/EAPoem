@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 88</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>When thou shalt be disposed to set me light</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And place my merit in the eye of scorn</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Upon thy side against my self Ill fight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And prove thee virtuous though thou art forsworn</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>With mine own weakness being best acquainted</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Upon thy part I can set down a story</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Of faults concealed wherein I am attainted</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That thou in losing me shalt win much glory</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And I by this will be a gainer too</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For bending all my loving thoughts on thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The injuries that to my self I do</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Doing thee vantage double-vantage me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Such is my love to thee I so belong</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That for thy right my self will bear all wrong</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

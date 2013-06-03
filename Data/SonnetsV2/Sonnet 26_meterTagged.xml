@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 26</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Lord of my love to whom in vassalage</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy merit hath my duty strongly knit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To thee I send this written embassage</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To witness duty not to show my wit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Duty so great which wit so poor as mine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>May make seem bare in wanting words to show it</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But that I hope some good conceit of thine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In thy soul thought (all naked) will bestow it</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Till whatsoever star that guides my moving</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Points on me graciously with fair aspect</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And puts apparel on my tattered loving</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To show me worthy of thy sweet respect</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then may I dare to boast how I do love thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Till then not show my head where thou mayst prove me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

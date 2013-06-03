@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 32</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>If thou survive my well-contented day</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When that churl death my bones with dust shall cover</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And shalt by fortune once more re-survey</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>These poor rude lines of thy deceased lover</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Compare them with the bettring of the time</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And though they be outstripped by every pen</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Reserve them for my love not for their rhyme</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Exceeded by the height of happier men</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O then vouchsafe me but this loving thought</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Had my friend Muse grown with this growing age</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A dearer birth than this his love had brought</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To march in ranks of better equipage</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But since he died and poets better prove</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Theirs for their style Ill read his for his love</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

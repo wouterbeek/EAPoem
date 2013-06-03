@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>27 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Weary with toil I haste me to my <a>bed</a></line>
+      <line>The dear respose for limbs with travel <b>tired</b></line>
+      <line>But then begins a journey in my <a>head</a></line>
+      <line>To work my mind when body's work's <b>expired</b></line>
+      <line>For then my thoughts (from far where I <c>abide)</c></line>
+      <line>Intend a zealous pilgrimage to <d>thee</d></line>
+      <line>And keep my drooping eyelids open <c>wide</c></line>
+      <line>Looking on darkness which the blind do <d>see</d></line>
+      <line>Save that my soul's imaginary <e>sight</e></line>
+      <line>Presents thy shadow to my sightless <f>view</f></line>
+      <line>Which like a jewel (hung in ghastly <e>night)</e></line>
+      <line>Makes black night beauteous and her old face <f>new</f></line>
+      <line>Lo thus by day my limbs by night my <g>mind</g></line>
+      <line>For thee and for my self no quiet <g>find</g></line>
+    </stanza>
+  </pbody>
+</poem>

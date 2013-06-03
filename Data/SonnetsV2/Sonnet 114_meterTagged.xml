@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 114</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Or whether doth my mind being crowned with you</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Drink up the monarch plague this flattery</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or whether shall I say mine eye saith true</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And that your love taught it this alchemy</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To make of monsters and things indigest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Such cherubins as your sweet self resemble</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Creating every bad a perfect best</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As fast as objects to his beams assemble</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O tis the first tis flattery in my seeing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And my great mind most kingly drinks it up</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Mine eye well knows what with his gust is greeing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And to his palate doth prepare the cup</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>If it be poisoned tis the lesser sin</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That mine eye loves it and doth first begin</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

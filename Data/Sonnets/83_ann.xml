@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>83 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>I never saw that you did painting <a>need</a></line>
+      <line>And therefore to your fair no painting <b>set</b></line>
+      <line>I found (or thought I found) you did <a>exceed</a></line>
+      <line>That barren tender of a poet's <b>debt</b></line>
+      <line>And therefore have I slept in your <c>report</c></line>
+      <line>That you your self being extant well might <d>show</d></line>
+      <line>How far a modern quill doth come too <c>short</c></line>
+      <line>Speaking of worth what worth in you doth <d>grow</d></line>
+      <line>This silence for my sin you did <e>impute</e></line>
+      <line>Which shall be most my glory being <f>dumb</f></line>
+      <line>For I impair not beauty being <e>mute</e></line>
+      <line>When others would give life and bring a <f>tomb</f></line>
+      <line>There lives more life in one of your fair <g>eyes</g></line>
+      <line>Than both your poets can in praise <g>devise</g></line>
+    </stanza>
+  </pbody>
+</poem>

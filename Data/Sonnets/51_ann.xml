@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>51 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Can my love excuse the slow <a>offence</a></line>
+      <line>Of my dull bearer when from thee I <b>speed</b></line>
+      <line>From where thou art why should I haste me <a>thence</a></line>
+      <line>Till I return of posting is no <b>need</b></line>
+      <line>O what excuse will my poor beast then <c>find</c></line>
+      <line>When swift extremity can seem but <d>slow</d></line>
+      <line>Then should I spur though mounted on the <c>wind</c></line>
+      <line>In winged speed no motion shall I <d>know</d></line>
+      <line>Then can no horse with my desire keep <e>pace</e></line>
+      <line>Therefore desire (of perfect'st love being <f>made)</f></line>
+      <line>Shall neigh (no dull flesh) in his fiery <e>race</e></line>
+      <line>But love for love thus shall excuse my <f>jade</f></line>
+      <line>Since from thee going he went <g>wilful-slow</g></line>
+      <line>Towards thee I'll run and give him leave to <g>go</g></line>
+    </stanza>
+  </pbody>
+</poem>
