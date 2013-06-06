@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 18</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Shall I compare thee to a summer day</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thou art more lovely and more temperate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Rough winds do shake the darling buds of May</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And summer lease hath all too short a date</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Sometime too hot the eye of heaven shines</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And often is his gold complexion dimmed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And every fair from fair sometime declines</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By chance or nature changing course untrimmed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But thy eternal summer shall not fade</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor lose possession of that fair thou ow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor shall death brag thou wandrest in his shade</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When in eternal lines to time thou grow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So long as men can breathe or eyes can see</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So long lives this and this gives life to thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

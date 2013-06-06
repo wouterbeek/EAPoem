@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 33</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Full many a glorious morning have I seen</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Flatter the mountain tops with sovereign eye</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Kissing with golden face the meadows green</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Gilding pale streams with heavenly alchemy</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Anon permit the basest clouds to ride</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>With ugly rack on his celestial face</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And from the forlorn world his visage hide</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Stealing unseen to west with this disgrace</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Even so my sun one early morn did shine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>With all triumphant splendour on my brow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But out alack he was but one hour mine</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The region cloud hath masked him from me now</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Yet him for this my love no whit disdaineth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Suns of the world may stain when heaven sun staineth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 23</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>As an unperfect actor on the stage</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Who with his fear is put beside his part</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or some fierce thing replete with too much rage</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whose strength abundance weakens his own heart</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So I for fear of trust forget to say</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The perfect ceremony of love rite</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And in mine own love strength seem to decay</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Oercharged with burthen of mine own love might</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O let my looks be then the eloquence</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And dumb presagers of my speaking breast</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Who plead for love and look for recompense</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>More than that tongue that more hath more expressed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O learn to read what silent love hath writ</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To hear with eyes belongs to love fine wit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

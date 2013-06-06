@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 6</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Then let not winter ragged hand deface</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In thee thy summer ere thou be distilled</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Make sweet some vial treasure thou some place</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>With beauty treasure ere it be self-killed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That use is not forbidden usury</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which happies those that pay the willing loan</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That for thy self to breed another thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or ten times happier be it ten for one</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Ten times thy self were happier than thou art</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>If ten of thine ten times refigured thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then what could death do if thou shouldst depart</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Leaving thee living in posterity</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Be not self-willed for thou art much too fair</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To be death conquest and make worms thine heir</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

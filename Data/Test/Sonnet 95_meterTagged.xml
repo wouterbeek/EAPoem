@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 95</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>How sweet and lovely dost thou make the shame</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which like a canker in the fragrant rose</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Doth spot the beauty of thy budding name</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O in what sweets dost thou thy sins enclose</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That tongue that tells the story of thy days</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>(Making lascivious comments on thy sport)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Cannot dispraise but in a kind of praise</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Naming thy name blesses an ill report</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O what a mansion have those vices got</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which for their habitation chose out thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where beauty veil doth cover every blot</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And all things turns to fair that eyes can see</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Take heed (dear heart) of this large privilege</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The hardest knife ill-used doth lose his edge</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

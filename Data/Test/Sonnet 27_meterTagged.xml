@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 27</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Weary with toil I haste me to my bed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The dear respose for limbs with travel tired</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But then begins a journey in my head</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To work my mind when body work expired</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For then my thoughts (from far where I abide)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Intend a zealous pilgrimage to thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And keep my drooping eyelids open wide</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Looking on darkness which the blind do see</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Save that my soul imaginary sight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Presents thy shadow to my sightless view</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which like a jewel (hung in ghastly night)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Makes black night beauteous and her old face new</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Lo thus by day my limbs by night my mind</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For thee and for my self no quiet find</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

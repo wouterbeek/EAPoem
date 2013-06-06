@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 106</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>When in the chronicle of wasted time</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I see descriptions of the fairest wights</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And beauty making beautiful old rhyme</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In praise of ladies dead and lovely knights</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then in the blazon of sweet beauty best</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Of hand of foot of lip of eye of brow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I see their antique pen would have expressed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Even such a beauty as you master now</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So all their praises are but prophecies</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Of this our time all you prefiguring</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And for they looked but with divining eyes</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>They had not skill enough your worth to sing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For we which now behold these present days</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Have eyes to wonder but lack tongues to praise</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 54</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>O how much more doth beauty beauteous seem</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By that sweet ornament which truth doth give</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The rose looks fair but fairer we it deem</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For that sweet odour which doth in it live</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The canker blooms have full as deep a dye</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As the perfumed tincture of the roses</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Hang on such thorns and play as wantonly</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When summer breath their masked buds discloses</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But for their virtue only is their show</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>They live unwooed and unrespected fade</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Die to themselves Sweet roses do not so</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Of their sweet deaths are sweetest odours made</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And so of you beauteous and lovely youth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When that shall vade by verse distills your truth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

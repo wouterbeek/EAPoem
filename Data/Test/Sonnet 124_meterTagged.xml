@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 124</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>If my dear love were but the child of state</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>It might for Fortune bastard be unfathered</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As subject to time love or to time hate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Weeds among weeds or flowers with flowers gathered</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>No it was builded far from accident</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>It suffers not in smiling pomp nor falls</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Under the blow of thralled discontent</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whereto th inviting time our fashion calls</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>It fears not policy that heretic</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which works on leases of short-numbered hours</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But all alone stands hugely politic</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That it nor grows with heat nor drowns with showers</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To this I witness call the fools of time</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which die for goodness who have lived for crime</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

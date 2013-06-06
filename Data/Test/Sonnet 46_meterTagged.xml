@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 46</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Mine eye and heart are at a mortal war</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>How to divide the conquest of thy sight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Mine eye my heart thy picture sight would bar</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>My heart mine eye the freedom of that right</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>My heart doth plead that thou in him dost lie</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>(A closet never pierced with crystal eyes)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But the defendant doth that plea deny</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And says in him thy fair appearance lies</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To side this title is impanelled</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A quest of thoughts all tenants to the heart</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And by their verdict is determined</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The clear eye moiety and the dear heart part</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As thus mine eye due is thy outward part</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And my heart right thy inward love of heart</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

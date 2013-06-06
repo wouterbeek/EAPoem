@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 31</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Thy bosom is endeared with all hearts</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which I by lacking have supposed dead</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And there reigns love and all love loving parts</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And all those friends which I thought buried</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>How many a holy and obsequious tear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Hath dear religious love stoln from mine eye</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As interest of the dead which now appear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But things removed that hidden in thee lie</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thou art the grave where buried love doth live</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Hung with the trophies of my lovers gone</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Who all their parts of me to thee did give</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That due of many now is thine alone</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Their images I loved I view in thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And thou (all they) hast all the all of me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

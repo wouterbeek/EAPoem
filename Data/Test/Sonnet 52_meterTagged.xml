@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 52</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>So am I as the rich whose blessed key</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Can bring him to his sweet up-locked treasure</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The which he will not every hour survey</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For blunting the fine point of seldom pleasure</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Therefore are feasts so solemn and so rare</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Since seldom coming in that long year set</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Like stones of worth they thinly placed are</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or captain jewels in the carcanet</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So is the time that keeps you as my chest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or as the wardrobe which the robe doth hide</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To make some special instant special-blest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By new unfolding his imprisoned pride</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Blessed are you whose worthiness gives scope</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Being had to triumph being lacked to hope</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 8</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Music to hear why hear thou music sadly</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Sweets with sweets war not joy delights in joy</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Why lov thou that which thou receiv not gladly</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or else receiv with pleasure thine annoy</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>If the true concord of well-tuned sounds</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By unions married do offend thine ear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>They do but sweetly chide thee who confounds</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In singleness the parts that thou shouldst bear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Mark how one string sweet husband to another</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Strikes each in each by mutual ordering</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Resembling sire and child and happy mother</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Who all in one one pleasing note do sing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whose speechless song being many seeming one</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Sings this to thee Thou single wilt prove none</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 53</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>What is your substance whereof are you made</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That millions of strange shadows on you tend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Since every one hath every one one shade</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And you but one can every shadow lend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Describe Adonis and the counterfeit</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Is poorly imitated after you</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>On Helen cheek all art of beauty set</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And you in Grecian tires are painted new</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Speak of the spring and foison of the year</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The one doth shadow of your beauty show</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The other as your bounty doth appear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And you in every blessed shape we know</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In all external grace you have some part</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But you like none none you for constant heart</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

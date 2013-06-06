@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 41</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Those pretty wrongs that liberty commits</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When I am sometime absent from thy heart</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy beauty and thy years full well befits</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For still temptation follows where thou art</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Gentle thou art and therefore to be won</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Beauteous thou art therefore to be assailed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And when a woman woos what woman son</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Will sourly leave her till he have prevailed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Ay me but yet thou mightst my seat forbear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And chide thy beauty and thy straying youth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Who lead thee in their riot even there</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where thou art forced to break a twofold truth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Hers by thy beauty tempting her to thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thine by thy beauty being false to me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

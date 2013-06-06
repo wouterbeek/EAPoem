@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 80</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>O how I faint when I of you do write</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Knowing a better spirit doth use your name</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And in the praise thereof spends all his might</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To make me tongue-tied speaking of your fame</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But since your worth (wide as the ocean is)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The humble as the proudest sail doth bear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>My saucy bark (inferior far to his)</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>On your broad main doth wilfully appear</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Your shallowest help will hold me up afloat</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whilst he upon your soundless deep doth ride</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or (being wrecked) I am a worthless boat</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>He of tall building and of goodly pride</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Then if he thrive and I be cast away</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The worst was this my love was my decay</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

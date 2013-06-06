@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 78</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>So oft have I invoked thee for my muse</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And found such fair assistance in my verse</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As every alien pen hath got my use</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And under thee their poesy disperse</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thine eyes that taught the dumb on high to sing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And heavy ignorance aloft to fly</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Have added feathers to the learned wing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And given grace a double majesty</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Yet be most proud of that which I compile</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whose influence is thine and born of thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In others works thou dost but mend the style</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And arts with thy sweet graces graced be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But thou art all my art and dost advance</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As high as learning my rude ignorance</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 7</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Lo in the orient when the gracious light</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Lifts up his burning head each under eye</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Doth homage to his new-appearing sight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Serving with looks his sacred majesty</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And having climbed the steep-up heavenly hill</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Resembling strong youth in his middle age</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Yet mortal looks adore his beauty still</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Attending on his golden pilgrimage</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But when from highmost pitch with weary car</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Like feeble age he reeleth from the day</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The eyes (fore duteous) now converted are</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>From his low tract and look another way</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So thou thy self out-going in thy noon</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Unlooked on diest unless thou get a son</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

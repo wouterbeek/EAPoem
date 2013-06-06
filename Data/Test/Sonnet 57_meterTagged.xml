@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 57</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Being your slave what should I do but tend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Upon the hours and times of your desire</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I have no precious time at all to spend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor services to do till you require</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor dare I chide the world-without-end hour</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Whilst I (my sovereign) watch the clock for you</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor think the bitterness of absence sour</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When you have bid your servant once adieu</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nor dare I question with my jealous thought</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where you may be or your affairs suppose</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But like a sad slave stay and think of nought</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Save where you are how happy you make those</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So true a fool is love that in your will</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>(Though you do any thing) he thinks no ill</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

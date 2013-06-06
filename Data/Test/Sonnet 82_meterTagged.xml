@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 82</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>I grant thou wert not married to my muse</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And therefore mayst without attaint oerlook</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The dedicated words which writers use</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Of their fair subject blessing every book</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thou art as fair in knowledge as in hue</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Finding thy worth a limit past my praise</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And therefore art enforced to seek anew</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Some fresher stamp of the time-bettering days</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And do so love yet when they have devised</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>What strained touches rhetoric can lend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thou truly fair wert truly sympathized</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In true plain words by thy true-telling friend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And their gross painting might be better used</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where cheeks need blood in thee it is abused</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>
