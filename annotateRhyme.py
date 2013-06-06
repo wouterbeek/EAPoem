@@ -18,14 +18,6 @@ annotationDict = {1:'a', 2:'b', 3:'c', 4:'d', 5:'e', 6:'f', 7:'g'}
 
 rep = ["[", " '", "]", "'", "\n", "(1)", "(2)", "(3)"]
 
-"""
-GET word
-	SHELL --> fgrep word from CMU
-		store list
-	SEARCH second word in list
-"""
-
-
 
 def readFile(title):
 	"""
@@ -40,10 +32,10 @@ def readFile(title):
 		lineSplitReversed = lineSplit[::-1]
 		splittedLines.append(lineSplitReversed)
 	sonnet.close()
-	return splittedLines
+	return splittedLines, lineSplitReversed
 	
 
-def checkRhyme(sonnet):
+def checkRhyme(sonnet, rev):
 	lastWordsList = [] # List with all the last words of the sonnet
 	restList = []
 	for line in sonnet:
@@ -53,7 +45,10 @@ def checkRhyme(sonnet):
 	# Get the primary word
 	for word in lastWordsList: 
 		arg = ("['"  + word.upper() + "', ") # "['WET', "
-		rhymes = subprocess.check_output(["fgrep", arg, "/media/DATA/AI/Scriptie/Dictionaries/new_cmu.txt"], stderr=subprocess.STDOUT)
+		try:
+			rhymes = subprocess.check_output(["fgrep", arg, "/media/DATA/AI/Scriptie/Dictionaries/new_cmu.txt"], stderr=subprocess.STDOUT)
+		except:
+			pass
 		rhymesList = rhymes.split(",")
 		primary = rhymesList[0] # Word to search rhyme for
 		for tag in rep:
@@ -68,11 +63,15 @@ def checkRhyme(sonnet):
 					w = w.replace(tag, "")
 			restList.append(w)
 		
-		annotateRhymes(lastWordsList, primary, restList)
-			
 		
+		end = annotateRhymes(lastWordsList, primary, restList)
+		restList = []
+		if (end != None):
+			lastWordsList.remove(primary)
+			lastWordsList.remove(end)
+
+			
 				
-	
 def annotateRhymes(endings, primaryWord, rhymeList):
 	"""
 	Annotate the rhymes
@@ -81,13 +80,19 @@ def annotateRhymes(endings, primaryWord, rhymeList):
 	# Search the rhyme list for occurances
 		# of the other ending words
 		# If found: annotate the two words
-	print primaryWord
 	for end in endings:
-		print end
-		if ((end != primaryWord) and (end in rhymeList)):
-			print '!!!!!!! yes !!!!!!'
+		if ((end != primaryWord) and (end in rhymeList)):	
+			ann = annotations[0]
+			newPrimary = ("<" + ann + ">" + primaryWord.lower() + "</" + ann + ">")	
+			newEnd = ("<" + ann + ">" + end.lower() + "</" + ann + ">")	
+			annotations.remove(ann)	
+			replaceEnding(end, newPrimary, newEnd)
+			return end 
 			
-		
+def replaceEnding(ending, newPrimary, newEnding):
+	print ending
+	print newPrimary
+	print newEnding
 	return True
 	
 def main():
@@ -95,8 +100,8 @@ def main():
 	Program entry point
 	"""
 	begin = time.time()
-	lines = readFile('Sonnet 1_meterTagged.xml')
-	checkRhyme(lines)
+	(lines, rev) = readFile('Sonnet 2_meterTagged.xml')
+	checkRhyme(lines, rev)
 	
 	end = time.time()-begin
 	print 'Time taken: %d min and %d sec' % (end/60, end%60)
