@@ -1,10 +1,9 @@
 """
 Program to create a rhyme dictionary from CMU dictionary
-Adapted version of rhyme.py
+Adapted version of createRhymeDict.py
 
 To run: $ python cmuRhyme.py cmudict.txt cmuRhymes.txt
 
-!!! NOTE: Doesn't return a usable dictionary
 
 Author: Eszter Fodor
 Version: 05/2013
@@ -42,12 +41,16 @@ def getRhymes(loaded,out):
 			(word, phon) = line.split('  ')
 			phonSplit = phon.split(' ')
 			phonReverse = phonSplit[::-1]
-			# Add word and last part of phonetics to dictionary
-			# TODO: look at primary stress and get the words after that
-			if len(phonReverse) == 1:
-				lines.update({word:phonReverse[0]})
-			else:
-				lines.update({word:(phonReverse[1] + phonReverse[0])})
+			# Add word and last part of phonetics to dictionary and consider stress
+			for i in range(len(phonReverse)):
+				if (str(0) in phonReverse[i] or str(1) in phonReverse[i] or str(2) in phonReverse[i]):
+					if i == 0:
+						lines.update({word:phonReverse[i]})
+					elif i == 1:
+						lines.update({word:(phonReverse[1] + phonReverse[0])})
+					elif i == 2:
+						lines.update({word:(phonReverse[2] + phonReverse [1] + phonReverse[0])})
+			
 	# For every word in dictionary
 	for key in lines.keys():
 		rhyme = []

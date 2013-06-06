@@ -52,6 +52,10 @@ def strip_tags(text):
 	return line
 
 def createXML(poem, title):
+	"""
+	Create the XML tree for the files and
+	return a pretty printed version that can be saved
+	"""
 	root = ET.Element('poem')
 	head = ET.SubElement(root, 'phead')
 	ptitle = ET.SubElement(head, 'ptitle')
@@ -85,20 +89,30 @@ def prettify(elem):
 def main():
 	"""
 	Program entry point
+	1 Open the html of the site
+	2 Open the links to the sonnets one by one
+	3 Read the sonnet
+	4 Create XML tree of the sonnet
+	5 Save the XML tree in a seperate .xml file
 	"""
+	# 1
 	br = mechanize.Browser()
 	site = br.open("http://poetry.eserver.org/sonnets/")
 	html = site.read()
 	home = BeautifulSoup(html)
-	
 	links = home.body.tt
+	
+	# 2
 	for al in links.findAll('a', href=True):
 		newLink = "http://poetry.eserver.org/sonnets/" + str(al['href'])
 		ref = br.open(newLink)
-		htmlNew = ref.read()
+		# 3
+		htmlNew = ref.read() 
 		(poems, title) = getPoem(htmlNew)
+		# 4
 		xml = createXML(poems, title)
 		
+		# 5
 		for i in al:
 			fileName = str(i) + '.xml'
 			f = open(os.path.join("/media/DATA/AI/EAPoem/Data/SonnetsV2/", fileName), 'w')

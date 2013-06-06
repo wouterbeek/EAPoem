@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>134</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So now I have confessed that he is thine</line>
+      <line>And I my self am mortgaged to thy will</line>
+      <line>My self I'll forfeit so that other mine</line>
+      <line>Thou wilt restore to be my comfort still</line>
+      <line>But thou wilt not nor he will not be free</line>
+      <line>For thou art covetous and he is kind</line>
+      <line>He learned but surety-like to write for me</line>
+      <line>Under that bond that him as fist doth bind</line>
+      <line>The statute of thy beauty thou wilt take</line>
+      <line>Thou usurer that put'st forth all to use</line>
+      <line>And sue a friend came debtor for my sake</line>
+      <line>So him I lose through my unkind abuse</line>
+      <line>Him have I lost thou hast both him and me</line>
+      <line>He pays the whole and yet am I not free</line>
+    </stanza>
+  </pbody>
+</poem>

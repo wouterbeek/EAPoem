@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>145</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Those lips that Love's own hand did make</line>
+      <line>Breathed forth the sound that said 'I hate'</line>
+      <line>To me that languished for her sake</line>
+      <line>But when she saw my woeful state</line>
+      <line>Straight in her heart did mercy come</line>
+      <line>Chiding that tongue that ever sweet</line>
+      <line>Was used in giving gentle doom</line>
+      <line>And taught it thus anew to greet</line>
+      <line>'I hate' she altered with an end</line>
+      <line>That followed it as gentle day</line>
+      <line>Doth follow night who like a fiend</line>
+      <line>From heaven to hell is flown away</line>
+      <line>'I hate' from hate away she threw</line>
+      <line>And saved my life saying 'not you'</line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>64</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When I have seen by Time's fell hand defaced</line>
+      <line>The rich-proud cost of outworn buried age</line>
+      <line>When sometime lofty towers I see down-rased</line>
+      <line>And brass eternal slave to mortal rage</line>
+      <line>When I have seen the hungry ocean gain</line>
+      <line>Advantage on the kingdom of the shore</line>
+      <line>And the firm soil win of the watery main</line>
+      <line>Increasing store with loss and loss with store</line>
+      <line>When I have seen such interchange of State</line>
+      <line>Or state it self confounded to decay</line>
+      <line>Ruin hath taught me thus to ruminate</line>
+      <line>That Time will come and take my love away</line>
+      <line>This thought is as a death which cannot choose</line>
+      <line>But weep to have that which it fears to lose</line>
+    </stanza>
+  </pbody>
+</poem>

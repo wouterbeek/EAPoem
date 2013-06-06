@@ -1,5 +1,6 @@
 """
 Crawler to get the sonnets of Shakespeare from the web
+and storing them in a database
 
 Author: Eszter Fodor
 """

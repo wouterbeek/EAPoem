@@ -2,16 +2,26 @@
 Module to annotate rhymes in Shakespeare's sonnets
 
 Author: Eszter Fodor
-Version: 05/2013
+Version: 06/2013
 """
 
 import sys
 import os
 import re
+import subprocess
 import xml.etree.cElementTree as ET
 from xml.dom import minidom
 
 annotations = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+
+
+"""
+GET word
+	SHELL --> fgrep word from CMU
+		store list
+	SEARCH second word in list
+"""
+
 
 
 def readFile(title):
@@ -19,7 +29,7 @@ def readFile(title):
 	Read the xml's
 	"""
 	splittedLines = []
-	sonnet = open(os.path.join("/media/DATA/AI/EAPoem/Data/Sonnets", title), 'r+')
+	sonnet = open(os.path.join("/media/DATA/AI/EAPoem/Data/Test", title), 'r+')
 	tree = ET.parse(sonnet)
 	root = tree.getroot()
 	for line in root.iter('line'):
@@ -29,27 +39,7 @@ def readFile(title):
 	sonnet.close()
 	return splittedLines
 	
-	
-def findRhymes(splittedLines):
-	"""
-	Find rhyming words in the xml
-	"""
-	dictionary = open("dictionary_without_stress.txt", 'r')
-	lists = dictionary.read()
-	print lists
-	lasts = []
-	for lines in splittedLines:
-		last = lines[0] # Last words of every line
-		# Add last words to list
-		lasts.append(last)
-		
-	for words in lasts:
-		if words == lists[0][0]:
-			print words
-		else:
-			print lists[0][0]
-			
-			
+				
 	
 def annotateRhymes():
 	"""
@@ -62,7 +52,8 @@ def main():
 	Program entry point
 	"""
 	lines = readFile('001.xml')
-	findRhymes(lines)
+	print lines
+
 	
 #if __name__ == '__main__':
 #	sys.exit(main(sys.args))

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>66</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Tired with all these for restful death I cry</line>
+      <line>As to behold desert a beggar born</line>
+      <line>And needy nothing trimmed in jollity</line>
+      <line>And purest faith unhappily forsworn</line>
+      <line>And gilded honour shamefully misplaced</line>
+      <line>And maiden virtue rudely strumpeted</line>
+      <line>And right perfection wrongfully disgraced</line>
+      <line>And strength by limping sway disabled</line>
+      <line>And art made tongue-tied by authority</line>
+      <line>And folly (doctor-like) controlling skill</line>
+      <line>And simple truth miscalled simplicity</line>
+      <line>And captive good attending captain ill</line>
+      <line>Tired with all these from these would I be gone</line>
+      <line>Save that to die I leave my love alone</line>
+    </stanza>
+  </pbody>
+</poem>
