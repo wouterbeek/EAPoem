@@ -1,0 +1,7 @@
+% ======================================= %
+% The following are the negative examples %
+% ======================================= %
+parent(alice,ken).
+parent(alice,laura).
+parent(george,laura).
+parent(george,ken).
