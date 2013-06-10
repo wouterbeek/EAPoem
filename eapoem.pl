@@ -2,7 +2,6 @@
   eapoem,
   [
     shakespeare_csv/0,
-    test_dbnl/0,
     test_double_metaphone/0
   ]
 ).
@@ -37,10 +36,6 @@ shakespeare_csv:-
       format(user_output, '~w: ~w\n', [ID, Row])
     )
   ).
-
-test_dbnl:-
-  thread_create(dbnl_scrape, _ID, []).
-:- test_dbnl.
 
 % Double metaphone.
 test_double_metaphone:-
