@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 105</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Let not my love be called idolatry<phoneme category="a">idolatry</phoneme></line>
+      <line>Nor my beloved as an idol show<phoneme category="b">show</phoneme></line>
+      <line>Since all alike my songs and praises be<phoneme category="a">be</phoneme></line>
+      <line>To one of one still such and ever so<phoneme category="b">so</phoneme></line>
+      <line>Kind is my love to-day to-morrow kind<phoneme category="c">kind</phoneme></line>
+      <line>Still constant in a wondrous excellence<phoneme category="d">excellence</phoneme></line>
+      <line>Therefore my verse to constancy confined<phoneme category="c">confined</phoneme></line>
+      <line>One thing expressing leaves out difference<phoneme category="d">difference</phoneme></line>
+      <line>Fair kind and true is all my argument<phoneme category="e">argument</phoneme></line>
+      <line>Fair kind and true varying to other words<phoneme category="f">words</phoneme></line>
+      <line>And in this change is my invention spent<phoneme category="e">spent</phoneme></line>
+      <line>Three themes in one which wondrous scope affords<phoneme category="f">affords</phoneme></line>
+      <line>Fair kind and true have often lived alone<phoneme category="g">alone</phoneme></line>
+      <line>Which three till now never kept seat in one<phoneme category="g">one</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

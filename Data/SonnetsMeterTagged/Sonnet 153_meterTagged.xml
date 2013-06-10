@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 153</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Cupid laid by his brand and fell asleep</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A maid of Dian this advantage found</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And his love-kindling fire did quickly steep</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In a cold valley-fountain of that ground</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which borrowed from this holy fire of Love</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A dateless lively heat still to endure</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And grew a seeting bath which yet men prove</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Against strange maladies a sovereign cure</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But at my mistress eye Love brand new-fired</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The boy for trial needs would touch my breast</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I sick withal the help of bath desired</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And thither hied a sad distempered guest</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But found no cure the bath for my help lies</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Where Cupid got new fire my mistress eyes</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

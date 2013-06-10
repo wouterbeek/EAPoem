@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 107</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Not mine own fears nor the prophetic soul<phoneme category="a">soul</phoneme></line>
+      <line>Of the wide world dreaming on things to come<phoneme category="b">come</phoneme></line>
+      <line>Can yet the lease of my true love control<phoneme category="a">control</phoneme></line>
+      <line>Supposed as forfeit to a confined doom<phoneme category="b">doom</phoneme></line>
+      <line>The mortal moon hath her eclipse endured<phoneme category="c">endured</phoneme></line>
+      <line>And the sad augurs mock their own presage<phoneme category="d">presage</phoneme></line>
+      <line>Incertainties now crown themselves assured<phoneme category="c">assured</phoneme></line>
+      <line>And peace proclaims olives of endless age<phoneme category="d">age</phoneme></line>
+      <line>Now with the drops of this most balmy time<phoneme category="e">time</phoneme></line>
+      <line>My love looks fresh and death to me subscribes<phoneme category="f">subscribes</phoneme></line>
+      <line>Since spite of him Ill live in this poor rhyme<phoneme category="e">rhyme</phoneme></line>
+      <line>While he insults oer dull and speechless tribes<phoneme category="f">tribes</phoneme></line>
+      <line>And thou in this shalt find thy monument<phoneme category="g">monument</phoneme></line>
+      <line>When tyrants crests and tombs of brass are spent<phoneme category="g">spent</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

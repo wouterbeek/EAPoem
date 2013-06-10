@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 115</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Those lines that I before have writ do lie<phoneme category="a">lie</phoneme></line>
+      <line>Even those that said I could not love you dearer<phoneme category="b">dearer</phoneme></line>
+      <line>Yet then my judgment knew no reason why<phoneme category="a">why</phoneme></line>
+      <line>My most full flame should afterwards burn clearer<phoneme category="b">clearer</phoneme></line>
+      <line>But reckoning time whose millioned accidents<phoneme category="c">accidents</phoneme></line>
+      <line>Creep in twixt vows and change decrees of kings<phoneme category="d">kings</phoneme></line>
+      <line>Tan sacred beauty blunt the sharp intents<phoneme category="c">intents</phoneme></line>
+      <line>Divert strong minds to the course of altring things<phoneme category="d">things</phoneme></line>
+      <line>Alas why fearing of time tyranny<phoneme category="e">tyranny</phoneme></line>
+      <line>Might I not then say Now I love you best<phoneme category="f">best</phoneme></line>
+      <line>When I was certain oer incertainty<phoneme category="e">incertainty</phoneme></line>
+      <line>Crowning the present doubting of the rest<phoneme category="f">rest</phoneme></line>
+      <line>Love is a babe then might I not say so<phoneme category="g">so</phoneme></line>
+      <line>To give full growth to that which still doth grow<phoneme category="g">grow</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

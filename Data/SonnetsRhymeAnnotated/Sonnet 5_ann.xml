@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 5</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Those hours that with gentle work did frame<phoneme category="a">frame</phoneme></line>
+      <line>The lovely gaze where every eye doth dwell<phoneme category="b">dwell</phoneme></line>
+      <line>Will play the tyrants to the very same<phoneme category="a">same</phoneme></line>
+      <line>And that unfair which fairly doth excel<phoneme category="b">excel</phoneme></line>
+      <line>For never-resting time leads summer on<phoneme category="c">on</phoneme></line>
+      <line>To hideous winter and confounds him there<phoneme category="d">there</phoneme></line>
+      <line>Sap checked with frost and lusty leaves quite gone<phoneme category="c">gone</phoneme></line>
+      <line>Beauty oer-snowed and bareness every where<phoneme category="d">where</phoneme></line>
+      <line>Then were not summer distillation left<phoneme category="e">left</phoneme></line>
+      <line>A liquid prisoner pent in walls of glass<phoneme category="f">glass</phoneme></line>
+      <line>Beauty effect with beauty were bereft<phoneme category="e">bereft</phoneme></line>
+      <line>Nor it nor no remembrance what it was<phoneme category="f">was</phoneme></line>
+      <line>But flowers distilled though they with winter meet<phoneme category="g">meet</phoneme></line>
+      <line>Leese but their show their substance still lives sweet<phoneme category="g">sweet</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 153</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Cupid laid by his brand and fell asleep<phoneme category="a">asleep</phoneme></line>
+      <line>A maid of Dian this advantage found<phoneme category="b">found</phoneme></line>
+      <line>And his love-kindling fire did quickly steep<phoneme category="a">steep</phoneme></line>
+      <line>In a cold valley-fountain of that ground<phoneme category="b">ground</phoneme></line>
+      <line>Which borrowed from this holy fire of Love<phoneme category="c">Love</phoneme></line>
+      <line>A dateless lively heat still to endure<phoneme category="d">endure</phoneme></line>
+      <line>And grew a seeting bath which yet men prove<phoneme category="c">prove</phoneme></line>
+      <line>Against strange maladies a sovereign cure<phoneme category="d">cure</phoneme></line>
+      <line>But at my mistress eye Love brand new-fired<phoneme category="e">new-fired</phoneme></line>
+      <line>The boy for trial needs would touch my breast<phoneme category="f">breast</phoneme></line>
+      <line>I sick withal the help of bath desired<phoneme category="e">desired</phoneme></line>
+      <line>And thither hied a sad distempered guest<phoneme category="f">guest</phoneme></line>
+      <line>But found no cure the bath for my help lies<phoneme category="g">lies</phoneme></line>
+      <line>Where Cupid got new fire my mistress eyes<phoneme category="g">eyes</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

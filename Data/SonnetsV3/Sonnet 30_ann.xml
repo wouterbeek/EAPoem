@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 30</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When to the sessions of sweet silent thought<phoneme category="a">thought</phoneme></line>
+      <line>I summon up remembrance of things past<phoneme category="b">past</phoneme></line>
+      <line>I sigh the lack of many a thing I sought<phoneme category="a">sought</phoneme></line>
+      <line>And with old woes new wail my dear time waste<phoneme category="b">waste</phoneme></line>
+      <line>Then can I drown an eye (unused to flow)<phoneme category="c">flow)</phoneme></line>
+      <line>For precious friends hid in death dateless night<phoneme category="d">night</phoneme></line>
+      <line>And weep afresh love long since cancelled woe<phoneme category="c">woe</phoneme></line>
+      <line>And moan th expense of many a vanished sight<phoneme category="d">sight</phoneme></line>
+      <line>Then can I grieve at grievances foregone<phoneme category="e">foregone</phoneme></line>
+      <line>And heavily from woe to woe tell oer<phoneme category="f">oer</phoneme></line>
+      <line>The sad account of fore-bemoaned moan<phoneme category="e">moan</phoneme></line>
+      <line>Which I new pay as if not paid before<phoneme category="f">before</phoneme></line>
+      <line>But if the while I think on thee (dear friend)<phoneme category="g">friend)</phoneme></line>
+      <line>All losses are restored and sorrows end<phoneme category="g">end</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

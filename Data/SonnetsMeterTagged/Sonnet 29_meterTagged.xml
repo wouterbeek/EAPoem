@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 29</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>When in disgrace with Fortune and men eyes</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I all alone beweep my outcast state</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And trouble deaf heaven with my bootless cries</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And look upon my self and curse my fate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Wishing me like to one more rich in hope</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Featured like him like him with friends possessed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Desiring this man art and that man scope</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>With what I most enjoy contented least</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Yet in these thoughts my self almost despising</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Haply I think on thee and then my state</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>(Like to the lark at break of day arising</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>From sullen earth) sings hymns at heaven gate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For thy sweet love remembered such wealth brings</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That then I scorn to change my state with kings</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

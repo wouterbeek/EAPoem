@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 35</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>No more be grieved at that which thou hast done<phoneme category="a">done</phoneme></line>
+      <line>Roses have thorns and silver fountains mud<phoneme category="b">mud</phoneme></line>
+      <line>Clouds and eclipses stain both moon and sun<phoneme category="a">sun</phoneme></line>
+      <line>And loathsome canker lives in sweetest bud<phoneme category="b">bud</phoneme></line>
+      <line>All men make faults and even I in this<phoneme category="c">this</phoneme></line>
+      <line>Authorizing thy trespass with compare<phoneme category="d">compare</phoneme></line>
+      <line>My self corrupting salving thy amiss<phoneme category="c">amiss</phoneme></line>
+      <line>Excusing thy sins more than thy sins are<phoneme category="d">are</phoneme></line>
+      <line>For to thy sensual fault I bring in sense<phoneme category="e">sense</phoneme></line>
+      <line>Thy adverse party is thy advocate<phoneme category="f">advocate</phoneme></line>
+      <line>And gainst my self a lawful plea commence<phoneme category="e">commence</phoneme></line>
+      <line>Such civil war is in my love and hate<phoneme category="f">hate</phoneme></line>
+      <line>That I an accessary needs must be<phoneme category="g">be</phoneme></line>
+      <line>To that sweet thief which sourly robs from me<phoneme category="g">me</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

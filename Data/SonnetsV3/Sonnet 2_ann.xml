@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 2</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When forty winters shall besiege thy brow<phoneme category="a">brow</phoneme></line>
+      <line>And dig deep trenches in thy beauty field<phoneme category="b">field</phoneme></line>
+      <line>Thy youth proud livery so gazed on now<phoneme category="a">now</phoneme></line>
+      <line>Will be a tattered weed of small worth held<phoneme category="b">held</phoneme></line>
+      <line>Then being asked where all thy beauty lies<phoneme category="c">lies</phoneme></line>
+      <line>Where all the treasure of thy lusty days<phoneme category="d">days</phoneme></line>
+      <line>To say within thine own deep sunken eyes<phoneme category="c">eyes</phoneme></line>
+      <line>Were an all-eating shame and thriftless praise<phoneme category="d">praise</phoneme></line>
+      <line>How much more praise deserved thy beauty use<phoneme category="e">use</phoneme></line>
+      <line>If thou couldst answer This fair child of mine<phoneme category="f">mine</phoneme></line>
+      <line>Shall sum my count and make my old excuse<phoneme category="e">excuse</phoneme></line>
+      <line>Proving his beauty by succession thine<phoneme category="f">thine</phoneme></line>
+      <line>This were to be new made when thou art old<phoneme category="g">old</phoneme></line>
+      <line>And see thy blood warm when thou feel it cold<phoneme category="g">cold</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

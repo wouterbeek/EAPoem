@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 49</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Against that time (if ever that time come)<phoneme category="a">come)</phoneme></line>
+      <line>When I shall see thee frown on my defects<phoneme category="b">defects</phoneme></line>
+      <line>When as thy love hath cast his utmost sum<phoneme category="a">sum</phoneme></line>
+      <line>Called to that audit by advised respects<phoneme category="b">respects</phoneme></line>
+      <line>Against that time when thou shalt strangely pass<phoneme category="c">pass</phoneme></line>
+      <line>And scarcely greet me with that sun thine eye<phoneme category="d">eye</phoneme></line>
+      <line>When love converted from the thing it was<phoneme category="c">was</phoneme></line>
+      <line>Shall reasons find of settled gravity<phoneme category="d">gravity</phoneme></line>
+      <line>Against that time do I ensconce me here<phoneme category="e">here</phoneme></line>
+      <line>Within the knowledge of mine own desert<phoneme category="f">desert</phoneme></line>
+      <line>And this my hand against my self uprear<phoneme category="e">uprear</phoneme></line>
+      <line>To guard the lawful reasons on thy part<phoneme category="f">part</phoneme></line>
+      <line>To leave poor me thou hast the strength of laws<phoneme category="g">laws</phoneme></line>
+      <line>Since why to love I can allege no cause<phoneme category="g">cause</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

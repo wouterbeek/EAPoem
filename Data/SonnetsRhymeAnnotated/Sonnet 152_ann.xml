@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 152</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>In loving thee thou know I am forsworn<phoneme category="a">forsworn</phoneme></line>
+      <line>But thou art twice forsworn to me love swearing<phoneme category="b">swearing</phoneme></line>
+      <line>In act thy bed-vow broke and new faith torn<phoneme category="a">torn</phoneme></line>
+      <line>In vowing new hate after new love bearing<phoneme category="b">bearing</phoneme></line>
+      <line>But why of two oaths breach do I accuse thee<phoneme category="c">thee</phoneme></line>
+      <line>When I break twenty I am perjured most<phoneme category="d">most</phoneme></line>
+      <line>For all my vows are oaths but to misuse thee<phoneme category="c">thee</phoneme></line>
+      <line>And all my honest faith in thee is lost<phoneme category="d">lost</phoneme></line>
+      <line>For I have sworn deep oaths of thy deep kindness<phoneme category="e">kindness</phoneme></line>
+      <line>Oaths of thy love thy truth thy constancy<phoneme category="f">constancy</phoneme></line>
+      <line>And to enlighten thee gave eyes to blindness<phoneme category="e">blindness</phoneme></line>
+      <line>Or made them swear against the thing they see<phoneme category="f">see</phoneme></line>
+      <line>For I have sworn thee fair more perjured I<phoneme category="g">I</phoneme></line>
+      <line>To swear against the truth so foul a be<phoneme category="g">be</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

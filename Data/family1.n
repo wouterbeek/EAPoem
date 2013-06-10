@@ -1,7 +1,23 @@
 % ======================================= %
 % The following are the negative examples %
 % ======================================= %
-parent(alice,ken).
-parent(alice,laura).
-parent(george,laura).
-parent(george,ken).
+parent(ken,alice).
+parent(laura,alice).
+parent(laura,george).
+parent(ken,george).
+parent(melissa,harriet).
+parent(melissa,sharon).
+
+
+sibling(bob,melissa).
+sibling(laura,alice).
+sibling(harriet,sharon).
+sibling(george, alice).
+sibling(melissa, melissa).
+
+%			     ken 	+	laura	& martin
+%				/	  		/
+%		melissa  &	harriet		+	george
+%							 \	  /
+%						bob 	& 	alice	& sharon
+

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 109</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O never say that I was false of heart<phoneme category="a">heart</phoneme></line>
+      <line>Though absence seemed my flame to qualify<phoneme category="b">qualify</phoneme></line>
+      <line>As easy might I from my self depart<phoneme category="a">depart</phoneme></line>
+      <line>As from my soul which in thy breast doth lie<phoneme category="b">lie</phoneme></line>
+      <line>That is my home of love if I have ranged<phoneme category="c">ranged</phoneme></line>
+      <line>Like him that travels I return again<phoneme category="d">again</phoneme></line>
+      <line>Just to the time not with the time exchanged<phoneme category="c">exchanged</phoneme></line>
+      <line>So that my self bring water for my stain<phoneme category="d">stain</phoneme></line>
+      <line>Never believe though in my nature reigned<phoneme category="e">reigned</phoneme></line>
+      <line>All frailties that besiege all kinds of blood<phoneme category="f">blood</phoneme></line>
+      <line>That it could so preposterously be stained<phoneme category="e">stained</phoneme></line>
+      <line>To leave for nothing all thy sum of good<phoneme category="f">good</phoneme></line>
+      <line>For nothing this wide universe I call<phoneme category="g">call</phoneme></line>
+      <line>Save thou my rose in it thou art my all<phoneme category="g">all</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 59</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>If there be nothing new but that which is<phoneme category="a">is</phoneme></line>
+      <line>Hath been before how are our brains beguiled<phoneme category="b">beguiled</phoneme></line>
+      <line>Which labouring for invention bear amis<phoneme category="a">amis</phoneme></line>
+      <line>The second burthen of a former child<phoneme category="b">child</phoneme></line>
+      <line>O that record could with a backward look<phoneme category="c">look</phoneme></line>
+      <line>Even of five hundred courses of the sun<phoneme category="d">sun</phoneme></line>
+      <line>Show me your image in some antique book<phoneme category="c">book</phoneme></line>
+      <line>Since mind at first in character was done<phoneme category="d">done</phoneme></line>
+      <line>That I might see what the old world could say<phoneme category="e">say</phoneme></line>
+      <line>To this composed wonder of your frame<phoneme category="f">frame</phoneme></line>
+      <line>Whether we are mended or whether better they<phoneme category="e">they</phoneme></line>
+      <line>Or whether revolution be the same<phoneme category="f">same</phoneme></line>
+      <line>O sure I am the wits of former days<phoneme category="g">days</phoneme></line>
+      <line>To subjects worse have given admiring praise<phoneme category="g">praise</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

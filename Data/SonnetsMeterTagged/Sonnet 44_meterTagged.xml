@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 44</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>If the dull substance of my flesh were thought</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Injurious distance should not stop my way</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For then despite of space I would be brought</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>From limits far remote where thou dost stay</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>No matter then although my foot did stand</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Upon the farthest earth removed from thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For nimble thought can jump both sea and land</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>As soon as think the place where he would be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But ah thought kills me that I am not thought</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To leap large lengths of miles when thou art gone</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But that so much of earth and water wrought</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I must attend time leisure with my moan</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Receiving nought by elements so slow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But heavy tears badges of either woe</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

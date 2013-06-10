@@ -1,6 +1,9 @@
 """
 Brute force rhyme annotation
 Neccesery measures to be able to progress to next stage
+
+Author: Eszter Fodor
+Version 3.0, 06/2013
 """
 
 import os
@@ -18,7 +21,7 @@ def annotate(fileName):
 	tree = ET.parse(fileName)
 	root = tree.getroot()
 	counter = 1
-	for line in root.iter('text'):
+	for line in root.iter('line'):
 		lineSplit = line.text.split(" ")
 		lineSplitReversed = lineSplit[::-1]
 		last = lineSplitReversed[0]
@@ -85,7 +88,7 @@ def main(args):
 			(xml, name) = newXML(l, r)
 			fName = (name + "_ann")
 			fileName = fName + '.xml'
-			nf = open(os.path.join("/media/DATA/AI/EAPoem/Data/Test", fileName), 'w')
+			nf = open(os.path.join("/media/DATA/AI/EAPoem/Data/SonnetsV3", fileName), 'w')
 			nf.write(xml)
 	
 

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 124</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>If my dear love were but the child of state<phoneme category="a">state</phoneme></line>
+      <line>It might for Fortune bastard be unfathered<phoneme category="b">unfathered</phoneme></line>
+      <line>As subject to time love or to time hate<phoneme category="a">hate</phoneme></line>
+      <line>Weeds among weeds or flowers with flowers gathered<phoneme category="b">gathered</phoneme></line>
+      <line>No it was builded far from accident<phoneme category="c">accident</phoneme></line>
+      <line>It suffers not in smiling pomp nor falls<phoneme category="d">falls</phoneme></line>
+      <line>Under the blow of thralled discontent<phoneme category="c">discontent</phoneme></line>
+      <line>Whereto th inviting time our fashion calls<phoneme category="d">calls</phoneme></line>
+      <line>It fears not policy that heretic<phoneme category="e">heretic</phoneme></line>
+      <line>Which works on leases of short-numbered hours<phoneme category="f">hours</phoneme></line>
+      <line>But all alone stands hugely politic<phoneme category="e">politic</phoneme></line>
+      <line>That it nor grows with heat nor drowns with showers<phoneme category="f">showers</phoneme></line>
+      <line>To this I witness call the fools of time<phoneme category="g">time</phoneme></line>
+      <line>Which die for goodness who have lived for crime<phoneme category="g">crime</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

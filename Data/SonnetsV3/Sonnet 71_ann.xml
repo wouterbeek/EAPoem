@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 71</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>No longer mourn for me when I am dead<phoneme category="a">dead</phoneme></line>
+      <line>Than you shall hear the surly sullen bell<phoneme category="b">bell</phoneme></line>
+      <line>Give warning to the world that I am fled<phoneme category="a">fled</phoneme></line>
+      <line>From this vile world with vilest worms to dwell<phoneme category="b">dwell</phoneme></line>
+      <line>Nay if you read this line remember not<phoneme category="c">not</phoneme></line>
+      <line>The hand that writ it for I love you so<phoneme category="d">so</phoneme></line>
+      <line>That I in your sweet thoughts would be forgot<phoneme category="c">forgot</phoneme></line>
+      <line>If thinking on me then should make you woe<phoneme category="d">woe</phoneme></line>
+      <line>O if (I say) you look upon this verse<phoneme category="e">verse</phoneme></line>
+      <line>When I (perhaps) compounded am with clay<phoneme category="f">clay</phoneme></line>
+      <line>Do not so much as my poor name rehearse<phoneme category="e">rehearse</phoneme></line>
+      <line>But let your love even with my life decay<phoneme category="f">decay</phoneme></line>
+      <line>Lest the wise world should look into your moan<phoneme category="g">moan</phoneme></line>
+      <line>And mock you with me after I am gone<phoneme category="g">gone</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

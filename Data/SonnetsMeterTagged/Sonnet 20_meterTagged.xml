@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 20</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>A woman face with nature own hand painted</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Hast thou the master mistress of my passion</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A woman gentle heart but not acquainted</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>With shifting change as is false women fashion</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>An eye more bright than theirs less false in rolling</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Gilding the object whereupon it gazeth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A man in hue all hues in his controlling</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which steals men eyes and women souls amazeth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And for a woman wert thou first created</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Till nature as she wrought thee fell a-doting</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And by addition me of thee defeated</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By adding one thing to my purpose nothing</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But since she pricked thee out for women pleasure</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Mine be thy love and thy love use their treasure</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,26 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 62</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Sin of self-love possesseth all mine eye<phoneme category="a">eye</phoneme></line>
+      <line>And all my soul and all my every part<phoneme category="b">part</phoneme></line>
+      <line>And for this sin there is no remedy<phoneme category="a">remedy</phoneme></line>
+      <line>It is so grounded inward in my heart<phoneme category="b">heart</phoneme></line>
+      <line>Methinks no face so gracious is as mine<phoneme category="c">mine</phoneme></line>
+      <line>No shape so true no truth of such account<phoneme category="d">account</phoneme></line>
+      <line>And for my self mine own worth do define<phoneme category="c">define</phoneme></line>
+      <line>As I all other in all worths surmount<phoneme category="d">surmount</phoneme></line>
+      <line>But when my glass shows me my self indeed<phoneme category="e">indeed</phoneme></line>
+      <line>beated and chopt with tanned antiquity<phoneme category="f">antiquity</phoneme></line>
+      <line>Mine own self-love quite contrary I read<phoneme category="e">read</phoneme></line>
+      <line>Self so self-loving were iniquity<phoneme category="f">iniquity</phoneme></line>
+      <line>Tis thee (my self) that for my self I praise Painting my age with beauty of thy days<phoneme category="g">days</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

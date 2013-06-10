@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 22</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>My glass shall not persuade me I am old<phoneme category="a">old</phoneme></line>
+      <line>So long as youth and thou are of one date<phoneme category="b">date</phoneme></line>
+      <line>But when in thee time furrows I behold<phoneme category="a">behold</phoneme></line>
+      <line>Then look I death my days should expiate<phoneme category="b">expiate</phoneme></line>
+      <line>For all that beauty that doth cover thee<phoneme category="c">thee</phoneme></line>
+      <line>Is but the seemly raiment of my heart<phoneme category="d">heart</phoneme></line>
+      <line>Which in thy breast doth live as thine in me<phoneme category="c">me</phoneme></line>
+      <line>How can I then be elder than thou art<phoneme category="d">art</phoneme></line>
+      <line>O therefore love be of thyself so wary<phoneme category="e">wary</phoneme></line>
+      <line>As I not for my self but for thee will<phoneme category="f">will</phoneme></line>
+      <line>Bearing thy heart which I will keep so chary<phoneme category="e">chary</phoneme></line>
+      <line>As tender nurse her babe from faring ill<phoneme category="f">ill</phoneme></line>
+      <line>Presume not on thy heart when mine is slain<phoneme category="g">slain</phoneme></line>
+      <line>Thou gav me thine not to give back again<phoneme category="g">again</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

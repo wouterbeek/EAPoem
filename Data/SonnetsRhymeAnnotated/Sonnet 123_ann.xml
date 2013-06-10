@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 123</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>No Time thou shalt not boast that I do change<phoneme category="a">change</phoneme></line>
+      <line>Thy pyramids built up with newer might<phoneme category="b">might</phoneme></line>
+      <line>To me are nothing novel nothing strange<phoneme category="a">strange</phoneme></line>
+      <line>They are but dressings Of a former sight<phoneme category="b">sight</phoneme></line>
+      <line>Our dates are brief and therefore we admire<phoneme category="c">admire</phoneme></line>
+      <line>What thou dost foist upon us that is old<phoneme category="d">old</phoneme></line>
+      <line>And rather make them born to our desire<phoneme category="c">desire</phoneme></line>
+      <line>Than think that we before have heard them told<phoneme category="d">told</phoneme></line>
+      <line>Thy registers and thee I both defy<phoneme category="e">defy</phoneme></line>
+      <line>Not wondring at the present nor the past<phoneme category="f">past</phoneme></line>
+      <line>For thy records and what we see doth lie<phoneme category="e">lie</phoneme></line>
+      <line>Made more or less by thy continual haste<phoneme category="f">haste</phoneme></line>
+      <line>This I do vow and this shall ever be<phoneme category="g">be</phoneme></line>
+      <line>I will be true despite thy scythe and thee<phoneme category="g">thee</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

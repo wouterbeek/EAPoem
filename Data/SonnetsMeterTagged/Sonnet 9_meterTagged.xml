@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 9</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Is it for fear to wet a widow eye</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That thou consum thy self in single life</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Ah if thou issueless shalt hap to die</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The world will wail thee like a makeless wife</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The world will be thy widow and still weep</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That thou no form of thee hast left behind</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When every private widow well may keep</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>By children eyes her husband shape in mind</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Look what an unthrift in the world doth spend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Shifts but his place for still the world enjoys it</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But beauty waste hath in the world an end</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And kept unused the user so destroys it</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>No love toward others in that bosom sits</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That on himself such murdrous shame commits</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

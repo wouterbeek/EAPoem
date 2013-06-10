@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 27</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Weary with toil I haste me to my bed<phoneme category="a">bed</phoneme></line>
+      <line>The dear respose for limbs with travel tired<phoneme category="b">tired</phoneme></line>
+      <line>But then begins a journey in my head<phoneme category="a">head</phoneme></line>
+      <line>To work my mind when body work expired<phoneme category="b">expired</phoneme></line>
+      <line>For then my thoughts (from far where I abide)<phoneme category="c">abide)</phoneme></line>
+      <line>Intend a zealous pilgrimage to thee<phoneme category="d">thee</phoneme></line>
+      <line>And keep my drooping eyelids open wide<phoneme category="c">wide</phoneme></line>
+      <line>Looking on darkness which the blind do see<phoneme category="d">see</phoneme></line>
+      <line>Save that my soul imaginary sight<phoneme category="e">sight</phoneme></line>
+      <line>Presents thy shadow to my sightless view<phoneme category="f">view</phoneme></line>
+      <line>Which like a jewel (hung in ghastly night)<phoneme category="e">night)</phoneme></line>
+      <line>Makes black night beauteous and her old face new<phoneme category="f">new</phoneme></line>
+      <line>Lo thus by day my limbs by night my mind<phoneme category="g">mind</phoneme></line>
+      <line>For thee and for my self no quiet find<phoneme category="g">find</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

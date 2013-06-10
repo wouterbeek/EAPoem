@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 60</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Like as the waves make towards the pebbled shore</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>So do our minutes hasten to their end</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Each changing place with that which goes before</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In sequent toil all forwards do contend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Nativity once in the main of light</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Crawls to maturity wherewith being crowned</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Crooked eclipses gainst his glory fight</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And Time that gave doth now his gift confound</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Time doth transfix the flourish set on youth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And delves the parallels in beauty brow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Feeds on the rarities of nature truth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And nothing stands but for his scythe to mow</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And yet to times in hope my verse shall stand</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Praising thy worth despite his cruel hand</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

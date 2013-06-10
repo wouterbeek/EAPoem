@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 137</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Thou blind fool Love what dost thou to mine eyes<phoneme category="a">eyes</phoneme></line>
+      <line>That they behold and see not what they see<phoneme category="b">see</phoneme></line>
+      <line>They know what beauty is see where it lies<phoneme category="a">lies</phoneme></line>
+      <line>Yet what the best is take the worst to be<phoneme category="b">be</phoneme></line>
+      <line>If eyes corrupt by over-partial looks<phoneme category="c">looks</phoneme></line>
+      <line>Be anchored in the bay where all men ride<phoneme category="d">ride</phoneme></line>
+      <line>Why of eyes falsehood hast thou forged hooks<phoneme category="c">hooks</phoneme></line>
+      <line>Whereto the judgment of my heart is tied<phoneme category="d">tied</phoneme></line>
+      <line>Why should my heart think that a several plot<phoneme category="e">plot</phoneme></line>
+      <line>Which my heart knows the wide world common place<phoneme category="f">place</phoneme></line>
+      <line>Or mine eyes seeing this say this is not<phoneme category="e">not</phoneme></line>
+      <line>To put fair truth upon so foul a face<phoneme category="f">face</phoneme></line>
+      <line>In things right true my heart and eyes have erred<phoneme category="g">erred</phoneme></line>
+      <line>And to this false plague are they now transferred<phoneme category="g">transferred</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

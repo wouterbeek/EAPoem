@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 95</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>How sweet and lovely dost thou make the shame<phoneme category="a">shame</phoneme></line>
+      <line>Which like a canker in the fragrant rose<phoneme category="b">rose</phoneme></line>
+      <line>Doth spot the beauty of thy budding name<phoneme category="a">name</phoneme></line>
+      <line>O in what sweets dost thou thy sins enclose<phoneme category="b">enclose</phoneme></line>
+      <line>That tongue that tells the story of thy days<phoneme category="c">days</phoneme></line>
+      <line>(Making lascivious comments on thy sport)<phoneme category="d">sport)</phoneme></line>
+      <line>Cannot dispraise but in a kind of praise<phoneme category="c">praise</phoneme></line>
+      <line>Naming thy name blesses an ill report<phoneme category="d">report</phoneme></line>
+      <line>O what a mansion have those vices got<phoneme category="e">got</phoneme></line>
+      <line>Which for their habitation chose out thee<phoneme category="f">thee</phoneme></line>
+      <line>Where beauty veil doth cover every blot<phoneme category="e">blot</phoneme></line>
+      <line>And all things turns to fair that eyes can see<phoneme category="f">see</phoneme></line>
+      <line>Take heed (dear heart) of this large privilege<phoneme category="g">privilege</phoneme></line>
+      <line>The hardest knife ill-used doth lose his edge<phoneme category="g">edge</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

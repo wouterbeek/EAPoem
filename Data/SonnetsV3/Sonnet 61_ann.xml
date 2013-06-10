@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 61</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Is it thy will thy image should keep open<phoneme category="a">open</phoneme></line>
+      <line>My heavy eyelids to the weary night<phoneme category="b">night</phoneme></line>
+      <line>Dost thou desire my slumbers should be broken<phoneme category="a">broken</phoneme></line>
+      <line>While shadows like to thee do mock my sight<phoneme category="b">sight</phoneme></line>
+      <line>Is it thy spirit that thou send from thee<phoneme category="c">thee</phoneme></line>
+      <line>So far from home into my deeds to pry<phoneme category="d">pry</phoneme></line>
+      <line>To find out shames and idle hours in me<phoneme category="c">me</phoneme></line>
+      <line>The scope and tenure of thy jealousy<phoneme category="d">jealousy</phoneme></line>
+      <line>O no thy love though much is not so great<phoneme category="e">great</phoneme></line>
+      <line>It is my love that keeps mine eye awake<phoneme category="f">awake</phoneme></line>
+      <line>Mine own true love that doth my rest defeat<phoneme category="e">defeat</phoneme></line>
+      <line>To play the watchman ever for thy sake<phoneme category="f">sake</phoneme></line>
+      <line>For thee watch I whilst thou dost wake elsewhere<phoneme category="g">elsewhere</phoneme></line>
+      <line>From me far off with others all too near<phoneme category="g">near</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

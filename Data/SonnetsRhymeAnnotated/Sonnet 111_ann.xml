@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 111</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O for my sake do you with Fortune chide<phoneme category="a">chide</phoneme></line>
+      <line>The guilty goddess of my harmful deeds<phoneme category="b">deeds</phoneme></line>
+      <line>That did not better for my life provide<phoneme category="a">provide</phoneme></line>
+      <line>Than public means which public manners breeds<phoneme category="b">breeds</phoneme></line>
+      <line>Thence comes it that my name receives a brand<phoneme category="c">brand</phoneme></line>
+      <line>And almost thence my nature is subdued<phoneme category="d">subdued</phoneme></line>
+      <line>To what it works in like the dyer hand<phoneme category="c">hand</phoneme></line>
+      <line>Pity me then and wish I were renewed<phoneme category="d">renewed</phoneme></line>
+      <line>Whilst like a willing patient I will drink<phoneme category="e">drink</phoneme></line>
+      <line>Potions of eisel gainst my strong infection<phoneme category="f">infection</phoneme></line>
+      <line>No bitterness that I will bitter think<phoneme category="e">think</phoneme></line>
+      <line>Nor double penance to correct correction<phoneme category="f">correction</phoneme></line>
+      <line>Pity me then dear friend and I assure ye<phoneme category="g">ye</phoneme></line>
+      <line>Even that your pity is enough to cure me<phoneme category="g">me</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

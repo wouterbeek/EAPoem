@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 16</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>But wherefore do not you a mightier way<phoneme category="a">way</phoneme></line>
+      <line>Make war upon this bloody tyrant Time<phoneme category="b">Time</phoneme></line>
+      <line>And fortify your self in your decay<phoneme category="a">decay</phoneme></line>
+      <line>With means more blessed than my barren rhyme<phoneme category="b">rhyme</phoneme></line>
+      <line>Now stand you on the top of happy hours<phoneme category="c">hours</phoneme></line>
+      <line>And many maiden gardens yet unset<phoneme category="d">unset</phoneme></line>
+      <line>With virtuous wish would bear you living flowers<phoneme category="c">flowers</phoneme></line>
+      <line>Much liker than your painted counterfeit<phoneme category="d">counterfeit</phoneme></line>
+      <line>So should the lines of life that life repair<phoneme category="e">repair</phoneme></line>
+      <line>Which this (Time pencil) or my pupil pen<phoneme category="f">pen</phoneme></line>
+      <line>Neither in inward worth nor outward fair<phoneme category="e">fair</phoneme></line>
+      <line>Can make you live your self in eyes of men<phoneme category="f">men</phoneme></line>
+      <line>To give away your self keeps your self still<phoneme category="g">still</phoneme></line>
+      <line>And you must live drawn by your own sweet skill<phoneme category="g">skill</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

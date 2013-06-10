@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 94</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>They that have power to hurt and will do none<phoneme category="a">none</phoneme></line>
+      <line>That do not do the thing they most do show<phoneme category="b">show</phoneme></line>
+      <line>Who moving others are themselves as stone<phoneme category="a">stone</phoneme></line>
+      <line>Unmoved cold and to temptation slow<phoneme category="b">slow</phoneme></line>
+      <line>They rightly do inherit heaven graces<phoneme category="c">graces</phoneme></line>
+      <line>And husband nature riches from expense<phoneme category="d">expense</phoneme></line>
+      <line>Tibey are the lords and owners of their faces<phoneme category="c">faces</phoneme></line>
+      <line>Others but stewards of their excellence<phoneme category="d">excellence</phoneme></line>
+      <line>The summer flower is to the summer sweet<phoneme category="e">sweet</phoneme></line>
+      <line>Though to it self it only live and die<phoneme category="f">die</phoneme></line>
+      <line>But if that flower with base infection meet<phoneme category="e">meet</phoneme></line>
+      <line>The basest weed outbraves his dignity<phoneme category="f">dignity</phoneme></line>
+      <line>For sweetest things turn sourest by their deeds<phoneme category="g">deeds</phoneme></line>
+      <line>Lilies that fester smell far worse than weeds<phoneme category="g">weeds</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

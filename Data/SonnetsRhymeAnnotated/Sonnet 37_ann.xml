@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 37</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>As a decrepit father takes delight<phoneme category="a">delight</phoneme></line>
+      <line>To see his active child do deeds of youth<phoneme category="b">youth</phoneme></line>
+      <line>So I made lame by Fortune dearest spite<phoneme category="a">spite</phoneme></line>
+      <line>Take all my comfort of thy worth and truth<phoneme category="b">truth</phoneme></line>
+      <line>For whether beauty birth or wealth or wit<phoneme category="c">wit</phoneme></line>
+      <line>Or any of these all or all or more<phoneme category="d">more</phoneme></line>
+      <line>Entitled in thy parts do crowned sit<phoneme category="c">sit</phoneme></line>
+      <line>I make my love engrafted to this store<phoneme category="d">store</phoneme></line>
+      <line>So then I am not lame poor nor despised<phoneme category="e">despised</phoneme></line>
+      <line>Whilst that this shadow doth such substance give<phoneme category="f">give</phoneme></line>
+      <line>That I in thy abundance am sufficed<phoneme category="e">sufficed</phoneme></line>
+      <line>And by a part of all thy glory live<phoneme category="f">live</phoneme></line>
+      <line>Look what is best that best I wish in thee<phoneme category="g">thee</phoneme></line>
+      <line>This wish I have then ten times happy me<phoneme category="g">me</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

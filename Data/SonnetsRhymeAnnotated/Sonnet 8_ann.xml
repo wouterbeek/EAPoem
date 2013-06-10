@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 8</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Music to hear why hear thou music sadly<phoneme category="a">sadly</phoneme></line>
+      <line>Sweets with sweets war not joy delights in joy<phoneme category="b">joy</phoneme></line>
+      <line>Why lov thou that which thou receiv not gladly<phoneme category="a">gladly</phoneme></line>
+      <line>Or else receiv with pleasure thine annoy<phoneme category="b">annoy</phoneme></line>
+      <line>If the true concord of well-tuned sounds<phoneme category="c">sounds</phoneme></line>
+      <line>By unions married do offend thine ear<phoneme category="d">ear</phoneme></line>
+      <line>They do but sweetly chide thee who confounds<phoneme category="c">confounds</phoneme></line>
+      <line>In singleness the parts that thou shouldst bear<phoneme category="d">bear</phoneme></line>
+      <line>Mark how one string sweet husband to another<phoneme category="e">another</phoneme></line>
+      <line>Strikes each in each by mutual ordering<phoneme category="f">ordering</phoneme></line>
+      <line>Resembling sire and child and happy mother<phoneme category="e">mother</phoneme></line>
+      <line>Who all in one one pleasing note do sing<phoneme category="f">sing</phoneme></line>
+      <line>Whose speechless song being many seeming one<phoneme category="g">one</phoneme></line>
+      <line>Sings this to thee Thou single wilt prove none<phoneme category="g">none</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

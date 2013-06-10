@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 96</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Some say thy fault is youth some wantonness<phoneme category="a">wantonness</phoneme></line>
+      <line>Some say thy grace is youth and gentle sport<phoneme category="b">sport</phoneme></line>
+      <line>Both grace and faults are loved of more and less<phoneme category="a">less</phoneme></line>
+      <line>Thou mak faults graces that to thee resort<phoneme category="b">resort</phoneme></line>
+      <line>As on the finger of a throned queen<phoneme category="c">queen</phoneme></line>
+      <line>The basest jewel will be well esteemed<phoneme category="d">esteemed</phoneme></line>
+      <line>So are those errors that in thee are seen<phoneme category="c">seen</phoneme></line>
+      <line>To truths translated and for true things deemed<phoneme category="d">deemed</phoneme></line>
+      <line>How many lambs might the stern wolf betray<phoneme category="e">betray</phoneme></line>
+      <line>If like a lamb he could his looks translate<phoneme category="f">translate</phoneme></line>
+      <line>How many gazers mightst thou lead away<phoneme category="e">away</phoneme></line>
+      <line>if thou wouldst use the strength of all thy state<phoneme category="f">state</phoneme></line>
+      <line>But do not so I love thee in such sort<phoneme category="g">sort</phoneme></line>
+      <line>As thou being mine mine is thy good report<phoneme category="g">report</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

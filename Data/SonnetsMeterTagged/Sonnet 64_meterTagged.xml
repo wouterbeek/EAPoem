@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 64</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>When I have seen by Time fell hand defaced</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The rich-proud cost of outworn buried age</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When sometime lofty towers I see down-rased</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And brass eternal slave to mortal rage</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When I have seen the hungry ocean gain</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Advantage on the kingdom of the shore</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And the firm soil win of the watery main</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Increasing store with loss and loss with store</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>When I have seen such interchange of State</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Or state it self confounded to decay</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Ruin hath taught me thus to ruminate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That Time will come and take my love away</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>This thought is as a death which cannot choose</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But weep to have that which it fears to lose</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 139</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O call not me to justify the wrong<phoneme category="a">wrong</phoneme></line>
+      <line>That thy unkindness lays upon my heart<phoneme category="b">heart</phoneme></line>
+      <line>Wound me not with thine eye but with thy tongue<phoneme category="a">tongue</phoneme></line>
+      <line>Use power with power and slay me not by art<phoneme category="b">art</phoneme></line>
+      <line>Tell me thou lov elsewhere but in my sight<phoneme category="c">sight</phoneme></line>
+      <line>Dear heart forbear to glance thine eye aside<phoneme category="d">aside</phoneme></line>
+      <line>What need thou wound with cunning when thy might<phoneme category="c">might</phoneme></line>
+      <line>Is more than my oerpressed defence can bide<phoneme category="d">bide</phoneme></line>
+      <line>Let me excuse thee ah my love well knows<phoneme category="e">knows</phoneme></line>
+      <line>Her pretty looks have been mine enemies<phoneme category="f">enemies</phoneme></line>
+      <line>And therefore from my face she turns my foes<phoneme category="e">foes</phoneme></line>
+      <line>That they elsewhere might dart their injuries<phoneme category="f">injuries</phoneme></line>
+      <line>Yet do not so but since I am near slain<phoneme category="g">slain</phoneme></line>
+      <line>Kill me outright with looks and rid my pain<phoneme category="g">pain</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

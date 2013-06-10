@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 98</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>From you have I been absent in the spring<phoneme category="a">spring</phoneme></line>
+      <line>When proud-pied April (dressed in all his trim)<phoneme category="b">trim)</phoneme></line>
+      <line>Hath put a spirit of youth in every thing<phoneme category="a">thing</phoneme></line>
+      <line>That heavy Saturn laughed and leaped with him<phoneme category="b">him</phoneme></line>
+      <line>Yet nor the lays of birds nor the sweet smell<phoneme category="c">smell</phoneme></line>
+      <line>Of different flowers in odour and in hue<phoneme category="d">hue</phoneme></line>
+      <line>Could make me any summer story tell<phoneme category="c">tell</phoneme></line>
+      <line>Or from their proud lap pluck them where they grew<phoneme category="d">grew</phoneme></line>
+      <line>Nor did I wonder at the lily white<phoneme category="e">white</phoneme></line>
+      <line>Nor praise the deep vermilion in the rose<phoneme category="f">rose</phoneme></line>
+      <line>They were but sweet but figures of delight<phoneme category="e">delight</phoneme></line>
+      <line>Drawn after you you pattern of all those<phoneme category="f">those</phoneme></line>
+      <line>Yet seemed it winter still and you away<phoneme category="g">away</phoneme></line>
+      <line>As with your shadow I with these did play<phoneme category="g">play</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

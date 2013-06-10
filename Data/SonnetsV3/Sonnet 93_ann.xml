@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 93</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So shall I live supposing thou art true<phoneme category="a">true</phoneme></line>
+      <line>Like a deceived husband so love face<phoneme category="b">face</phoneme></line>
+      <line>May still seem love to me though altered new<phoneme category="a">new</phoneme></line>
+      <line>Thy looks with me thy heart in other place<phoneme category="b">place</phoneme></line>
+      <line>For there can live no hatred in thine eye<phoneme category="c">eye</phoneme></line>
+      <line>Therefore in that I cannot know thy change<phoneme category="d">change</phoneme></line>
+      <line>In many looks the false heart history<phoneme category="c">history</phoneme></line>
+      <line>Is writ in moods and frowns and wrinkles strange<phoneme category="d">strange</phoneme></line>
+      <line>But heaven in thy creation did decree<phoneme category="e">decree</phoneme></line>
+      <line>That in thy face sweet love should ever dwell<phoneme category="f">dwell</phoneme></line>
+      <line>Whateer thy thoughts or thy heart workings be<phoneme category="e">be</phoneme></line>
+      <line>Thy looks should nothing thence but sweetness tell<phoneme category="f">tell</phoneme></line>
+      <line>How like Eve apple doth thy beauty grow<phoneme category="g">grow</phoneme></line>
+      <line>If thy sweet virtue answer not thy show<p>&nbsp</p> <phoneme category="g" /></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 35</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>No more be grieved at that which thou hast done</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Roses have thorns and silver fountains mud</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Clouds and eclipses stain both moon and sun</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And loathsome canker lives in sweetest bud</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>All men make faults and even I in this</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Authorizing thy trespass with compare</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>My self corrupting salving thy amiss</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Excusing thy sins more than thy sins are</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>For to thy sensual fault I bring in sense</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy adverse party is thy advocate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And gainst my self a lawful plea commence</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Such civil war is in my love and hate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That I an accessary needs must be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To that sweet thief which sourly robs from me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

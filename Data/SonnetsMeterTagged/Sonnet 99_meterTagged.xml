@@ -1,0 +1,28 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 99</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>The forward violet thus did I chide</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Sweet thief whence didst thou steal thy sweet that smells</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>If not from my love breath The purple pride</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Which on thy soft check for complexion dwells</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>In my love veins thou hast too grossly dyed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The lily I condemned for thy hand</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And buds of marjoram had stoln thy hair</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>The roses fearfully on thorns did stand</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>One blushing shame another white despair</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A third nor red nor white had stoln of both</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And to his robbery had annexed thy breath</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But for his theft in pride of all his growth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>A vengeful canker eat him up to death</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>More flowers I noted yet I none could see</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But sweet or colour it had stoln from thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

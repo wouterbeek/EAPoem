@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 138</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>When my love swears that she is made of truth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I do believe her though I know she lies</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That she might think me some untutored youth</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Unlearned in the world false subtleties</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thus vainly thinking that she thinks me young</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Although she knows my days are past the best</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Simply I credit her false-speaking tongue</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>On both sides thus is simple truth suppressed</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But wherefore says she not she is unjust</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And wherefore say not I that I am old</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>O love best habit is in seeming trust</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And age in love loves not to have years told</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Therefore I lie with her and she with me</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And in our faults by lies we flattered be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

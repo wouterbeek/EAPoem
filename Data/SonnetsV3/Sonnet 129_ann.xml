@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 129</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Th expense of spirit in a waste of shame<phoneme category="a">shame</phoneme></line>
+      <line>Is lust in action and till action lust<phoneme category="b">lust</phoneme></line>
+      <line>Is perjured murdrous bloody full of blame<phoneme category="a">blame</phoneme></line>
+      <line>Savage extreme rude cruel not to trust<phoneme category="b">trust</phoneme></line>
+      <line>Enjoyed no sooner but despised straight<phoneme category="c">straight</phoneme></line>
+      <line>Past reason hunted and no sooner had<phoneme category="d">had</phoneme></line>
+      <line>Past reason hated as a swallowed bait<phoneme category="c">bait</phoneme></line>
+      <line>On purpose laid to make the taker mad<phoneme category="d">mad</phoneme></line>
+      <line>Mad in pursuit and in possession so<phoneme category="e">so</phoneme></line>
+      <line>Had having and in quest to have extreme<phoneme category="f">extreme</phoneme></line>
+      <line>A bliss in proof and proved a very woe<phoneme category="e">woe</phoneme></line>
+      <line>Before a joy proposed behind a dream<phoneme category="f">dream</phoneme></line>
+      <line>All this the world well knows yet none knows well<phoneme category="g">well</phoneme></line>
+      <line>To shun the heaven that leads men to this hell<phoneme category="g">hell</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 70</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>That thou art blamed shall not be thy defect<phoneme category="a">defect</phoneme></line>
+      <line>For slander mark was ever yet the fair<phoneme category="b">fair</phoneme></line>
+      <line>The ornament of beauty is suspect<phoneme category="a">suspect</phoneme></line>
+      <line>A crow that flies in heaven sweetest air<phoneme category="b">air</phoneme></line>
+      <line>So thou be good slander doth but approve<phoneme category="c">approve</phoneme></line>
+      <line>Thy worth the greater being wooed of time<phoneme category="d">time</phoneme></line>
+      <line>For canker vice the sweetest buds doth love<phoneme category="c">love</phoneme></line>
+      <line>And thou present a pure unstained prime<phoneme category="d">prime</phoneme></line>
+      <line>Thou hast passed by the ambush of young days<phoneme category="e">days</phoneme></line>
+      <line>Either not assailed or victor being charged<phoneme category="f">charged</phoneme></line>
+      <line>Yet this thy praise cannot be so thy praise<phoneme category="e">praise</phoneme></line>
+      <line>To tie up envy evermore enlarged<phoneme category="f">enlarged</phoneme></line>
+      <line>If some suspect of ill masked not thy show<phoneme category="g">show</phoneme></line>
+      <line>Then thou alone kingdoms of hearts shouldst owe<phoneme category="g">owe</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

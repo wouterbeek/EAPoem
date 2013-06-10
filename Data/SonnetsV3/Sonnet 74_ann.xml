@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 74</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>But be contented when that fell arrest<phoneme category="a">arrest</phoneme></line>
+      <line>Without all bail shall carry me away<phoneme category="b">away</phoneme></line>
+      <line>My life hath in this line some interest<phoneme category="a">interest</phoneme></line>
+      <line>Which for memorial still with thee shall stay<phoneme category="b">stay</phoneme></line>
+      <line>When thou reviewest this thou dost review<phoneme category="c">review</phoneme></line>
+      <line>The very part was consecrate to thee<phoneme category="d">thee</phoneme></line>
+      <line>The earth can have but earth which is his due<phoneme category="c">due</phoneme></line>
+      <line>My spirit is thine the better part of me<phoneme category="d">me</phoneme></line>
+      <line>So then thou hast but lost the dregs of life<phoneme category="e">life</phoneme></line>
+      <line>The prey of worms my body being dead<phoneme category="f">dead</phoneme></line>
+      <line>The coward conquest of a wretch knife<phoneme category="e">knife</phoneme></line>
+      <line>Too base of thee to be remembered<phoneme category="f">remembered</phoneme></line>
+      <line>The worth of that is that which it contains<phoneme category="g">contains</phoneme></line>
+      <line>And that is this and this with thee remains<phoneme category="g">remains</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

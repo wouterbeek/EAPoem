@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 145</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>Those lips that Love own hand did make</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Breathed forth the sound that said I hate</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To me that languished for her sake</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But when she saw my woeful state</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Straight in her heart did mercy come</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Chiding that tongue that ever sweet</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Was used in giving gentle doom</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And taught it thus anew to greet</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I hate she altered with an end</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That followed it as gentle day</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Doth follow night who like a fiend</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>From heaven to hell is flown away</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>I hate from hate away she threw</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And saved my life saying not you</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>

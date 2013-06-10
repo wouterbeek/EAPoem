@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 110</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Alas tis true I have gone here and there<phoneme category="a">there</phoneme></line>
+      <line>And made my self a motley to the view<phoneme category="b">view</phoneme></line>
+      <line>Gored mine own thoughts sold cheap what is most dear<phoneme category="a">dear</phoneme></line>
+      <line>Made old offences of affections new<phoneme category="b">new</phoneme></line>
+      <line>Most true it is that I have looked on truth<phoneme category="c">truth</phoneme></line>
+      <line>Askance and strangely but by all above<phoneme category="d">above</phoneme></line>
+      <line>These blenches gave my heart another youth<phoneme category="c">youth</phoneme></line>
+      <line>And worse essays proved thee my best of love<phoneme category="d">love</phoneme></line>
+      <line>Now all is done have what shall have no end<phoneme category="e">end</phoneme></line>
+      <line>Mine appetite I never more will grind<phoneme category="f">grind</phoneme></line>
+      <line>On newer proof to try an older friend<phoneme category="e">friend</phoneme></line>
+      <line>A god in love to whom I am confined<phoneme category="f">confined</phoneme></line>
+      <line>Then give me welcome next my heaven the best<phoneme category="g">best</phoneme></line>
+      <line>Even to thy pure and most most loving breast<phoneme category="g">breast</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

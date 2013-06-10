@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 1</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line><text>From fairest creatures we desire increase</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>That thereby beauty rose might never die</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But as the riper should by time decease</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>His tender heir might bear his memory</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>But thou contracted to thine own bright eyes</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Feed thy light flame with self-substantial fuel</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Making a famine where abundance lies</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thy self thy foe to thy sweet self too cruel</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Thou that art now the world fresh ornament</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And only herald to the gaudy spring</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Within thine own bud buriest thy content</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>And tender churl mak waste in niggarding</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>Pity the world or else this glutton be</text><meter>s s* s s* s s* s s* s s*</meter></line>
+      <line><text>To eat the world due by the grave and thee</text><meter>s s* s s* s s* s s* s s*</meter></line>
+    </stanza>
+  </pbody>
+</poem>
