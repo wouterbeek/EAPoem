@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 147 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>My love is as a fever longing <a>still</a></text>
+        <text>For that which longer nurseth the <b>disease</b></text>
+        <text>Feeding on that which doth preserve the <a>ill</a></text>
+        <text>Th uncertain sickly appetite to <b>please</b></text>
+        <text>My reason the physician to my <c>love</c></text>
+        <text>Angry that his prescriptions are not <d>kept</d></text>
+        <text>Hath left me and I desperate now <c>approve</c></text>
+        <text>Desire is death which physic did <d>except</d></text>
+        <text>Past cure I am now reason is past <e>care</e></text>
+        <text>And frantic-mad with evermore <f>unrest</f></text>
+        <text>My thoughts and my discourse as mad men <e>are</e></text>
+        <text>At random from the truth vainly <f>expressed</f></text>
+        <text>For I have sworn thee fair and thought thee <g>bright</g></text>
+        <text>Who art as black as hell as dark as <g>night</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

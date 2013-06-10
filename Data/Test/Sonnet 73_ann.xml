@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 73 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>That time of year thou mayst in me <a>behold</a></text>
+        <text>When yellow leaves or none or few do <b>hang</b></text>
+        <text>Upon those boughs which shake against the <a>cold</a></text>
+        <text>Bare ruined choirs where late the sweet birds <b>sang</b></text>
+        <text>In me thou seest the twilight of such <c>day</c></text>
+        <text>As after sunset fadeth in the <d>west</d></text>
+        <text>Which by and by black night doth take <c>away</c></text>
+        <text>Death second self that seals up all in <d>rest</d></text>
+        <text>In me thou seest the glowing of such <e>fire</e></text>
+        <text>That on the ashes of his youth doth <f>lie</f></text>
+        <text>As the death-bed whereon it must <e>expire</e></text>
+        <text>Consumed with that which it was nourished <f>by</f></text>
+        <text>This thou perceiv which makes thy love more <g>strong</g></text>
+        <text>To love that well which thou must leave ere <g>long</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 97 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>How like a winter hath my absence <a>been</a></text>
+        <text>From thee the pleasure of the fleeting <b>year</b></text>
+        <text>What freezings have I felt what dark days <a>seen</a></text>
+        <text>What old December bareness <b>everywhere</b></text>
+        <text>And yet this time removed was summer <c>time</c></text>
+        <text>The teeming autumn big with rich <d>increase</d></text>
+        <text>Bearing the wanton burden of the <c>prime</c></text>
+        <text>Like widowed wombs after their lords <d>decease</d></text>
+        <text>Yet this abundant issue seemed to <e>me</e></text>
+        <text>But hope of orphans and unfathered <f>fruit</f></text>
+        <text>For summer and his pleasures wait on <e>thee</e></text>
+        <text>And thou away the very birds are <f>mute</f></text>
+        <text>Or if they sing tis with so dull a <g>cheer</g></text>
+        <text>That leaves look pale dreading the winter <g>near</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

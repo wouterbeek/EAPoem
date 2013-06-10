@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 19 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Devouring Time blunt thou the lion <a>paws</a></text>
+        <text>And make the earth devour her own sweet <b>brood</b></text>
+        <text>Pluck the keen teeth from the fierce tiger <a>jaws</a></text>
+        <text>And burn the long-lived phoenix in her <b>blood</b></text>
+        <text>Make glad and sorry seasons as thou <c>fleet</c></text>
+        <text>And do whateer thou wilt swift-footed <d>Time</d></text>
+        <text>To the wide world and all her fading <c>sweets</c></text>
+        <text>But I forbid thee one most heinous <d>crime</d></text>
+        <text>O carve not with thy hours my love fair <e>brow</e></text>
+        <text>Nor draw no lines there with thine antique <f>pen</f></text>
+        <text>Him in thy course untainted do <e>allow</e></text>
+        <text>For beauty pattern to succeeding <f>men</f></text>
+        <text>Yet do thy worst old Time despite thy <g>wrong</g></text>
+        <text>My love shall in my verse ever live <g>young</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

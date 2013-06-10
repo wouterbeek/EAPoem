@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 131 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Thou art as tyrannous so as thou <a>art</a></text>
+        <text>As those whose beauties proudly make them <b>cruel</b></text>
+        <text>For well thou know to my dear doting <a>heart</a></text>
+        <text>Thou art the fairest and most precious <b>jewel</b></text>
+        <text>Yet in good faith some say that thee <c>behold</c></text>
+        <text>Thy face hath not the power to make love <d>groan</d></text>
+        <text>To say they err I dare not be so <c>bold</c></text>
+        <text>Although I swear it to my self <d>alone</d></text>
+        <text>And to be sure that is not false I <e>swear</e></text>
+        <text>A thousand groans but thinking on thy <f>face</f></text>
+        <text>One on another neck do witness <e>bear</e></text>
+        <text>Thy black is fairest in my judgment <f>place</f></text>
+        <text>In nothing art thou black save in thy <g>deeds</g></text>
+        <text>And thence this slander as I think <g>proceeds</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

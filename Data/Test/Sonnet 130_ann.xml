@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 130 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>My mistress eyes are nothing like the <a>sun</a></text>
+        <text>Coral is far more red than her lips <b>red</b></text>
+        <text>If snow be white why then her breasts are <a>dun</a></text>
+        <text>If hairs be wires black wires grow on her <b>head</b></text>
+        <text>I have seen roses damasked red and <c>white</c></text>
+        <text>But no such roses see I in her <d>cheeks</d></text>
+        <text>And in some perfumes is there more <c>delight</c></text>
+        <text>Than in the breath that from my mistress <d>reeks</d></text>
+        <text>I love to hear her speak yet well I <e>know</e></text>
+        <text>That music hath a far more pleasing <f>sound</f></text>
+        <text>I grant I never saw a goddess <e>go</e></text>
+        <text>My mistress when she walks treads on the <f>ground</f></text>
+        <text>And yet by heaven I think my love as <g>rare</g></text>
+        <text>As any she belied with false <g>compare</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

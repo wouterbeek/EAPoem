@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 124 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>If my dear love were but the child of <a>state</a></text>
+        <text>It might for Fortune bastard be <b>unfathered</b></text>
+        <text>As subject to time love or to time <a>hate</a></text>
+        <text>Weeds among weeds or flowers with flowers <b>gathered</b></text>
+        <text>No it was builded far from <c>accident</c></text>
+        <text>It suffers not in smiling pomp nor <d>falls</d></text>
+        <text>Under the blow of thralled <c>discontent</c></text>
+        <text>Whereto th inviting time our fashion <d>calls</d></text>
+        <text>It fears not policy that <e>heretic</e></text>
+        <text>Which works on leases of short-numbered <f>hours</f></text>
+        <text>But all alone stands hugely <e>politic</e></text>
+        <text>That it nor grows with heat nor drowns with <f>showers</f></text>
+        <text>To this I witness call the fools of <g>time</g></text>
+        <text>Which die for goodness who have lived for <g>crime</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

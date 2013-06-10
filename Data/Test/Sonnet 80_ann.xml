@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 80 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>O how I faint when I of you do <a>write</a></text>
+        <text>Knowing a better spirit doth use your <b>name</b></text>
+        <text>And in the praise thereof spends all his <a>might</a></text>
+        <text>To make me tongue-tied speaking of your <b>fame</b></text>
+        <text>But since your worth (wide as the ocean <c>is)</c></text>
+        <text>The humble as the proudest sail doth <d>bear</d></text>
+        <text>My saucy bark (inferior far to <c>his)</c></text>
+        <text>On your broad main doth wilfully <d>appear</d></text>
+        <text>Your shallowest help will hold me up <e>afloat</e></text>
+        <text>Whilst he upon your soundless deep doth <f>ride</f></text>
+        <text>Or (being wrecked) I am a worthless <e>boat</e></text>
+        <text>He of tall building and of goodly <f>pride</f></text>
+        <text>Then if he thrive and I be cast <g>away</g></text>
+        <text>The worst was this my love was my <g>decay</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 101 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>O truant Muse what shall be thy <a>amends</a></text>
+        <text>For thy neglect of truth in beauty <b>dyed</b></text>
+        <text>Both truth and beauty on my love <a>depends</a></text>
+        <text>So dost thou too and therein <b>dignified</b></text>
+        <text>Make answer Muse wilt thou not haply <c>say</c></text>
+        <text>Truth needs no colour with his colour <d>fixed</d></text>
+        <text>Beauty no pencil beauty truth to <c>lay</c></text>
+        <text>But best is best if never <d>intermixed</d></text>
+        <text>Because he needs no praise wilt thou be <e>dumb</e></text>
+        <text>Excuse not silence so fort lies in <f>thee</f></text>
+        <text>To make him much outlive a gilded <e>tomb</e></text>
+        <text>And to be praised of ages yet to <f>be</f></text>
+        <text>Then do thy office Muse I teach thee <g>how</g></text>
+        <text>To make him seem long hence as he shows <g>now</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

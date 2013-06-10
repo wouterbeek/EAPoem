@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 138 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>When my love swears that she is made of <a>truth</a></text>
+        <text>I do believe her though I know she <b>lies</b></text>
+        <text>That she might think me some untutored <a>youth</a></text>
+        <text>Unlearned in the world false <b>subtleties</b></text>
+        <text>Thus vainly thinking that she thinks me <c>young</c></text>
+        <text>Although she knows my days are past the <d>best</d></text>
+        <text>Simply I credit her false-speaking <c>tongue</c></text>
+        <text>On both sides thus is simple truth <d>suppressed</d></text>
+        <text>But wherefore says she not she is <e>unjust</e></text>
+        <text>And wherefore say not I that I am <f>old</f></text>
+        <text>O love best habit is in seeming <e>trust</e></text>
+        <text>And age in love loves not to have years <f>told</f></text>
+        <text>Therefore I lie with her and she with <g>me</g></text>
+        <text>And in our faults by lies we flattered <g>be</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

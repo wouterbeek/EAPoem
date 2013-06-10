@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 4 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Unthrifty loveliness why dost thou <a>spend</a></text>
+        <text>Upon thy self thy beauty <b>legacy</b></text>
+        <text>Nature bequest gives nothing but doth <a>lend</a></text>
+        <text>And being frank she lends to those are <b>free</b></text>
+        <text>Then beauteous niggard why dost thou <c>abuse</c></text>
+        <text>The bounteous largess given thee to <d>give</d></text>
+        <text>Profitless usurer why dost thou <c>use</c></text>
+        <text>So great a sum of sums yet canst not <d>live</d></text>
+        <text>For having traffic with thy self <e>alone</e></text>
+        <text>Thou of thy self thy sweet self dost <f>deceive</f></text>
+        <text>Then how when nature calls thee to be <e>gone</e></text>
+        <text>What acceptable audit canst thou <f>leave</f></text>
+        <text>Thy unused beauty must be tombed with <g>thee</g></text>
+        <text>Which used lives th executor to <g>be</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

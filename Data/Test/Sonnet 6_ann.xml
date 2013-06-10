@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 6 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Then let not winter ragged hand <a>deface</a></text>
+        <text>In thee thy summer ere thou be <b>distilled</b></text>
+        <text>Make sweet some vial treasure thou some <a>place</a></text>
+        <text>With beauty treasure ere it be <b>self-killed</b></text>
+        <text>That use is not forbidden <c>usury</c></text>
+        <text>Which happies those that pay the willing <d>loan</d></text>
+        <text>That for thy self to breed another <c>thee</c></text>
+        <text>Or ten times happier be it ten for <d>one</d></text>
+        <text>Ten times thy self were happier than thou <e>art</e></text>
+        <text>If ten of thine ten times refigured <f>thee</f></text>
+        <text>Then what could death do if thou shouldst <e>depart</e></text>
+        <text>Leaving thee living in <f>posterity</f></text>
+        <text>Be not self-willed for thou art much too <g>fair</g></text>
+        <text>To be death conquest and make worms thine <g>heir</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

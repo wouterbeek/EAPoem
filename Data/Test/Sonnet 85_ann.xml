@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 85 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>My tongue-tied muse in manners holds her <a>still</a></text>
+        <text>While comments of your praise richly <b>compiled</b></text>
+        <text>Reserve their character with golden <a>quill</a></text>
+        <text>And precious phrase by all the Muses <b>filed</b></text>
+        <text>I think good thoughts whilst other write good <c>words</c></text>
+        <text>And like unlettered clerk still cry <d>Amen</d></text>
+        <text>To every hymn that able spirit <c>affords</c></text>
+        <text>In polished form of well refined <d>pen</d></text>
+        <text>Hearing you praised I say tis so tis <e>true</e></text>
+        <text>And to the most of praise add something <f>more</f></text>
+        <text>But that is in my thought whose love to <e>you</e></text>
+        <text>(Though words come hindmost) holds his rank <f>before</f></text>
+        <text>Then others for the breath of words <g>respect</g></text>
+        <text>Me for my dumb thoughts speaking in <g>effect</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

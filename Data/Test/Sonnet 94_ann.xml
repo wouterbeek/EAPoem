@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 94 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>They that have power to hurt and will do <a>none</a></text>
+        <text>That do not do the thing they most do <b>show</b></text>
+        <text>Who moving others are themselves as <a>stone</a></text>
+        <text>Unmoved cold and to temptation <b>slow</b></text>
+        <text>They rightly do inherit heaven <c>graces</c></text>
+        <text>And husband nature riches from <d>expense</d></text>
+        <text>Tibey are the lords and owners of their <c>faces</c></text>
+        <text>Others but stewards of their <d>excellence</d></text>
+        <text>The summer flower is to the summer <e>sweet</e></text>
+        <text>Though to it self it only live and <f>die</f></text>
+        <text>But if that flower with base infection <e>meet</e></text>
+        <text>The basest weed outbraves his <f>dignity</f></text>
+        <text>For sweetest things turn sourest by their <g>deeds</g></text>
+        <text>Lilies that fester smell far worse than <g>weeds</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

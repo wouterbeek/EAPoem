@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 67 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Ah wherefore with infection should he <a>live</a></text>
+        <text>And with his presence grace <b>impiety</b></text>
+        <text>That sin by him advantage should <a>achieve</a></text>
+        <text>And lace it self with his <b>society</b></text>
+        <text>Why should false painting imitate his <c>cheek</c></text>
+        <text>And steal dead seeming of his living <d>hue</d></text>
+        <text>Why should poor beauty indirectly <c>seek</c></text>
+        <text>Roses of shadow since his rose is <d>true</d></text>
+        <text>Why should he live now nature bankrupt <e>is</e></text>
+        <text>Beggared of blood to blush through lively <f>veins</f></text>
+        <text>For she hath no exchequer now but <e>his</e></text>
+        <text>And proud of many lives upon his <f>gains</f></text>
+        <text>O him she stores to show what wealth she <g>had</g></text>
+        <text>In days long since before these last so <g>bad</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 20 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>A woman face with nature own hand <a>painted</a></text>
+        <text>Hast thou the master mistress of my <b>passion</b></text>
+        <text>A woman gentle heart but not <a>acquainted</a></text>
+        <text>With shifting change as is false women <b>fashion</b></text>
+        <text>An eye more bright than theirs less false in <c>rolling</c></text>
+        <text>Gilding the object whereupon it <d>gazeth</d></text>
+        <text>A man in hue all hues in his <c>controlling</c></text>
+        <text>Which steals men eyes and women souls <d>amazeth</d></text>
+        <text>And for a woman wert thou first <e>created</e></text>
+        <text>Till nature as she wrought thee fell <f>a-doting</f></text>
+        <text>And by addition me of thee <e>defeated</e></text>
+        <text>By adding one thing to my purpose <f>nothing</f></text>
+        <text>But since she pricked thee out for women <g>pleasure</g></text>
+        <text>Mine be thy love and thy love use their <g>treasure</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

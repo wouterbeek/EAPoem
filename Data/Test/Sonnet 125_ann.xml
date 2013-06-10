@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 125 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Weret aught to me I bore the <a>canopy</a></text>
+        <text>With my extern the outward <b>honouring</b></text>
+        <text>Or laid great bases for <a>eternity</a></text>
+        <text>Which proves more short than waste or <b>ruining</b></text>
+        <text>Have I not seen dwellers on form and <c>favour</c></text>
+        <text>Lose all and more by paying too much <d>rent</d></text>
+        <text>For compound sweet forgoing simple <c>savour</c></text>
+        <text>Pitiful thrivers in their gazing <d>spent</d></text>
+        <text>No let me be obsequious in thy <e>heart</e></text>
+        <text>And take thou my oblation poor but <f>free</f></text>
+        <text>Which is not mixed with seconds knows no <e>art</e></text>
+        <text>But mutual render only me for <f>thee</f></text>
+        <text>Hence thou suborned informer a true <g>soul</g></text>
+        <text>When most impeached stands least in thy <g>control</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

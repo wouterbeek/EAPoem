@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 72 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>O lest the world should task you to <a>recite</a></text>
+        <text>What merit lived in me that you should <b>love</b></text>
+        <text>After my death (dear love) forget me <a>quite</a></text>
+        <text>For you in me can nothing worthy <b>prove</b></text>
+        <text>Unless you would devise some virtuous <c>lie</c></text>
+        <text>To do more for me than mine own <d>desert</d></text>
+        <text>And hang more praise upon deceased <c>I</c></text>
+        <text>Than niggard truth would willingly <d>impart</d></text>
+        <text>O lest your true love may seem false in <e>this</e></text>
+        <text>That you for love speak well of me <f>untrue</f></text>
+        <text>My name be buried where my body <e>is</e></text>
+        <text>And live no more to shame nor me nor <f>you</f></text>
+        <text>For I am shamed by that which I bring <g>forth</g></text>
+        <text>And so should you to love things nothing <g>worth</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

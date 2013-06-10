@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 24 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Mine eye hath played the painter and hath <a>stelled</a></text>
+        <text>Thy beauty form in table of my <b>heart</b></text>
+        <text>My body is the frame wherein tis <a>held</a></text>
+        <text>And perspective it is best painter <b>art</b></text>
+        <text>For through the painter must you see his <c>skill</c></text>
+        <text>To find where your true image pictured <d>lies</d></text>
+        <text>Which in my bosom shop is hanging <c>still</c></text>
+        <text>That hath his windows glazed with thine <d>eyes</d></text>
+        <text>Now see what good turns eyes for eyes have <e>done</e></text>
+        <text>Mine eyes have drawn thy shape and thine for <f>me</f></text>
+        <text>Are windows to my breast where-through the <e>sun</e></text>
+        <text>Delights to peep to gaze therein on <f>thee</f></text>
+        <text>Yet eyes this cunning want to grace their <g>art</g></text>
+        <text>They draw but what they see know not the <g>heart</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

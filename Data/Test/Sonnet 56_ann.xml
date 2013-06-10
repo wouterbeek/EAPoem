@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 56 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Sweet love renew thy force be it not <a>said</a></text>
+        <text>Thy edge should blunter be than <b>appetite</b></text>
+        <text>Which but to-day by feeding is <a>allayed</a></text>
+        <text>To-morrow sharpened in his former <b>might</b></text>
+        <text>So love be thou although to-day thou <c>fill</c></text>
+        <text>Thy hungry eyes even till they wink with <d>fulness</d></text>
+        <text>To-morrow see again and do not <c>kill</c></text>
+        <text>The spirit of love with a perpetual <d>dulness</d></text>
+        <text>Let this sad interim like the ocean <e>be</e></text>
+        <text>Which parts the shore where two contracted <f>new</f></text>
+        <text>Come daily to the banks that when they <e>see</e></text>
+        <text>Return of love more blest may be the <f>view</f></text>
+        <text>Or call it winter which being full of <g>care</g></text>
+        <text>Makes summer welcome thrice more wished more <g>rare</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>
