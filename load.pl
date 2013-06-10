@@ -17,6 +17,7 @@ load_eapoem:-
     ensure_loaded(pgc(load))
   ),
   
-  % Identity on the Web.
+  % EAPoem main module.
   ensure_loaded(project(eapoem)).
 :- load_eapoem.
+
