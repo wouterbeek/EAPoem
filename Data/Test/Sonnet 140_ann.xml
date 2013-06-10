@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 140 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Be wise as thou art cruel do not <a>press</a></text>
+        <text>My tongue-tied patience with too much <b>disdain</b></text>
+        <text>Lest sorrow lend me words and words <a>express</a></text>
+        <text>The manner of my pity-wanting <b>pain</b></text>
+        <text>If I might teach thee wit better it <c>were</c></text>
+        <text>Though not to love yet love to tell me <d>so</d></text>
+        <text>As testy sick men when their deaths be <c>near</c></text>
+        <text>No news but health from their physicians <d>know</d></text>
+        <text>For if I should despair I should grow <e>mad</e></text>
+        <text>And in my madness might speak ill of <f>thee</f></text>
+        <text>Now this ill-wresting world is grown so <e>bad</e></text>
+        <text>Mad slanderers by mad ears believed <f>be</f></text>
+        <text>That I may not be so nor thou <g>belied</g></text>
+        <text>Bear thine eyes straight though thy proud heart go <g>wide</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

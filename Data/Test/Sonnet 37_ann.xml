@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 37 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>As a decrepit father takes <a>delight</a></text>
+        <text>To see his active child do deeds of <b>youth</b></text>
+        <text>So I made lame by Fortune dearest <a>spite</a></text>
+        <text>Take all my comfort of thy worth and <b>truth</b></text>
+        <text>For whether beauty birth or wealth or <c>wit</c></text>
+        <text>Or any of these all or all or <d>more</d></text>
+        <text>Entitled in thy parts do crowned <c>sit</c></text>
+        <text>I make my love engrafted to this <d>store</d></text>
+        <text>So then I am not lame poor nor <e>despised</e></text>
+        <text>Whilst that this shadow doth such substance <f>give</f></text>
+        <text>That I in thy abundance am <e>sufficed</e></text>
+        <text>And by a part of all thy glory <f>live</f></text>
+        <text>Look what is best that best I wish in <g>thee</g></text>
+        <text>This wish I have then ten times happy <g>me</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

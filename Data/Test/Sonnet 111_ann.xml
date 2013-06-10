@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 111 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>O for my sake do you with Fortune <a>chide</a></text>
+        <text>The guilty goddess of my harmful <b>deeds</b></text>
+        <text>That did not better for my life <a>provide</a></text>
+        <text>Than public means which public manners <b>breeds</b></text>
+        <text>Thence comes it that my name receives a <c>brand</c></text>
+        <text>And almost thence my nature is <d>subdued</d></text>
+        <text>To what it works in like the dyer <c>hand</c></text>
+        <text>Pity me then and wish I were <d>renewed</d></text>
+        <text>Whilst like a willing patient I will <e>drink</e></text>
+        <text>Potions of eisel gainst my strong <f>infection</f></text>
+        <text>No bitterness that I will bitter <e>think</e></text>
+        <text>Nor double penance to correct <f>correction</f></text>
+        <text>Pity me then dear friend and I assure <g>ye</g></text>
+        <text>Even that your pity is enough to cure <g>me</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

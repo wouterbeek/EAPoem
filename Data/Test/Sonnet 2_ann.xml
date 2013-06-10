@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 2 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>When forty winters shall besiege thy <a>brow</a></text>
+        <text>And dig deep trenches in thy beauty <b>field</b></text>
+        <text>Thy youth proud livery so gazed on <a>now</a></text>
+        <text>Will be a tattered weed of small worth <b>held</b></text>
+        <text>Then being asked where all thy beauty <c>lies</c></text>
+        <text>Where all the treasure of thy lusty <d>days</d></text>
+        <text>To say within thine own deep sunken <c>eyes</c></text>
+        <text>Were an all-eating shame and thriftless <d>praise</d></text>
+        <text>How much more praise deserved thy beauty <e>use</e></text>
+        <text>If thou couldst answer This fair child of <f>mine</f></text>
+        <text>Shall sum my count and make my old <e>excuse</e></text>
+        <text>Proving his beauty by succession <f>thine</f></text>
+        <text>This were to be new made when thou art <g>old</g></text>
+        <text>And see thy blood warm when thou feel it <g>cold</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

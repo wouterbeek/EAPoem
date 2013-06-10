@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 55 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Not marble nor the gilded <a>monuments</a></text>
+        <text>Of princes shall outlive this powerful <b>rhyme</b></text>
+        <text>But you shall shine more bright in these <a>contents</a></text>
+        <text>Than unswept stone besmeared with sluttish <b>time</b></text>
+        <text>When wasteful war shall statues <c>overturn</c></text>
+        <text>And broils root out the work of <d>masonry</d></text>
+        <text>Nor Mars his sword nor war quick fire shall <c>burn</c></text>
+        <text>The living record of your <d>memory</d></text>
+        <text>Gainst death and all-oblivious <e>enmity</e></text>
+        <text>Shall you pace forth your praise shall still find <f>room</f></text>
+        <text>Even in the eyes of all <e>posterity</e></text>
+        <text>That wear this world out to the ending <f>doom</f></text>
+        <text>So till the judgment that your self <g>arise</g></text>
+        <text>You live in this and dwell in lovers <g>eyes</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

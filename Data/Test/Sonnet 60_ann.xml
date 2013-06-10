@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 60 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Like as the waves make towards the pebbled <a>shore</a></text>
+        <text>So do our minutes hasten to their <b>end</b></text>
+        <text>Each changing place with that which goes <a>before</a></text>
+        <text>In sequent toil all forwards do <b>contend</b></text>
+        <text>Nativity once in the main of <c>light</c></text>
+        <text>Crawls to maturity wherewith being <d>crowned</d></text>
+        <text>Crooked eclipses gainst his glory <c>fight</c></text>
+        <text>And Time that gave doth now his gift <d>confound</d></text>
+        <text>Time doth transfix the flourish set on <e>youth</e></text>
+        <text>And delves the parallels in beauty <f>brow</f></text>
+        <text>Feeds on the rarities of nature <e>truth</e></text>
+        <text>And nothing stands but for his scythe to <f>mow</f></text>
+        <text>And yet to times in hope my verse shall <g>stand</g></text>
+        <text>Praising thy worth despite his cruel <g>hand</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

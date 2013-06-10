@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 114 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Or whether doth my mind being crowned with <a>you</a></text>
+        <text>Drink up the monarch plague this <b>flattery</b></text>
+        <text>Or whether shall I say mine eye saith <a>true</a></text>
+        <text>And that your love taught it this <b>alchemy</b></text>
+        <text>To make of monsters and things <c>indigest</c></text>
+        <text>Such cherubins as your sweet self <d>resemble</d></text>
+        <text>Creating every bad a perfect <c>best</c></text>
+        <text>As fast as objects to his beams <d>assemble</d></text>
+        <text>O tis the first tis flattery in my <e>seeing</e></text>
+        <text>And my great mind most kingly drinks it <f>up</f></text>
+        <text>Mine eye well knows what with his gust is <e>greeing</e></text>
+        <text>And to his palate doth prepare the <f>cup</f></text>
+        <text>If it be poisoned tis the lesser <g>sin</g></text>
+        <text>That mine eye loves it and doth first <g>begin</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 16 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>But wherefore do not you a mightier <a>way</a></text>
+        <text>Make war upon this bloody tyrant <b>Time</b></text>
+        <text>And fortify your self in your <a>decay</a></text>
+        <text>With means more blessed than my barren <b>rhyme</b></text>
+        <text>Now stand you on the top of happy <c>hours</c></text>
+        <text>And many maiden gardens yet <d>unset</d></text>
+        <text>With virtuous wish would bear you living <c>flowers</c></text>
+        <text>Much liker than your painted <d>counterfeit</d></text>
+        <text>So should the lines of life that life <e>repair</e></text>
+        <text>Which this (Time pencil) or my pupil <f>pen</f></text>
+        <text>Neither in inward worth nor outward <e>fair</e></text>
+        <text>Can make you live your self in eyes of <f>men</f></text>
+        <text>To give away your self keeps your self <g>still</g></text>
+        <text>And you must live drawn by your own sweet <g>skill</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

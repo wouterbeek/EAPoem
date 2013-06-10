@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 127 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>In the old age black was not counted <a>fair</a></text>
+        <text>Or if it were it bore not beauty <b>name</b></text>
+        <text>But now is black beauty successive <a>heir</a></text>
+        <text>And beauty slandered with a bastard <b>shame</b></text>
+        <text>For since each hand hath put on nature <c>power</c></text>
+        <text>Fairing the foul with art false borrowed <d>face</d></text>
+        <text>Sweet beauty hath no name no holy <c>bower</c></text>
+        <text>But is profaned if not lives in <d>disgrace</d></text>
+        <text>Therefore my mistress eyes are raven <e>black</e></text>
+        <text>Her eyes so suited and they mourners <f>seem</f></text>
+        <text>At such who not born fair no beauty <e>lack</e></text>
+        <text>Slandering creation with a false <f>esteem</f></text>
+        <text>Yet so they mourn becoming of their <g>woe</g></text>
+        <text>That every tongue says beauty should look <g>so</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

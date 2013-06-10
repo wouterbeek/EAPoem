@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 74 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>But be contented when that fell <a>arrest</a></text>
+        <text>Without all bail shall carry me <b>away</b></text>
+        <text>My life hath in this line some <a>interest</a></text>
+        <text>Which for memorial still with thee shall <b>stay</b></text>
+        <text>When thou reviewest this thou dost <c>review</c></text>
+        <text>The very part was consecrate to <d>thee</d></text>
+        <text>The earth can have but earth which is his <c>due</c></text>
+        <text>My spirit is thine the better part of <d>me</d></text>
+        <text>So then thou hast but lost the dregs of <e>life</e></text>
+        <text>The prey of worms my body being <f>dead</f></text>
+        <text>The coward conquest of a wretch <e>knife</e></text>
+        <text>Too base of thee to be <f>remembered</f></text>
+        <text>The worth of that is that which it <g>contains</g></text>
+        <text>And that is this and this with thee <g>remains</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

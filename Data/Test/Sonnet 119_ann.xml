@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 119 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>What potions have I drunk of Siren <a>tears</a></text>
+        <text>Distilled from limbecks foul as hell <b>within</b></text>
+        <text>Applying fears to hopes and hopes to <a>fears</a></text>
+        <text>Still losing when I saw my self to <b>win</b></text>
+        <text>What wretched errors hath my heart <c>committed</c></text>
+        <text>Whilst it hath thought it self so blessed <d>never</d></text>
+        <text>How have mine eyes out of their spheres been <c>fitted</c></text>
+        <text>In the distraction of this madding <d>fever</d></text>
+        <text>O benefit of ill now I find <e>true</e></text>
+        <text>That better is by evil still made <f>better</f></text>
+        <text>And ruined love when it is built <e>anew</e></text>
+        <text>Grows fairer than at first more strong far <f>greater</f></text>
+        <text>So I return rebuked to my <g>content</g></text>
+        <text>And gain by ills thrice more than I have <g>spent</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

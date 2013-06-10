@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 145 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Those lips that Love own hand did <a>make</a></text>
+        <text>Breathed forth the sound that said I <b>hate</b></text>
+        <text>To me that languished for her <a>sake</a></text>
+        <text>But when she saw my woeful <b>state</b></text>
+        <text>Straight in her heart did mercy <c>come</c></text>
+        <text>Chiding that tongue that ever <d>sweet</d></text>
+        <text>Was used in giving gentle <c>doom</c></text>
+        <text>And taught it thus anew to <d>greet</d></text>
+        <text>I hate she altered with an <e>end</e></text>
+        <text>That followed it as gentle <f>day</f></text>
+        <text>Doth follow night who like a <e>fiend</e></text>
+        <text>From heaven to hell is flown <f>away</f></text>
+        <text>I hate from hate away she <g>threw</g></text>
+        <text>And saved my life saying not <g>you</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

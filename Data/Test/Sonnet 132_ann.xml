@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 132 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Thine eyes I love and they as pitying <a>me</a></text>
+        <text>Knowing thy heart torment me with <b>disdain</b></text>
+        <text>Have put on black and loving mourners <a>be</a></text>
+        <text>Looking with pretty ruth upon my <b>pain</b></text>
+        <text>And truly not the morning sun of <c>heaven</c></text>
+        <text>Better becomes the grey cheeks of the <d>east</d></text>
+        <text>Nor that full star that ushers in the <c>even</c></text>
+        <text>Doth half that glory to the sober <d>west</d></text>
+        <text>As those two mourning eyes become thy <e>face</e></text>
+        <text>O let it then as well beseem thy <f>heart</f></text>
+        <text>To mourn for me since mourning doth thee <e>grace</e></text>
+        <text>And suit thy pity like in every <f>part</f></text>
+        <text>Then will I swear beauty herself is <g>black</g></text>
+        <text>And all they foul that thy complexion <g>lack</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

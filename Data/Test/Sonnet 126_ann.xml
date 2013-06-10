@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 126 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>O thou my lovely boy who in thy <a>power</a></text>
+        <text>Dost hold Time fickle glass his fickle <b>hour</b></text>
+        <text>Who hast by waning grown and therein <a>show</a></text>
+        <text>Thy lovers withering as thy sweet self <b>grow</b></text>
+        <text>If Nature (sovereign mistress over <c>wrack)</c></text>
+        <text>As thou goest onwards still will pluck thee <d>back</d></text>
+        <text>She keeps thee to this purpose that her <c>skill</c></text>
+        <text>May time disgrace and wretched minutes <d>kill</d></text>
+        <text>Yet fear her O thou minion of her <e>pleasure</e></text>
+        <text>She may detain but not still keep her <f>treasure</f></text>
+        <text>Her audit (though delayed) answered must <e>be</e></text>
+        <text>And her quietus is to render <f>thee</f></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

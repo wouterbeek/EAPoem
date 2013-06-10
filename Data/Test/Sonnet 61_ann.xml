@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 61 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Is it thy will thy image should keep <a>open</a></text>
+        <text>My heavy eyelids to the weary <b>night</b></text>
+        <text>Dost thou desire my slumbers should be <a>broken</a></text>
+        <text>While shadows like to thee do mock my <b>sight</b></text>
+        <text>Is it thy spirit that thou send from <c>thee</c></text>
+        <text>So far from home into my deeds to <d>pry</d></text>
+        <text>To find out shames and idle hours in <c>me</c></text>
+        <text>The scope and tenure of thy <d>jealousy</d></text>
+        <text>O no thy love though much is not so <e>great</e></text>
+        <text>It is my love that keeps mine eye <f>awake</f></text>
+        <text>Mine own true love that doth my rest <e>defeat</e></text>
+        <text>To play the watchman ever for thy <f>sake</f></text>
+        <text>For thee watch I whilst thou dost wake <g>elsewhere</g></text>
+        <text>From me far off with others all too <g>near</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 26 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Lord of my love to whom in <a>vassalage</a></text>
+        <text>Thy merit hath my duty strongly <b>knit</b></text>
+        <text>To thee I send this written <a>embassage</a></text>
+        <text>To witness duty not to show my <b>wit</b></text>
+        <text>Duty so great which wit so poor as <c>mine</c></text>
+        <text>May make seem bare in wanting words to show <d>it</d></text>
+        <text>But that I hope some good conceit of <c>thine</c></text>
+        <text>In thy soul thought (all naked) will bestow <d>it</d></text>
+        <text>Till whatsoever star that guides my <e>moving</e></text>
+        <text>Points on me graciously with fair <f>aspect</f></text>
+        <text>And puts apparel on my tattered <e>loving</e></text>
+        <text>To show me worthy of thy sweet <f>respect</f></text>
+        <text>Then may I dare to boast how I do love <g>thee</g></text>
+        <text>Till then not show my head where thou mayst prove <g>me</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

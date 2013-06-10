@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 35 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>No more be grieved at that which thou hast <a>done</a></text>
+        <text>Roses have thorns and silver fountains <b>mud</b></text>
+        <text>Clouds and eclipses stain both moon and <a>sun</a></text>
+        <text>And loathsome canker lives in sweetest <b>bud</b></text>
+        <text>All men make faults and even I in <c>this</c></text>
+        <text>Authorizing thy trespass with <d>compare</d></text>
+        <text>My self corrupting salving thy <c>amiss</c></text>
+        <text>Excusing thy sins more than thy sins <d>are</d></text>
+        <text>For to thy sensual fault I bring in <e>sense</e></text>
+        <text>Thy adverse party is thy <f>advocate</f></text>
+        <text>And gainst my self a lawful plea <e>commence</e></text>
+        <text>Such civil war is in my love and <f>hate</f></text>
+        <text>That I an accessary needs must <g>be</g></text>
+        <text>To that sweet thief which sourly robs from <g>me</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

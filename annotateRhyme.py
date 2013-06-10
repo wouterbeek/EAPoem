@@ -51,14 +51,15 @@ def checkRhyme(sonnet, root):
 	for line in sonnet:
 		lastWord = line[0]
 		lastWordsList.append(lastWord.upper())
-	
+
 	# For every word in the list of last words...
 	for word in lastWordsList: 
+		print word
 		arg = ("['"  + word.upper() + "', ") # "['WET', "
 		
 		# ...look for that word in de rhyme dictionary...
 		try:
-			rhymes = subprocess.check_output(["fgrep", arg, "/media/DATA/AI/Scriptie/Dictionaries/new_cmu.txt"], stderr=subprocess.STDOUT)
+			rhymes = subprocess.check_output(["fgrep", arg, "/media/DATA/AI/Scriptie/Dictionaries/new_cmuV3.txt"], stderr=subprocess.STDOUT)
 			# Returns a string
 		except:
 			pass
@@ -98,6 +99,8 @@ def annotateRhymes(endings, primaryWord, rhymeList, rev, root):
 	Arguments: list with line endings, the primary word, the list the primary word rhymes with
 	"""
 	for end in endings:
+		#print primaryWord
+
 		if ((end != primaryWord) and (end in rhymeList)):	
 			ann = annotations[0]
 			newPrimary = ("<" + ann + ">" + primaryWord.lower() + "</" + ann + ">")	
@@ -105,7 +108,7 @@ def annotateRhymes(endings, primaryWord, rhymeList, rev, root):
 			print newPrimary
 			print newEnd
 			annotations.remove(ann)	
-			replaceEnding(primaryWord, end, newPrimary, newEnd, rev, root)
+			#replaceEnding(primaryWord, end, newPrimary, newEnd, rev, root)
 			return end 
 			
 def replaceEnding(primary, ending, newPrimary, newEnding, rev, root):
@@ -120,8 +123,8 @@ def replaceEnding(primary, ending, newPrimary, newEnding, rev, root):
 		if (ending.lower() == lines[0]):
 			lines[0] = newEnding
 		newLines.append(lines)
-	newXml(newLines, root)
-	print newLines
+	#newXml(newLines, root)
+	#print newLines
 		
 def newXml(newLines, root):
 	"""

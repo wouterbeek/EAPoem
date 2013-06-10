@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 103 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Alack what poverty my muse brings <a>forth</a></text>
+        <text>That having such a scope to show her <b>pride</b></text>
+        <text>The argument all bare is of more <a>worth</a></text>
+        <text>Than when it hath my added praise <b>beside</b></text>
+        <text>O blame me not if I no more can <c>write</c></text>
+        <text>Look in your glass and there appears a <d>face</d></text>
+        <text>That over-goes my blunt invention <c>quite</c></text>
+        <text>Dulling my lines and doing me <d>disgrace</d></text>
+        <text>Were it not sinful then striving to <e>mend</e></text>
+        <text>To mar the subject that before was <f>well</f></text>
+        <text>For to no other pass my verses <e>tend</e></text>
+        <text>Than of your graces and your gifts to <f>tell</f></text>
+        <text>And more much more than in my verse can <g>sit</g></text>
+        <text>Your own glass shows you when you look in <g>it</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

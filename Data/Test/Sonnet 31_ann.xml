@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 31 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Thy bosom is endeared with all <a>hearts</a></text>
+        <text>Which I by lacking have supposed <b>dead</b></text>
+        <text>And there reigns love and all love loving <a>parts</a></text>
+        <text>And all those friends which I thought <b>buried</b></text>
+        <text>How many a holy and obsequious <c>tear</c></text>
+        <text>Hath dear religious love stoln from mine <d>eye</d></text>
+        <text>As interest of the dead which now <c>appear</c></text>
+        <text>But things removed that hidden in thee <d>lie</d></text>
+        <text>Thou art the grave where buried love doth <e>live</e></text>
+        <text>Hung with the trophies of my lovers <f>gone</f></text>
+        <text>Who all their parts of me to thee did <e>give</e></text>
+        <text>That due of many now is thine <f>alone</f></text>
+        <text>Their images I loved I view in <g>thee</g></text>
+        <text>And thou (all they) hast all the all of <g>me</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

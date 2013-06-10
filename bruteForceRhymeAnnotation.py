@@ -18,7 +18,7 @@ def annotate(fileName):
 	tree = ET.parse(fileName)
 	root = tree.getroot()
 	counter = 1
-	for line in root.iter('line'):
+	for line in root.iter('text'):
 		lineSplit = line.text.split(" ")
 		lineSplitReversed = lineSplit[::-1]
 		last = lineSplitReversed[0]
@@ -60,11 +60,12 @@ def newXML(lines, oldRoot):
 	second.text = 'Shakespeare'
 	body = ET.SubElement(root, 'pbody')
 	stanza = ET.SubElement(body, 'stanza')
+	line = ET.SubElement(stanza, 'line')
 	
 	for li in lines:
 		w = " ".join([str(x) for x in li])
-		line = ET.SubElement(stanza, 'line')
-		line.text = w
+		te = ET.SubElement(line, 'text')
+		te.text = w
 	root = prettify(root)
 	return xml.sax.saxutils.unescape(root), title
 	
@@ -84,7 +85,7 @@ def main(args):
 			(xml, name) = newXML(l, r)
 			fName = (name + "_ann")
 			fileName = fName + '.xml'
-			nf = open(os.path.join("/media/DATA/AI/EAPoem/Data/SonnetsV2/", fileName), 'w')
+			nf = open(os.path.join("/media/DATA/AI/EAPoem/Data/Test", fileName), 'w')
 			nf.write(xml)
 	
 

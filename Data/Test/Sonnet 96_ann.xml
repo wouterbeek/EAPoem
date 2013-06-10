@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 96 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Some say thy fault is youth some <a>wantonness</a></text>
+        <text>Some say thy grace is youth and gentle <b>sport</b></text>
+        <text>Both grace and faults are loved of more and <a>less</a></text>
+        <text>Thou mak faults graces that to thee <b>resort</b></text>
+        <text>As on the finger of a throned <c>queen</c></text>
+        <text>The basest jewel will be well <d>esteemed</d></text>
+        <text>So are those errors that in thee are <c>seen</c></text>
+        <text>To truths translated and for true things <d>deemed</d></text>
+        <text>How many lambs might the stern wolf <e>betray</e></text>
+        <text>If like a lamb he could his looks <f>translate</f></text>
+        <text>How many gazers mightst thou lead <e>away</e></text>
+        <text>if thou wouldst use the strength of all thy <f>state</f></text>
+        <text>But do not so I love thee in such <g>sort</g></text>
+        <text>As thou being mine mine is thy good <g>report</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

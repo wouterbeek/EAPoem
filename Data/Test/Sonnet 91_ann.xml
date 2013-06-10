@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 91 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Some glory in their birth some in their <a>skill</a></text>
+        <text>Some in their wealth some in their body <b>force</b></text>
+        <text>Some in their garments though new-fangled <a>ill</a></text>
+        <text>Some in their hawks and hounds some in their <b>horse</b></text>
+        <text>And every humour hath his adjunct <c>pleasure</c></text>
+        <text>Wherein it finds a joy above the <d>rest</d></text>
+        <text>But these particulars are not my <c>measure</c></text>
+        <text>All these I better in one general <d>best</d></text>
+        <text>Thy love is better than high birth to <e>me</e></text>
+        <text>Richer than wealth prouder than garments <f>costs</f></text>
+        <text>Of more delight than hawks and horses <e>be</e></text>
+        <text>And having thee of all men pride I <f>boast</f></text>
+        <text>Wretched in this alone that thou mayst <g>take</g></text>
+        <text>All this away and me most wretchcd <g>make</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

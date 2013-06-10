@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 151 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>Love is too young to know what conscience <a>is</a></text>
+        <text>Yet who knows not conscience is born of <b>love</b></text>
+        <text>Then gentle cheater urge not my <a>amiss</a></text>
+        <text>Lest guilty of my faults thy sweet self <b>prove</b></text>
+        <text>For thou betraying me I do <c>betray</c></text>
+        <text>My nobler part to my gross body <d>treason</d></text>
+        <text>My soul doth tell my body that he <c>may</c></text>
+        <text>Triumph in love flesh stays no farther <d>reason</d></text>
+        <text>But rising at thy name doth point out <e>thee</e></text>
+        <text>As his triumphant prize proud of this <f>pride</f></text>
+        <text>He is contented thy poor drudge to <e>be</e></text>
+        <text>To stand in thy affairs fall by thy <f>side</f></text>
+        <text>No want of conscience hold it that I <g>call</g></text>
+        <text>Her love for whose dear love I rise and <g>fall</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>

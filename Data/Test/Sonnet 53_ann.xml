@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 53 annotated</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>
+        <text>What is your substance whereof are you <a>made</a></text>
+        <text>That millions of strange shadows on you <b>tend</b></text>
+        <text>Since every one hath every one one <a>shade</a></text>
+        <text>And you but one can every shadow <b>lend</b></text>
+        <text>Describe Adonis and the <c>counterfeit</c></text>
+        <text>Is poorly imitated after <d>you</d></text>
+        <text>On Helen cheek all art of beauty <c>set</c></text>
+        <text>And you in Grecian tires are painted <d>new</d></text>
+        <text>Speak of the spring and foison of the <e>year</e></text>
+        <text>The one doth shadow of your beauty <f>show</f></text>
+        <text>The other as your bounty doth <e>appear</e></text>
+        <text>And you in every blessed shape we <f>know</f></text>
+        <text>In all external grace you have some <g>part</g></text>
+        <text>But you like none none you for constant <g>heart</g></text>
+      </line>
+    </stanza>
+  </pbody>
+</poem>
