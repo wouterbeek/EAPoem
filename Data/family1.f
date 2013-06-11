@@ -26,7 +26,7 @@ sibling(sharon,alice).
 sibling(bob, alice).
 sibling(bob, sharon).
 
-%			     ken 	+	laura	& martin
+%			     ken 	+	laura
 %				/	  		/
 %		melissa  &	harriet		+	george
 %							 \	  /

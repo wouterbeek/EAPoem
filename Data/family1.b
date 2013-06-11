@@ -3,6 +3,24 @@
 % Version: 06/2013
 
 
+% parent(X, Y):-
+%	mother(X, Y).
+
+% parent(X, Y):-
+%	father(X, Y).
+
+% sibling(X, Y):-
+%	mother(X, Z),
+%	mother(Y, Z).
+
+% sibling(X, Y):-
+%	father(X, Z),
+%	father(Y, Z).
+
+% sibling(X, Y):-
+%	parent(Z, X),
+%	parent(Z, Y).
+
 % ========================================= %
 % This section is the type declaration      %
 % ========================================= %
@@ -12,8 +30,9 @@
 :- modeb(*,mother(+person,-person)).
 
 :- modeh(*,sibling(+person,+person)).
-:- modeb(*,father(+person,+person)).
-:- modeb(*,mother(+person,+person)).
+:- modeb(*,father(-person,-person)).
+:- modeb(*,mother(-person,-person)).
+:- modeb(*,parent(-person,-person)).
 
 
 :- determination(parent/2,father/2).
