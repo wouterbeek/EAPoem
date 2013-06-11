@@ -33,6 +33,7 @@
 :- modeb(*,father(-person,-person)).
 :- modeb(*,mother(-person,-person)).
 :- modeb(*,parent(-person,-person)).
+:- modeb(1,not_the_same(+person,+person)).
 
 
 :- determination(parent/2,father/2).
@@ -41,6 +42,7 @@
 :- determination(sibling/2, father/2).
 :- determination(sibling/2, mother/2).
 :- determination(sibling/2, parent/2).
+:- determination(sibling/2, not_the_same/2).
 
 
 % ======================================== %
@@ -69,6 +71,8 @@ mother(harriet,laura).
 mother(melissa,laura).
 mother(sharon,harriet).
 
+not_the_same(X, Y):-
+  X \== Y.
 
 %			     ken 	+	laura	
 %				/	  		/

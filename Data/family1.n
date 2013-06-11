@@ -8,7 +8,8 @@ parent(ken,george).
 parent(melissa,harriet).
 parent(melissa,sharon).
 
-
+sibling(alice,alice).
+sibling(bob,bob).
 sibling(bob,melissa).
 sibling(laura,alice).
 sibling(harriet,sharon).
