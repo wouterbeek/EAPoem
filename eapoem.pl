@@ -23,6 +23,7 @@ Edgar Allan Poem
 :- use_module(server(wallace)).
 :- use_module(library(xpath)).
 :- use_module(library(sgml)).
+:- use_module(ilp(aleph6)).
 
 :- db_add_novel(user:prolog_file_type(csv, csv)).
 :- db_add_novel(user:prolog_file_type(xml, xml)).
@@ -32,7 +33,7 @@ xmlTest(Cats):-
 	absolute_file_name(sonnet(sonnet1ann), File, [access(read), file_type(xml)]),
 	load_structure(File, DOM, []),
 	findall(Cat, xpath(DOM, //phoneme(@category), Cat), Cats).
-
+	
 
 
 shakespeare_csv:-
