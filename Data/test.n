@@ -1,0 +1,14 @@
+parent(a,a).
+parent(a,c).
+parent(a,d).
+parent(b,a).
+parent(b,b).
+parent(b,d).
+parent(c,a).
+parent(c,b).
+parent(c,c).
+parent(d,a).
+parent(d,b).
+parent(d,c).
+parent(d,d).
+
