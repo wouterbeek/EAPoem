@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 60</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Like as the waves make towards the pebbled shore<phoneme category="a">shore</phoneme></line>
+      <line>So do our minutes hasten to their end<phoneme category="b">end</phoneme></line>
+      <line>Each changing place with that which goes before<phoneme category="a">before</phoneme></line>
+      <line>In sequent toil all forwards do contend<phoneme category="b">contend</phoneme></line>
+      <line>Nativity once in the main of light<phoneme category="c">light</phoneme></line>
+      <line>Crawls to maturity wherewith being crowned<phoneme category="d">crowned</phoneme></line>
+      <line>Crooked eclipses gainst his glory fight<phoneme category="c">fight</phoneme></line>
+      <line>And Time that gave doth now his gift confound<phoneme category="d">confound</phoneme></line>
+      <line>Time doth transfix the flourish set on youth<phoneme category="e">youth</phoneme></line>
+      <line>And delves the parallels in beauty brow<phoneme category="f">brow</phoneme></line>
+      <line>Feeds on the rarities of nature truth<phoneme category="e">truth</phoneme></line>
+      <line>And nothing stands but for his scythe to mow<phoneme category="f">mow</phoneme></line>
+      <line>And yet to times in hope my verse shall stand<phoneme category="g">stand</phoneme></line>
+      <line>Praising thy worth despite his cruel hand<phoneme category="g">hand</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

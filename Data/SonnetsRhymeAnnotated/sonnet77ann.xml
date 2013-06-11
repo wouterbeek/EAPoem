@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 77</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Thy glass will show thee how thy beauties wear<phoneme category="a">wear</phoneme></line>
+      <line>Thy dial how thy precious minutes waste<phoneme category="b">waste</phoneme></line>
+      <line>These vacant leaves thy mind imprint will bear<phoneme category="a">bear</phoneme></line>
+      <line>And of this book this learning mayst thou taste<phoneme category="b">taste</phoneme></line>
+      <line>The wrinkles which thy glass will truly show<phoneme category="c">show</phoneme></line>
+      <line>Of mouthed graves will give thee memory<phoneme category="d">memory</phoneme></line>
+      <line>Thou by thy dial shady stealth mayst know<phoneme category="c">know</phoneme></line>
+      <line>Time thievish progress to eternity<phoneme category="d">eternity</phoneme></line>
+      <line>Look what thy memory cannot contain<phoneme category="e">contain</phoneme></line>
+      <line>Commit to these waste blanks and thou shalt find<phoneme category="f">find</phoneme></line>
+      <line>Those children nursed delivered from thy brain<phoneme category="e">brain</phoneme></line>
+      <line>To take a new acquaintance of thy mind<phoneme category="f">mind</phoneme></line>
+      <line>These offices so oft as thou wilt look<phoneme category="g">look</phoneme></line>
+      <line>Shall profit thee and much enrich thy book<phoneme category="g">book</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

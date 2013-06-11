@@ -13,6 +13,7 @@ sibling(bob,melissa).
 sibling(laura,alice).
 sibling(harriet,sharon).
 sibling(george, alice).
+sibling(melissa, melissa).
 %sibling(A, A) resolves in faulty hypothesis
 
 %			     ken 	+	laura	& martin

@@ -6,6 +6,7 @@ load_eapoem:-
   assert(user:file_search_path(project, ThisDirectory)),
   
   assert(user:file_search_path(data, project('Data'))),
+  assert(user:file_search_path(sonnet, data('SonnetsRhymeAnnotated'))),
   
   % Load the PGC.
   assert(user:file_search_path(pgc, project('PGC'))),

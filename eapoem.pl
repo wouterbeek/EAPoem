@@ -1,7 +1,8 @@
 :- module(
   eapoem,
   [
-    shakespeare_csv/0,
+  	xmlTest/1,
+  	shakespeare_csv/0,
     test_double_metaphone/0
   ]
 ).
@@ -20,8 +21,17 @@ Edgar Allan Poem
 :- use_module(library(csv)).
 :- use_module(library(double_metaphone)).
 :- use_module(server(wallace)).
+:- use_module(library(xpath)).
+:- use_module(library(sgml)).
 
 :- db_add_novel(user:prolog_file_type(csv, csv)).
+:- db_add_novel(user:prolog_file_type(xml, xml)).
+
+
+xmlTest(Cats):-
+	absolute_file_name(sonnet(sonnet1ann), File, [access(read), file_type(xml)]),
+	load_structure(File, DOM, []),
+	findall(Cat, xpath(DOM, //phoneme(@category), Cat), Cats).
 
 
 

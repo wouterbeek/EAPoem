@@ -86,9 +86,9 @@ def main(args):
 		with open(fileName) as f:
 			(l,r) = annotate(f)
 			(xml, name) = newXML(l, r)
-			fName = (name + "_ann")
+			fName = (fileName.replace('.xml', '_ann'))
 			fileName = fName + '.xml'
-			nf = open(os.path.join("/media/DATA/AI/EAPoem/Data/SonnetsV3", fileName), 'w')
+			nf = open(os.path.join("/media/DATA/AI/EAPoem/Data/a", fileName), 'w')
 			nf.write(xml)
 	
 

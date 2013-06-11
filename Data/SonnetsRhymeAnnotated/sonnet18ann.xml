@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 18</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Shall I compare thee to a summer day<phoneme category="a">day</phoneme></line>
+      <line>Thou art more lovely and more temperate<phoneme category="b">temperate</phoneme></line>
+      <line>Rough winds do shake the darling buds of May<phoneme category="a">May</phoneme></line>
+      <line>And summer lease hath all too short a date<phoneme category="b">date</phoneme></line>
+      <line>Sometime too hot the eye of heaven shines<phoneme category="c">shines</phoneme></line>
+      <line>And often is his gold complexion dimmed<phoneme category="d">dimmed</phoneme></line>
+      <line>And every fair from fair sometime declines<phoneme category="c">declines</phoneme></line>
+      <line>By chance or nature changing course untrimmed<phoneme category="d">untrimmed</phoneme></line>
+      <line>But thy eternal summer shall not fade<phoneme category="e">fade</phoneme></line>
+      <line>Nor lose possession of that fair thou ow<phoneme category="f">ow</phoneme></line>
+      <line>Nor shall death brag thou wandrest in his shade<phoneme category="e">shade</phoneme></line>
+      <line>When in eternal lines to time thou grow<phoneme category="f">grow</phoneme></line>
+      <line>So long as men can breathe or eyes can see<phoneme category="g">see</phoneme></line>
+      <line>So long lives this and this gives life to thee<phoneme category="g">thee</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

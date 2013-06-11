@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 67</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Ah wherefore with infection should he live<phoneme category="a">live</phoneme></line>
+      <line>And with his presence grace impiety<phoneme category="b">impiety</phoneme></line>
+      <line>That sin by him advantage should achieve<phoneme category="a">achieve</phoneme></line>
+      <line>And lace it self with his society<phoneme category="b">society</phoneme></line>
+      <line>Why should false painting imitate his cheek<phoneme category="c">cheek</phoneme></line>
+      <line>And steal dead seeming of his living hue<phoneme category="d">hue</phoneme></line>
+      <line>Why should poor beauty indirectly seek<phoneme category="c">seek</phoneme></line>
+      <line>Roses of shadow since his rose is true<phoneme category="d">true</phoneme></line>
+      <line>Why should he live now nature bankrupt is<phoneme category="e">is</phoneme></line>
+      <line>Beggared of blood to blush through lively veins<phoneme category="f">veins</phoneme></line>
+      <line>For she hath no exchequer now but his<phoneme category="e">his</phoneme></line>
+      <line>And proud of many lives upon his gains<phoneme category="f">gains</phoneme></line>
+      <line>O him she stores to show what wealth she had<phoneme category="g">had</phoneme></line>
+      <line>In days long since before these last so bad<phoneme category="g">bad</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

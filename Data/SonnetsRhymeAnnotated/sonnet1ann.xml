@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 1</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>From fairest creatures we desire increase<phoneme category="a">increase</phoneme></line>
+      <line>That thereby beauty rose might never die<phoneme category="b">die</phoneme></line>
+      <line>But as the riper should by time decease<phoneme category="a">decease</phoneme></line>
+      <line>His tender heir might bear his memory<phoneme category="b">memory</phoneme></line>
+      <line>But thou contracted to thine own bright eyes<phoneme category="c">eyes</phoneme></line>
+      <line>Feed thy light flame with self-substantial fuel<phoneme category="d">fuel</phoneme></line>
+      <line>Making a famine where abundance lies<phoneme category="c">lies</phoneme></line>
+      <line>Thy self thy foe to thy sweet self too cruel<phoneme category="d">cruel</phoneme></line>
+      <line>Thou that art now the world fresh ornament<phoneme category="e">ornament</phoneme></line>
+      <line>And only herald to the gaudy spring<phoneme category="f">spring</phoneme></line>
+      <line>Within thine own bud buriest thy content<phoneme category="e">content</phoneme></line>
+      <line>And tender churl mak waste in niggarding<phoneme category="f">niggarding</phoneme></line>
+      <line>Pity the world or else this glutton be<phoneme category="g">be</phoneme></line>
+      <line>To eat the world due by the grave and thee<phoneme category="g">thee</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

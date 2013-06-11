@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 36</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Let me confess that we two must be twain<phoneme category="a">twain</phoneme></line>
+      <line>Although our undivided loves are one<phoneme category="b">one</phoneme></line>
+      <line>So shall those blots that do with me remain<phoneme category="a">remain</phoneme></line>
+      <line>Without thy help by me be borne alone<phoneme category="b">alone</phoneme></line>
+      <line>In our two loves there is but one respect<phoneme category="c">respect</phoneme></line>
+      <line>Though in our lives a separable spite<phoneme category="d">spite</phoneme></line>
+      <line>Which though it alter not love sole effect<phoneme category="c">effect</phoneme></line>
+      <line>Yet doth it steal sweet hours from love delight<phoneme category="d">delight</phoneme></line>
+      <line>I may not evermore acknowledge thee<phoneme category="e">thee</phoneme></line>
+      <line>Lest my bewailed guilt should do thee shame<phoneme category="f">shame</phoneme></line>
+      <line>Nor thou with public kindness honour me<phoneme category="e">me</phoneme></line>
+      <line>Unless thou take that honour from thy name<phoneme category="f">name</phoneme></line>
+      <line>But do not so I love thee in such sort<phoneme category="g">sort</phoneme></line>
+      <line>As thou being mine mine is thy good report<phoneme category="g">report</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

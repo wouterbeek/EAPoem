@@ -1,3 +1,10 @@
 %======================================%
 % Negative examples for sonnets		   %
 %======================================%
+
+rhyme(a, b).
+rhyme(a, c).
+rhyme(b, d).
+rhyme(b,e).
+rhyme(f, g).
+rhyme(c, g).

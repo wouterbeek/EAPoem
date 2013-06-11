@@ -9,4 +9,23 @@
 % Type declaration %
 %==================%
 
+:- modeh(*, sonnet(+ann,+ann,+ann,+ann,+ann,+ann,+ann,+ann,+ann,+ann,+ann,+ann,+ann,+ann)).
+:- modeb(*, rhyme(+ann,+ann)).
+
+
+:- determination(sonnet/14, rhyme/2).
+
+
+%================%
+% Knowledge base %
+%================%
+
+ann(a).
+ann(b).
+ann(c).
+ann(d).
+ann(e).
+ann(f).
+ann(g).
+
 
