@@ -2,7 +2,19 @@
 % Positive examples for sonnets		   %
 %======================================%
 
+prince(g,g).
+prince(d,d).
+prince(e,e).
+
+quatrain(a,b,a,b).
+quatrain(c,d,c,d).
+quatrain(e,b,e,b).
 
 sonnet(a,b,a,b,c,d,c,d,e,f,e,f,g,g).
-sonnet(b,c,b,c,a,d,a,d,g,e,g,e,f,f).
-sonnet(g,f,g,f,a,b,a,b,c,d,c,d,e,e).
+sonnet(c,d,c,d,f,g,f,g,a,b,a,b,e,e).
+sonnet(g,f,g,f,e,a,e,a,b,c,b,c,d,d).
+
+
+
+
+

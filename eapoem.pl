@@ -1,7 +1,7 @@
 :- module(
   eapoem,
   [
-  	read_poem/2,
+  	read_poem/1,
   	shakespeare_csv/0,
     test_double_metaphone/0
   ]
@@ -31,10 +31,24 @@ Edgar Allan Poem
 
 %! read_poem(+Poem: atom, -Cats: list) is det.
 % Reads the poem (xml) and returns the rhyme annotation list
-read_poem(Poem, Cats):-
-	absolute_file_name(train(Poem), File, [access(read), file_type(xml)]),
-	load_structure(File, DOM, []),
-	findall(Cat, xpath(DOM, //phoneme(@category), Cat), Cats).
+read_poem(Cats):-
+	absolute_file_name(train(.), Directory, [access(read), file_type(directory)]),
+    directory_files(Directory, Files),
+	findall(
+		Cat,
+		(
+		    member(File, Files),
+		    (
+		    	file_name_extension(_Base, xml, File)
+		    ->
+				load_structure(File, DOM, []),
+				xpath(DOM, //phoneme(@category), Cat)
+			;
+				true
+			)
+		),
+		Cats
+	).
 	
 
 
