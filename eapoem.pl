@@ -1,7 +1,7 @@
 :- module(
   eapoem,
   [
-  	xmlTest/1,
+  	read_poem/2,
   	shakespeare_csv/0,
     test_double_metaphone/0
   ]
@@ -29,8 +29,10 @@ Edgar Allan Poem
 :- db_add_novel(user:prolog_file_type(xml, xml)).
 
 
-xmlTest(Cats):-
-	absolute_file_name(sonnet(sonnet1ann), File, [access(read), file_type(xml)]),
+%! read_poem(+Poem: atom, -Cats: list) is det.
+% Reads the poem (xml) and returns the rhyme annotation list
+read_poem(Poem, Cats):-
+	absolute_file_name(train(Poem), File, [access(read), file_type(xml)]),
 	load_structure(File, DOM, []),
 	findall(Cat, xpath(DOM, //phoneme(@category), Cat), Cats).
 	

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 10</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>For shame deny that thou bear love to any<phoneme category="a">any</phoneme></line>
+      <line>Who for thy self art so unprovident<phoneme category="b">unprovident</phoneme></line>
+      <line>Grant if thou wilt thou art beloved of many<phoneme category="a">many</phoneme></line>
+      <line>But that thou none lov is most evident<phoneme category="b">evident</phoneme></line>
+      <line>For thou art so possessed with murdrous hate<phoneme category="c">hate</phoneme></line>
+      <line>That gainst thy self thou stick not to conspire<phoneme category="d">conspire</phoneme></line>
+      <line>Seeking that beauteous roof to ruinate<phoneme category="c">ruinate</phoneme></line>
+      <line>Which to repair should be thy chief desire<phoneme category="d">desire</phoneme></line>
+      <line>O change thy thought that I may change my mind<phoneme category="e">mind</phoneme></line>
+      <line>Shall hate be fairer lodged than gentle love<phoneme category="f">love</phoneme></line>
+      <line>Be as thy presence is gracious and kind<phoneme category="e">kind</phoneme></line>
+      <line>Or to thy self at least kind-hearted prove<phoneme category="f">prove</phoneme></line>
+      <line>Make thee another self for love of me<phoneme category="g">me</phoneme></line>
+      <line>That beauty still may live in thine or thee<phoneme category="g">thee</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>
