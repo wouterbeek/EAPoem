@@ -1,3 +1,18 @@
 %======================================%
 % Negative examples for sonnets		   %
 %======================================%
+
+prince(a,b).
+prince(f,g).
+prince(e,c).
+
+quatrain(a,b,c,d).
+quatrain(d,e,f,g).
+quatrain(f,b,c,e).
+
+
+sonnet(a,a,b,b,c,c,d,d,e,e,f,f,g,g).
+sonnet(a,b,c,d,e,f,g,a,b,c,d,e,f,g).
+sonnet(g,a,a,d,e,f,b,c,d,f,b,g,e,c).
+
+

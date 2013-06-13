@@ -1,7 +1,8 @@
 :- module(
   eapoem,
   [
-    shakespeare_csv/0,
+  	read_poem/1,
+  	shakespeare_csv/0,
     test_double_metaphone/0
   ]
 ).
@@ -20,9 +21,35 @@ Edgar Allan Poem
 :- use_module(library(csv)).
 :- use_module(library(double_metaphone)).
 :- use_module(server(wallace)).
+:- use_module(library(xpath)).
+:- use_module(library(sgml)).
+:- use_module(ilp(aleph6)).
 
 :- db_add_novel(user:prolog_file_type(csv, csv)).
+:- db_add_novel(user:prolog_file_type(xml, xml)).
 
+
+%! read_poem(+Poem: atom, -Cats: list) is det.
+% Reads the poem (xml) and returns the rhyme annotation list
+read_poem(Cats):-
+	absolute_file_name(train(.), Directory, [access(read), file_type(directory)]),
+    directory_files(Directory, Files),
+	findall(
+		Cat,
+		(
+		    member(File, Files),
+		    (
+		    	file_name_extension(_Base, xml, File)
+		    ->
+				load_structure(File, DOM, []),
+				xpath(DOM, //phoneme(@category), Cat)
+			;
+				true
+			)
+		),
+		Cats
+	).
+	
 
 
 shakespeare_csv:-
