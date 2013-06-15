@@ -3,7 +3,7 @@
 %======================================%
 
 % @author: Eszter Fodor
-% @version: 06/2013
+% @version 1.0: 06/2013
 
 /* Desired clauses:
 
@@ -38,6 +38,7 @@ sonnet(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14):-
 :- modeb(1, prince(-end, -end)).
 
 :- determination(sonnet/14, quatrain/4).
+:- determination(sonnet/14, prince/2).
 :- determination(quatrain/4, '='/2).
 :- determination(prince/2, '='/2).
 

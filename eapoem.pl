@@ -33,13 +33,13 @@ Edgar Allan Poem
 % Reads the poem (xml) and returns the rhyme annotation list
 read_poem(Cats):-
 	absolute_file_name(train(.), Directory, [access(read), file_type(directory)]),
-    directory_files(Directory, Files),
+    directory_files(Directory, LocalNames),
 	findall(
 		Cat,
 		(
-		    member(File, Files),
+		    member(LocalName, LocalNames),
 		    (
-		    	file_name_extension(_Base, xml, File)
+			    catch(absolute_file_name(train(LocalName), File, [access(read), file_type(xml)]), _, fail)
 		    ->
 				load_structure(File, DOM, []),
 				xpath(DOM, //phoneme(@category), Cat)
