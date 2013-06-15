@@ -20,7 +20,7 @@ def getRhymes(html):
 	Constructs list with all the words that came up on the site
 	"""
 	soup = BeautifulSoup(html)
-	find = soup.body.center.center.font.center
+	find = soup.body.center.center
 	b = find.findAll('a', href = True,text=True)
 	print b
 

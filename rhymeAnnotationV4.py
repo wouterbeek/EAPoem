@@ -5,7 +5,7 @@ Neccesery measures to be able to progress to next stage
 This version creates better xmls
 
 Author: Eszter Fodor
-Version 3.0, 06/2013
+Version 4.0, 06/2013
 """
 
 import os

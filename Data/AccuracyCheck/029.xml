@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 29</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When in disgrace with Fortune and men eyes</line>
+      <line>I all alone beweep my outcast state</line>
+      <line>And trouble deaf heaven with my bootless cries</line>
+      <line>And look upon my self and curse my fate</line>
+      <line>Wishing me like to one more rich in hope</line>
+      <line>Featured like him like him with friends possessed</line>
+      <line>Desiring this man art and that man scope</line>
+      <line>With what I most enjoy contented least</line>
+      <line>Yet in these thoughts my self almost despising</line>
+      <line>Haply I think on thee and then my state</line>
+      <line>(Like to the lark at break of day arising</line>
+      <line>From sullen earth) sings hymns at heaven gate</line>
+      <line>For thy sweet love remembered such wealth brings</line>
+      <line>That then I scorn to change my state with kings</line>
+    </stanza>
+  </pbody>
+</poem>

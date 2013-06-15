@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<poem>
+  <phead>
+    <ptitle>Sonnet 141</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>In faith I do not love thee with mine eyes</line>
+      <line>For they in thee a thousand errors note</line>
+      <line>But tis my heart that loves what they despise</line>
+      <line>Who in despite of view is pleased to dote</line>
+      <line>Nor are mine cars with thy tongue tune delighted</line>
+      <line>Nor tender feeling to base touches prone</line>
+      <line>Nor taste nor smell desire to be invited</line>
+      <line>To any sensual feast with thee alone</line>
+      <line>But my five wits nor my five senses can</line>
+      <line>Dissuade one foolish heart from serving thee</line>
+      <line>Who leaves unswayed the likeness of a man</line>
+      <line>Thy proud heart slave and vassal wretch to be</line>
+      <line>Only my plague thus far I count my gain</line>
+      <line>That she that makes me sin awards me pain</line>
+    </stanza>
+  </pbody>
+</poem>
