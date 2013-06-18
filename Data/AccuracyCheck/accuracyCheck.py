@@ -5,6 +5,7 @@ Author: Eszter Fodor
 Version 1.0: 06/2013
 """
 
+import signal
 import sys
 import os
 import re
@@ -40,17 +41,17 @@ def checkRhyme(sonnet, root):
 	Look for rhymes in the sonnet
 	Arguments: reversed splitted lines of the sonnet, xml root
 	"""
-	
 	# Create a list with the last words of the lines of the sonnet
 	lastWordsList = [] 
 	restList = []
 	for line in sonnet:
 		lastWord = line[0]
 		lastWordsList.append(lastWord.upper())
-
+	
+	flag = 0
 	# For every word in the list of last words...
-	for word in lastWordsList: 
-		print lastWordsList
+	while ((lastWordsList != []) and (flag < len(lastWordsList))): 
+		word = lastWordsList[flag]
 		print word
 		arg = ("['"  + word.upper() + "', ") # "['WET', "
 		
@@ -58,9 +59,12 @@ def checkRhyme(sonnet, root):
 		try:
 			rhymes = subprocess.check_output(["fgrep", arg, "/media/DATA/AI/Scriptie/Dictionaries/new_cmuV3.txt"], stderr=subprocess.STDOUT)
 			# Returns a string
+		except KeyboardInterrupt:
+			sys.exit(0)
 		except:
+			print 'poep'
+			flag = flag + 1
 			pass
-		# FIXIT: When the first word of the ending words doesn't appear in the dictionary -> error
 		
 		# ...if found, split the string, thus creating a list...
 		rhymesList = rhymes.split(",")
@@ -87,8 +91,10 @@ def checkRhyme(sonnet, root):
 		if (end != None):
 			lastWordsList.remove(primary)
 			lastWordsList.remove(end)
-
+		else:
+			flag = flag + 1
 			
+	
 				
 def annotateRhymes(endings, primaryWord, rhymeList, rev, root):
 	"""
@@ -118,6 +124,7 @@ def prettify(elem):
     r = rough_string.replace("  ", "")
     reparsed = minidom.parseString(r)
     return reparsed.toprettyxml(indent="  ")
+
 		
 
 def main():
@@ -136,6 +143,8 @@ def main():
 #	sys.exit(main(sys.args))
 
 if __name__ == '__main__': main()
+	
+
 	
 
 

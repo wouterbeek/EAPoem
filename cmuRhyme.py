@@ -15,6 +15,8 @@ import sys
 import itertools
 import time
 
+rep = ["'","(1)", "(2)", "(3)"]
+
 
 def loadFile(cmu, output):
 	"""
@@ -39,6 +41,10 @@ def getRhymes(loaded,out):
 		else:
 			# Get word and phonetics
 			(word, phon) = line.split('  ')
+			# Replace noisy characters
+			for tag in rep:
+				if tag in word:
+					word = word.replace(tag, "")
 			phonSplit = phon.split(' ')
 			phonReverse = phonSplit[::-1]
 			# Add word and last part of phonetics to dictionary and consider stress

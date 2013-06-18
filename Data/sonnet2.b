@@ -16,8 +16,10 @@ prince(X1, X2):-
 */
 :- modeh(*, prince(+end, +end)).
 :- modeb(1, rhyme(+end,+end)).
+:- modeb(*, not_the_same_line(+end,+end)).
 
 :- determination(prince/2, rhyme/2).
+:- determination(prince/2, not_the_same_line/2).
 
 /*
 quatrain(X1, X2, X3, X4):-
@@ -26,8 +28,10 @@ quatrain(X1, X2, X3, X4):-
 */
 :- modeh(*, quatrain(+end, +end, +end, +end)).
 :- modeb(2, rhyme(-end,-end)).
+:- modeb(*, not_the_same_line(-end, -end)). 
 
 :- determination(quatrain/4, rhyme/2).
+:- determination(quatrain/4, not_the_same_line/2).
 
 /*
 sonnet(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14):-
@@ -37,12 +41,20 @@ sonnet(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14):-
 	prince(X13,X14).
 */
 :- modeh(*, sonnet(+end,+end,+end,+end,+end,+end,+end,+end,+end,+end,+end,+end,+end,+end)).
-:- modeb(3, quatrain(+end,+end, -end, -end)).
-:- modeb(1, prince(+end, +end)).
+:- modeb(*, quatrain(-end,-end, -end, -end)).
+:- modeb(*, prince(-end, -end)).
+:- modeb(*, not_the_same_line(-end, -end)).
 
 
 :- determination(sonnet/14, quatrain/4).
 :- determination(sonnet/14, prince/2).
+:- determination(sonnet/14, not_the_same_line/2).
+
+
+not_the_same_line(X, Y):-
+	X \== Y.
+
+
 
 %================%
 % Knowledge base %
@@ -72,8 +84,7 @@ rhyme(f-10,f-12).
 rhyme(g-13,g-14).
 
 
-%not_the_same(X, Y):-
-%  X \== Y.
+
 
 
 

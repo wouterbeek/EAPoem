@@ -18,8 +18,8 @@
 :- determination(quatrain/1,rhyme/2).
 
 :- modeh(*, sonnet([+end,+end,+end,+end, +end,+end,+end,+end,+end,+end,+end,+end,+end,+end])).
-:- modeb(3, quatrain([-end,-end,-end,-end])).
-:- modeb(1, prince([-end, -end])).
+:- modeb(*, quatrain([-end,-end,-end,-end])).
+:- modeb(*, prince([-end, -end])).
 :- determination(sonnet/1,quatrain/1).
 :- determination(sonnet/1,prince/1).
 
