@@ -11,18 +11,28 @@
 
 :- modeh(*, prince([+end, +end])).
 :- modeb(1, rhyme(+end,+end)).
+:- modeb(*, not_the_same_line(+end, +end)).
 :- determination(prince/1, rhyme/2).
+:- determination(prince/1, not_the_same_line/2).
 
 :- modeh(*, quatrain([+end, +end, +end, +end])).
 :- modeb(2, rhyme(-end, -end)).
+:- modeb(*, not_the_same_line(+end, +end)).
 :- determination(quatrain/1,rhyme/2).
+:- determination(quatrain/1, not_the_same_line/2).
 
 :- modeh(*, sonnet([+end,+end,+end,+end, +end,+end,+end,+end,+end,+end,+end,+end,+end,+end])).
 :- modeb(*, quatrain([-end,-end,-end,-end])).
 :- modeb(*, prince([-end, -end])).
+:- modeb(*, not_the_same_line(+end,+end)).
+
 :- determination(sonnet/1,quatrain/1).
 :- determination(sonnet/1,prince/1).
+:- determination(sonnet/1, not_the_same_line/2).
 
+
+not_the_same_line(X, Y):-
+	X \== Y.
 
 
 

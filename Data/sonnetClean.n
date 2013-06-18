@@ -1,0 +1,48 @@
+%======================================%
+% Negative examples for sonnets		   %
+%======================================%
+
+% First and last row is correct
+% rhyme(A,C), rhyme(B, D), rhyme(M, N)
+sonnet([a-1,b-2,a-3,b-4,
+	c-5,c-7,d-6,d-8,
+	e-9,e-11,f-10,f-12,
+	g-13,g-14]).
+	
+% Second and third row is correct
+% rhyme(E, G), rhyme(F, H), rhyme(I, K), rhyme(J, L)
+sonnet([b-4,b-2,c-5,d-6,
+	e-9,f-10,e-11,f-12,
+	a-1,g-14,a-3,g-13,
+	d-8,c-7]).
+
+% Random	
+sonnet([g-14,b-2,f-12,g-13,
+	a-3,b-4,e-11,c-5,
+	a-1,d-6,e-9,f-10,
+	d-8,c-7]).
+
+% rhyme(A, C), rhyme(B, D), rhyme(E, G), rhyme(M, N)
+sonnet([g-13, e-9, g-14, e-11,
+	a-3, c-5, a-1, d-6,
+	c-7, d-8, b-4, b-2,
+	f-10, f-12]).
+	
+% rhyme(A, C), rhyme(F, H), rhyme(I, K), rhyme(M, N)
+sonnet([f-10, c-5, f-12, d-6,
+	g-13, b-4, b-2, g-14,
+	a-1, d-8, a-3, c-7,
+	e-9, e-11]).
+	
+% rhyme(A, C), rhyme(F, H), rhyme(M, N)	
+sonnet([g-13,c-5,g-14,f-12,
+	a-3,b-2,e-11,b-4,
+	a-1,c-7,e-9,f-10,
+	d-6,d-8]).
+	
+% rhyme(J, L), rhyme(M, N)
+sonnet([a-1, g-14, c-5, d-6,
+	a-3, g-13, b-2, b-4,
+	c-7, f-10, d-8, f-12,
+	e-9,e-11]).
+
