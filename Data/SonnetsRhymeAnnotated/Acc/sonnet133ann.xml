@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 133</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Beshrew that heart that makes my heart to groan<phoneme category="a">groan</phoneme></line>
+      <line>For that deep wound it gives my friend and me<phoneme category="b">me</phoneme></line>
+      <line>Ist not enough to torture me alone<phoneme category="a">alone</phoneme></line>
+      <line>But slave to slavery my sweet friend must be<phoneme category="b">be</phoneme></line>
+      <line>Me from my self thy cruel eye hath taken<phoneme category="c">taken</phoneme></line>
+      <line>And my next self thou harder hast engrossed<phoneme category="d">engrossed</phoneme></line>
+      <line>Of him my self and thee I am forsaken<phoneme category="c">forsaken</phoneme></line>
+      <line>A torment thrice three-fold thus to be crossed<phoneme category="d">crossed</phoneme></line>
+      <line>Prison my heart in thy steel bosom ward<phoneme category="e">ward</phoneme></line>
+      <line>But then my friend heart let my poor heart bail<phoneme category="f">bail</phoneme></line>
+      <line>Whoeer keeps me let my heart be his guard<phoneme category="e">guard</phoneme></line>
+      <line>Thou canst not then use rigour in my gaol<phoneme category="f">gaol</phoneme></line>
+      <line>And yet thou wilt for I being pent in thee<phoneme category="g">thee</phoneme></line>
+      <line>Perforce am thine and all that is in me<phoneme category="g">me</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

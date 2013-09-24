@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 24</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Mine eye hath played the painter and hath stelled</line>
+      <line>Thy beauty form in table of my heart</line>
+      <line>My body is the frame wherein tis held</line>
+      <line>And perspective it is best painter art</line>
+      <line>For through the painter must you see his<phoneme category="c">skill</phoneme></line>
+      <line>To find where your true image pictured<phoneme category="d">lies</phoneme></line>
+      <line>Which in my bosom shop is hanging<phoneme category="c">still</phoneme></line>
+      <line>That hath his windows glazed with thine<phoneme category="d">eyes</phoneme></line>
+      <line>Now see what good turns eyes for eyes have<phoneme category="e">done</phoneme></line>
+      <line>Mine eyes have drawn thy shape and thine for<phoneme category="f">me</phoneme></line>
+      <line>Are windows to my breast where through the<phoneme category="e">sun</phoneme></line>
+      <line>Delights to peep to gaze therein on<phoneme category="f">thee</phoneme></line>
+      <line>Yet eyes this cunning want to grace their<phoneme category="g">art</phoneme></line>
+      <line>They draw but what they see know not the<phoneme category="g">heart</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

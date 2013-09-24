@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 48</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>How careful was I when I took my<phoneme category="a">way</phoneme></line>
+      <line>Each trifle under truest bars to<phoneme category="b">thrust</phoneme></line>
+      <line>That to my use it might unused<phoneme category="a">stay</phoneme></line>
+      <line>From hands of falsehood in sure wards of<phoneme category="b">trust</phoneme></line>
+      <line>But thou to whom my jewels trifles are</line>
+      <line>Most worthy comfort now my greatest<phoneme category="d">grief</phoneme></line>
+      <line>Thou best of dearest and mine only care</line>
+      <line>Art left the prey of every vulgar<phoneme category="d">thief</phoneme></line>
+      <line>Thee have I not locked up in any<phoneme category="e">chest</phoneme></line>
+      <line>Save where thou art not though I feel thou<phoneme category="f">art</phoneme></line>
+      <line>Within the gentle closure of my<phoneme category="e">breast</phoneme></line>
+      <line>From whence at pleasure thou mayst come and<phoneme category="f">part</phoneme></line>
+      <line>And even thence thou wilt be stoln I<phoneme category="g">fear</phoneme></line>
+      <line>For truth proves thievish for a prize so<phoneme category="g">dear</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

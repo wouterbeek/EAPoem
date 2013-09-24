@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 96</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Some say thy fault is youth some wantonness</line>
+      <line>Some say thy grace<phoneme category="b">sport</phoneme><phoneme category="b">sport</phoneme><phoneme category="b">sport</phoneme><phoneme category="b">sport</phoneme><phoneme category="b">sport</phoneme></line>
+      <line>Both grace and faults are loved of more and less</line>
+      <line>Thou mak<phoneme category="b">resort</phoneme><phoneme category="b">resort</phoneme><phoneme category="b">resort</phoneme><phoneme category="b">resort</phoneme><phoneme category="b">resort</phoneme><phoneme category="b">resort</phoneme></line>
+      <line>As on the finger of a throned<phoneme category="c">queen</phoneme></line>
+      <line>The basest jewel will be well<phoneme category="d">esteemed</phoneme></line>
+      <line>So are those errors that in thee are<phoneme category="c">seen</phoneme></line>
+      <line>To truths translated and for true things<phoneme category="d">deemed</phoneme></line>
+      <line>How many lambs might the stern wolf<phoneme category="e">betray</phoneme></line>
+      <line>If like a lamb he could his looks<phoneme category="f">translate</phoneme></line>
+      <line>How many gazers mightst thou lead<phoneme category="e">away</phoneme></line>
+      <line>if thou wouldst use the strength of all thy<phoneme category="f">state</phoneme></line>
+      <line>But do not so I love thee<phoneme category="g">sort</phoneme><phoneme category="g">sort</phoneme><phoneme category="g">sort</phoneme></line>
+      <line>As thou being<phoneme category="g">report</phoneme><phoneme category="g">report</phoneme><phoneme category="g">report</phoneme><phoneme category="g">report</phoneme><phoneme category="g">report</phoneme><phoneme category="g">report</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 100</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Where art thou Muse that thou forget so<phoneme category="a">long</phoneme></line>
+      <line>To speak of that which gives thee all thy<phoneme category="b">might</phoneme></line>
+      <line>Spend thou thy fury on some worthless<phoneme category="a">song</phoneme></line>
+      <line>Darkening thy power to lend base subjects<phoneme category="b">light</phoneme></line>
+      <line>Return forgetful Muse and straight<phoneme category="c">redeem</phoneme></line>
+      <line>In gentle numbers time so idly spent</line>
+      <line>Sing to the ear that doth thy lays<phoneme category="c">esteem</phoneme></line>
+      <line>And gives thy pen both skill and argument</line>
+      <line>Rise resty Muse my love sweet face<phoneme category="e">survey</phoneme></line>
+      <line>If time have any wrinkle graven there</line>
+      <line>If any be a satire to<phoneme category="e">decay</phoneme></line>
+      <line>And make time spoils despised everywhere</line>
+      <line>Give my love fame faster than Time wastes<phoneme category="g">life</phoneme></line>
+      <line>So thou prevent his scythe and crooked<phoneme category="g">knife</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 54</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O how much more doth beauty beauteous<phoneme category="a">seem</phoneme></line>
+      <line>By that sweet ornament which truth doth<phoneme category="b">give</phoneme></line>
+      <line>The rose looks fair but fairer we it<phoneme category="a">deem</phoneme></line>
+      <line>For that sweet odour which doth in it<phoneme category="b">live</phoneme></line>
+      <line>The canker blooms have full as deep a dye</line>
+      <line>As the perfumed tincture of the<phoneme category="d">roses</phoneme></line>
+      <line>Hang on such thorns and play as wantonly</line>
+      <line>When summer breath their masked buds<phoneme category="d">discloses</phoneme></line>
+      <line>But for their virtue only is their<phoneme category="e">show</phoneme></line>
+      <line>They live unwooed and unrespected<phoneme category="f">fade</phoneme></line>
+      <line>Die to themselves Sweet roses do not<phoneme category="e">so</phoneme></line>
+      <line>Of their sweet deaths are sweetest odours<phoneme category="f">made</phoneme></line>
+      <line>And so of you beauteous and lovely<phoneme category="g">youth</phoneme></line>
+      <line>When that shall vade by verse distills your<phoneme category="g">truth</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

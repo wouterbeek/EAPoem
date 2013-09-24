@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 125</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Weret aught to me I bore the canopy</line>
+      <line>With my extern the outward honouring</line>
+      <line>Or laid great bases for eternity</line>
+      <line>Which proves more short than waste or ruining</line>
+      <line>Have I not seen dwellers on form and favour</line>
+      <line>Lose all and more by paying too much<phoneme category="d">rent</phoneme></line>
+      <line>For compound sweet forgoing simple savour</line>
+      <line>Pitiful thrivers in their gazing<phoneme category="d">spent</phoneme></line>
+      <line>No let me be obsequious in thy<phoneme category="e">heart</phoneme></line>
+      <line>And take thou my oblation poor but<phoneme category="f">free</phoneme></line>
+      <line>Which is not mixed with seconds knows no<phoneme category="e">art</phoneme></line>
+      <line>But mutual render only me for<phoneme category="f">thee</phoneme></line>
+      <line>Hence thou suborned informer a true<phoneme category="g">soul</phoneme></line>
+      <line>When most impeached stands least in thy<phoneme category="g">control</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

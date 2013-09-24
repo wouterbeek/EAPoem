@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 143</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Lo as a careful huswife runs to<phoneme category="a">catch</phoneme></line>
+      <line>One of her feathered creatures broke away</line>
+      <line>Sets down her babe and makes all swift<phoneme category="a">dispatch</phoneme></line>
+      <line>In pursuit of the thing she would have stay</line>
+      <line>Whilst her neglected child holds her in<phoneme category="c">chase</phoneme></line>
+      <line>Cries to catch her whose busy care is<phoneme category="d">bent</phoneme></line>
+      <line>To follow that which flies before her<phoneme category="c">face</phoneme></line>
+      <line>Not prizing her poor infant<phoneme category="d">discontent</phoneme></line>
+      <line>So run thou after that which flies from<phoneme category="e">thee</phoneme></line>
+      <line>Whilst I thy babe chase thee afar<phoneme category="f">behind</phoneme></line>
+      <line>But if thou catch thy hope turn back to<phoneme category="e">me</phoneme></line>
+      <line>And play the mother part kiss me be<phoneme category="f">kind</phoneme></line>
+      <line>So will I pray that thou mayst have thy<phoneme category="g">will</phoneme></line>
+      <line>If thou turn back and my loud crying<phoneme category="g">still</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

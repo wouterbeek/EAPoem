@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 149</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Canst thou O cruel say I love thee<phoneme category="a">not</phoneme></line>
+      <line>When I against my self with thee<phoneme category="b">partake</phoneme></line>
+      <line>Do I not think on thee when I<phoneme category="a">forgot</phoneme></line>
+      <line>Am of my self all tyrant for thy<phoneme category="b">sake</phoneme></line>
+      <line>Who hateth thee that I do call my<phoneme category="c">friend</phoneme></line>
+      <line>On whom frown thou that I do fawn upon</line>
+      <line>Nay if thou lour on me do I not<phoneme category="c">spend</phoneme></line>
+      <line>Revenge upon my self with present moan</line>
+      <line>What merit do I in my self respect</line>
+      <line>That is so proud thy service to<phoneme category="f">despise</phoneme></line>
+      <line>When all my best doth worship thy defect</line>
+      <line>Commanded by the motion of thine<phoneme category="f">eyes</phoneme></line>
+      <line>But love hate on for now I know thy<phoneme category="g">mind</phoneme></line>
+      <line>Those that can see thou lov and I am<phoneme category="g">blind</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

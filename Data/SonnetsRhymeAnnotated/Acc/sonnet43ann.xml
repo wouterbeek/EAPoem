@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 43</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When most I wink then do mine eyes best see<phoneme category="a">see</phoneme></line>
+      <line>For all the day they view things unrespected<phoneme category="b">unrespected</phoneme></line>
+      <line>But when I sleep in dreams they look on thee<phoneme category="a">thee</phoneme></line>
+      <line>And darkly bright are bright in dark directed<phoneme category="b">directed</phoneme></line>
+      <line>Then thou whose shadow shadows doth make bright<phoneme category="c">bright</phoneme></line>
+      <line>How would thy shadow form form happy show<phoneme category="d">show</phoneme></line>
+      <line>To the clear day with thy much clearer light<phoneme category="c">light</phoneme></line>
+      <line>When to unseeing eyes thy shade shines so<phoneme category="d">so</phoneme></line>
+      <line>How would (I say) mine eyes be blessed made<phoneme category="e">made</phoneme></line>
+      <line>By looking on thee in the living day<phoneme category="f">day</phoneme></line>
+      <line>When in dead night thy fair imperfect shade<phoneme category="e">shade</phoneme></line>
+      <line>Through heavy sleep on sightless eyes doth stay<phoneme category="f">stay</phoneme></line>
+      <line>All days are nights to see till I see thee<phoneme category="g">thee</phoneme></line>
+      <line>And nights bright days when dreams do show thee me<phoneme category="g">me</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

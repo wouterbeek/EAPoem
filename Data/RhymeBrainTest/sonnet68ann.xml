@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 68</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Thus is his cheek the map of days<phoneme category="a">outworn</phoneme></line>
+      <line>When beauty lived and died as flowers do<phoneme category="b">now</phoneme></line>
+      <line>Before these bastard signs of fair were<phoneme category="a">born</phoneme></line>
+      <line>Or durst inhabit on a living<phoneme category="b">brow</phoneme></line>
+      <line>Before the golden tresses of the<phoneme category="c">dead</phoneme></line>
+      <line>The right of sepulchres were shorn<phoneme category="d">away</phoneme></line>
+      <line>To live a second life on second<phoneme category="c">head</phoneme></line>
+      <line>Ere beauty dead fleece made another<phoneme category="d">gay</phoneme></line>
+      <line>In him those holy antique hours are<phoneme category="e">seen</phoneme></line>
+      <line>Without all ornament it self and<phoneme category="f">true</phoneme></line>
+      <line>Making no summer of another<phoneme category="e">green</phoneme></line>
+      <line>Robbing no old to dress his beauty<phoneme category="f">new</phoneme></line>
+      <line>And him as for a map doth Nature<phoneme category="g">store</phoneme></line>
+      <line>To show false Art what beauty was of<phoneme category="g">yore</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

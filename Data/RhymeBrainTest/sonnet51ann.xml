@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 51</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Can my love excuse the slow<phoneme category="a">offence</phoneme></line>
+      <line>Of my dull bearer when from thee I<phoneme category="b">speed</phoneme></line>
+      <line>From where thou art why should I haste me<phoneme category="a">thence</phoneme></line>
+      <line>Till I return of posting is no<phoneme category="b">need</phoneme></line>
+      <line>O what excuse will my poor beast then<phoneme category="c">find</phoneme></line>
+      <line>When swift extremity can seem but slow</line>
+      <line>Then should I spur though mounted on the<phoneme category="c">wind</phoneme></line>
+      <line>In winged speed no motion shall I<phoneme category="d">know</phoneme></line>
+      <line>Then can no horse with my desire keep<phoneme category="e">pace</phoneme></line>
+      <line>Therefore desire of perfect love being<phoneme category="f">made</phoneme></line>
+      <line>Shall neigh no dull flesh in his fiery<phoneme category="e">race</phoneme></line>
+      <line>But love for love thus shall excuse my<phoneme category="f">jade</phoneme></line>
+      <line>Since from thee going he went wilful<phoneme category="g">slow</phoneme></line>
+      <line>Towards thee Ill run and give him leave to<phoneme category="g">go</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

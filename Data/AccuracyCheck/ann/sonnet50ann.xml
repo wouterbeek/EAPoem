@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 50</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>How heavy do I journey on the<phoneme category="a">way</phoneme></line>
+      <line>When what I seek my weary travel<phoneme category="b">end</phoneme></line>
+      <line>Doth teach that case and that repose to<phoneme category="a">say</phoneme></line>
+      <line>Thus far the miles are measured from thy<phoneme category="b">friend</phoneme></line>
+      <line>The beast that bears me tired with my<phoneme category="c">woe</phoneme></line>
+      <line>Plods dully on to bear that weight in<phoneme category="d">me</phoneme></line>
+      <line>As if by some instinct the wretch did<phoneme category="c">know</phoneme></line>
+      <line>His rider loved not speed being made from<phoneme category="d">thee</phoneme></line>
+      <line>The bloody spur cannot provoke him on</line>
+      <line>That sometimes anger thrusts into his<phoneme category="f">hide</phoneme></line>
+      <line>Which heavily he answers with a groan</line>
+      <line>More sharp to me than spurring to his<phoneme category="f">side</phoneme></line>
+      <line>For that same groan doth put this in my<phoneme category="g">mind</phoneme></line>
+      <line>My grief lies onward and my joy<phoneme category="g">behind</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

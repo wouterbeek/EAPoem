@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 33</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Full many a glorious morning have I<phoneme category="a">seen</phoneme></line>
+      <line>Flatter the mountain tops with sovereign eye</line>
+      <line>Kissing with golden face the meadows<phoneme category="a">green</phoneme></line>
+      <line>Gilding pale streams with heavenly alchemy</line>
+      <line>Anon permit the basest clouds to<phoneme category="c">ride</phoneme></line>
+      <line>With ugly rack on his celestial<phoneme category="d">face</phoneme></line>
+      <line>And from the forlorn world his visage<phoneme category="c">hide</phoneme></line>
+      <line>Stealing unseen to west with this<phoneme category="d">disgrace</phoneme></line>
+      <line>Even so my sun one early morn did<phoneme category="e">shine</phoneme></line>
+      <line>With all triumphant splendour on my<phoneme category="f">brow</phoneme></line>
+      <line>But out alack he was but one hour<phoneme category="e">mine</phoneme></line>
+      <line>The region cloud hath masked him from me<phoneme category="f">now</phoneme></line>
+      <line>Yet him for this my love no whit disdaineth</line>
+      <line>Suns of the world may stain when heaven sun staineth</line>
+    </stanza>
+  </pbody>
+</poem>

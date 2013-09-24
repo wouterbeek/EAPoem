@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 40</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Take all my loves my love yea take them<phoneme category="a">all</phoneme></line>
+      <line>What hast thou then more than thou hadst<phoneme category="b">before</phoneme></line>
+      <line>No love my love that thou mayst true love<phoneme category="a">call</phoneme></line>
+      <line>All mine was thine before thou hadst this<phoneme category="b">more</phoneme></line>
+      <line>Then if for my love thou my love receivest</line>
+      <line>I cannot blame thee for my love thou usest</line>
+      <line>But yet be blamed if thou thy self deceivest</line>
+      <line>By wilful taste of what thy self refusest</line>
+      <line>I do forgive thy robbery gentle<phoneme category="e">thief</phoneme></line>
+      <line>Although thou steal thee all my poverty</line>
+      <line>And yet love knows it is a greater<phoneme category="e">grief</phoneme></line>
+      <line>To bear greater wrong than hate known injury</line>
+      <line>Lascivious grace in whom all ill well<phoneme category="g">shows</phoneme></line>
+      <line>Kill me with spites yet we must not be<phoneme category="g">foes</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

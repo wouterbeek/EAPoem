@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 116</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Let me not to the marriage of true minds</line>
+      <line>Admit impediments love is not love</line>
+      <line>Which alters when it alteration finds</line>
+      <line>Or bends with the remover to remove</line>
+      <line>O no it is an ever fixed<phoneme category="c">mark</phoneme></line>
+      <line>That looks on tempests and is never<phoneme category="d">shaken</phoneme></line>
+      <line>It is the star to every wandring<phoneme category="c">bark</phoneme></line>
+      <line>Whose worth unknown although his height be<phoneme category="d">taken</phoneme></line>
+      <line>Love not Time fool though rosy lips and<phoneme category="e">cheeks</phoneme></line>
+      <line>Within his bending sickle compass come</line>
+      <line>Love alters not with his brief hours and<phoneme category="e">weeks</phoneme></line>
+      <line>But bears it out even to the edge of doom</line>
+      <line>If this be error and upon me proved</line>
+      <line>I never writ nor no man ever loved</line>
+    </stanza>
+  </pbody>
+</poem>

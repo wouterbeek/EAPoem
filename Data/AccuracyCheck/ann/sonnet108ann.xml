@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 108</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>What in the brain that ink may<phoneme category="a">character</phoneme></line>
+      <line>Which hath not figured to thee my true<phoneme category="b">spirit</phoneme></line>
+      <line>What new to speak what now to<phoneme category="a">register</phoneme></line>
+      <line>That may express my love or thy dear<phoneme category="b">merit</phoneme></line>
+      <line>Nothing sweet boy but yet like prayers<phoneme category="c">divine</phoneme></line>
+      <line>I must each day say oer the very<phoneme category="d">same</phoneme></line>
+      <line>Counting no old thing old thou mine I<phoneme category="c">thine</phoneme></line>
+      <line>Even as when first I hallowed thy fair<phoneme category="d">name</phoneme></line>
+      <line>So that eternal love in love fresh<phoneme category="e">case</phoneme></line>
+      <line>Weighs not the dust and injury of<phoneme category="f">age</phoneme></line>
+      <line>Nor gives to necessary wrinkles<phoneme category="e">place</phoneme></line>
+      <line>But makes antiquity for aye his<phoneme category="f">page</phoneme></line>
+      <line>Finding the first conceit of love there<phoneme category="g">bred</phoneme></line>
+      <line>Where time and outward form would show it<phoneme category="g">dead</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

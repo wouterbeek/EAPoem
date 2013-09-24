@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 76</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Why is my verse so barren of new<phoneme category="a">pride</phoneme></line>
+      <line>So far from variation or quick<phoneme category="b">change</phoneme></line>
+      <line>Why with the time do I not glance<phoneme category="a">aside</phoneme></line>
+      <line>To new found methods and to compounds<phoneme category="b">strange</phoneme></line>
+      <line>Why write I still all one ever the<phoneme category="c">same</phoneme></line>
+      <line>And keep invention in a noted<phoneme category="d">weed</phoneme></line>
+      <line>That every word doth almost tell my<phoneme category="c">name</phoneme></line>
+      <line>Showing their birth and where they did<phoneme category="d">proceed</phoneme></line>
+      <line>O know sweet love I always write of<phoneme category="e">you</phoneme></line>
+      <line>And you and love are still my argument</line>
+      <line>So all my best is dressing old words<phoneme category="e">new</phoneme></line>
+      <line>Spending again what is already spent</line>
+      <line>For as the sun is daily new and<phoneme category="g">old</phoneme></line>
+      <line>So is my love still telling what is<phoneme category="g">told</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

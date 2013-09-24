@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 113</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Since I left you mine eye is in my<phoneme category="a">mind</phoneme></line>
+      <line>And that which governs me to go<phoneme category="b">about</phoneme></line>
+      <line>Doth part his function and is partly<phoneme category="a">blind</phoneme></line>
+      <line>Seems seeing but effectually is<phoneme category="b">out</phoneme></line>
+      <line>For it no form delivers to the<phoneme category="c">heart</phoneme></line>
+      <line>Of bird of flower or shape which it doth<phoneme category="d">latch</phoneme></line>
+      <line>Of his quick objects hath the mind no<phoneme category="c">part</phoneme></line>
+      <line>Nor his own vision holds what it doth<phoneme category="d">catch</phoneme></line>
+      <line>For if it see the rud or gentlest<phoneme category="e">sight</phoneme></line>
+      <line>The most sweet favour or deformed<phoneme category="f">creature</phoneme></line>
+      <line>The mountain or the sea the day or<phoneme category="e">night</phoneme></line>
+      <line>The crow or dove it shapes them to your<phoneme category="f">feature</phoneme></line>
+      <line>Incapable of more replete with<phoneme category="g">you</phoneme></line>
+      <line>My most true mind thus maketh mine<phoneme category="g">untrue</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 9</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Is it for fear to wet a widow<phoneme category="a">eye</phoneme></line>
+      <line>That thou consum thy self in single<phoneme category="b">life</phoneme></line>
+      <line>Ah if thou issueless shalt hap to<phoneme category="a">die</phoneme></line>
+      <line>The world will wail thee like a makeless<phoneme category="b">wife</phoneme></line>
+      <line>The world will be thy widow and still<phoneme category="c">weep</phoneme></line>
+      <line>That thou no form of thee hast left<phoneme category="d">behind</phoneme></line>
+      <line>When every private widow well may<phoneme category="c">keep</phoneme></line>
+      <line>By children eyes her husband shape in<phoneme category="d">mind</phoneme></line>
+      <line>Look what an unthrift in the world doth<phoneme category="e">spend</phoneme></line>
+      <line>Shifts but his place for still the world enjoys it</line>
+      <line>But beauty waste hath in the world an<phoneme category="e">end</phoneme></line>
+      <line>And kept unused the user so destroys it</line>
+      <line>No love toward others in that bosom<phoneme category="g">sits</phoneme></line>
+      <line>That on himself such murdrous shame<phoneme category="g">commits</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

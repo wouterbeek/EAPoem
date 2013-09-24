@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 103</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Alack what poverty my muse brings forth</line>
+      <line>That having such a scope to show her<phoneme category="b">pride</phoneme></line>
+      <line>The argument all bare is of more worth</line>
+      <line>Than when it hath my added praise<phoneme category="b">beside</phoneme></line>
+      <line>O blame me not if I no more can<phoneme category="c">write</phoneme></line>
+      <line>Look in your glass and there appears a<phoneme category="d">face</phoneme></line>
+      <line>That over goes my blunt invention<phoneme category="c">quite</phoneme></line>
+      <line>Dulling my lines and doing me<phoneme category="d">disgrace</phoneme></line>
+      <line>Were it not sinful then striving to<phoneme category="e">mend</phoneme></line>
+      <line>To mar the subject that before was<phoneme category="f">well</phoneme></line>
+      <line>For to no other pass my verses<phoneme category="e">tend</phoneme></line>
+      <line>Than of your graces and your gifts to<phoneme category="f">tell</phoneme></line>
+      <line>And more much more than in my verse can<phoneme category="g">sit</phoneme></line>
+      <line>Your own glass shows you when you look in<phoneme category="g">it</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

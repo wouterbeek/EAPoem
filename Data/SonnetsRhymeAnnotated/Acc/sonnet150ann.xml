@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 150</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O from what power hast thou this powerful might<phoneme category="a">might</phoneme></line>
+      <line>With insufficiency my heart to sway<phoneme category="b">sway</phoneme></line>
+      <line>To make me give the lie to my true sight<phoneme category="a">sight</phoneme></line>
+      <line>And swear that brightness doth not grace the day<phoneme category="b">day</phoneme></line>
+      <line>Whence hast thou this becoming of things ill<phoneme category="c">ill</phoneme></line>
+      <line>That in the very refuse of thy deeds<phoneme category="d">deeds</phoneme></line>
+      <line>There is such strength and warrantise of skill<phoneme category="c">skill</phoneme></line>
+      <line>That in my mind thy worst all best exceeds<phoneme category="d">exceeds</phoneme></line>
+      <line>Who taught thee how to make me love thee more<phoneme category="e">more</phoneme></line>
+      <line>The more I hear and see just cause of hate<phoneme category="f">hate</phoneme></line>
+      <line>O though I love what others do abhor<phoneme category="e">abhor</phoneme></line>
+      <line>With others thou shouldst not abhor my state<phoneme category="f">state</phoneme></line>
+      <line>If thy unworthiness raised love in me<phoneme category="g">me</phoneme></line>
+      <line>More worthy I to be beloved of thee<phoneme category="g">thee</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

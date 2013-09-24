@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 58</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>That god forbid that made me first your<phoneme category="a">slave</phoneme></line>
+      <line>I should in thought control your times of<phoneme category="b">pleasure</phoneme></line>
+      <line>Or at your hand th account of hours to<phoneme category="a">crave</phoneme></line>
+      <line>Being your vassal bound to stay your<phoneme category="b">leisure</phoneme></line>
+      <line>O let me suffer being at your<phoneme category="c">beck</phoneme></line>
+      <line>Th imprisoned absence of your liberty</line>
+      <line>And patience tame to sufferance bide each<phoneme category="c">check</phoneme></line>
+      <line>Without accusing you of injury</line>
+      <line>Be where you list your charter is so<phoneme category="e">strong</phoneme></line>
+      <line>That you your self may privilage your<phoneme category="f">time</phoneme></line>
+      <line>To what you will to you it doth<phoneme category="e">belong</phoneme></line>
+      <line>Your self to pardon of self doing<phoneme category="f">crime</phoneme></line>
+      <line>I am to wait though waiting so be<phoneme category="g">hell</phoneme></line>
+      <line>Not blame your pleasure be it ill or<phoneme category="g">well</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

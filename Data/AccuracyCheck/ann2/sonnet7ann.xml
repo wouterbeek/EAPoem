@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 7</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Lo in the orient when the gracious<phoneme category="a">light</phoneme></line>
+      <line>Lifts up his burning head each under eye</line>
+      <line>Doth homage to his new appearing<phoneme category="a">sight</phoneme></line>
+      <line>Serving with looks his sacred majesty</line>
+      <line>And having climbed the steep up heavenly<phoneme category="c">hill</phoneme></line>
+      <line>Resembling strong youth in his middle age</line>
+      <line>Yet mortal looks adore his beauty<phoneme category="c">still</phoneme></line>
+      <line>Attending on his golden pilgrimage</line>
+      <line>But when from highmost pitch with weary<phoneme category="e">car</phoneme></line>
+      <line>Like feeble age he reeleth from the<phoneme category="f">day</phoneme></line>
+      <line>The eyes fore duteous now converted<phoneme category="e">are</phoneme></line>
+      <line>From his low tract and look another<phoneme category="f">way</phoneme></line>
+      <line>So thou thy self out going in thy noon</line>
+      <line>Unlooked on diest unless thou get a son</line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 82</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>I grant thou wert not married to my muse</line>
+      <line>And therefore mayst without attaint oerlook</line>
+      <line>The dedicated words which writers use</line>
+      <line>Of their fair subject blessing every book</line>
+      <line>Thou art as fair in knowledge as in<phoneme category="c">hue</phoneme></line>
+      <line>Finding thy worth a limit past my<phoneme category="d">praise</phoneme></line>
+      <line>And therefore art enforced to seek<phoneme category="c">anew</phoneme></line>
+      <line>Some fresher stamp of the time bettering<phoneme category="d">days</phoneme></line>
+      <line>And do so love yet when they have devised</line>
+      <line>What strained touches rhetoric can<phoneme category="f">lend</phoneme></line>
+      <line>Thou truly fair wert truly sympathized</line>
+      <line>In true plain words by thy true telling<phoneme category="f">friend</phoneme></line>
+      <line>And their gross painting might be better<phoneme category="g">used</phoneme></line>
+      <line>Where cheeks need blood in thee it is<phoneme category="g">abused</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

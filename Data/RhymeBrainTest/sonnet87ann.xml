@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 87</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Farewell thou art too dear for my possessing</line>
+      <line>And like enough thou know thy estimate</line>
+      <line>The charter of thy worth gives thee releasing</line>
+      <line>My bonds in thee are all determinate</line>
+      <line>For how do I hold thee but by thy granting</line>
+      <line>And for that riches where is my<phoneme category="d">deserving</phoneme></line>
+      <line>The cause of this fair gift in me is wanting</line>
+      <line>And so my patent back again is<phoneme category="d">swerving</phoneme></line>
+      <line>Thy self thou gav thy own worth then not<phoneme category="e">knowing</phoneme></line>
+      <line>Or me to whom thou gav it else<phoneme category="f">mistaking</phoneme></line>
+      <line>So thy great gift upon misprision<phoneme category="e">growing</phoneme></line>
+      <line>Comes home again on better judgement<phoneme category="f">making</phoneme></line>
+      <line>Thus have I had thee as a dream doth<phoneme category="g">flatter</phoneme></line>
+      <line>In sleep a king but waking no such<phoneme category="g">matter</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

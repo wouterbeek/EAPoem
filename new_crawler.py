@@ -21,7 +21,7 @@ from xml.dom import minidom
 """
 Tags to replace in texts
 """
-reps = ["<td>", "\t", "\r", "</td>",',', ':', ';', '.', '?', '!',"'st", "'s" ,"'"]
+reps = ["<td>", "\t", "\r", "</td>",',', ':', ';', '.', '?', "!","'st", "'s" ,"'", "(", ")"]
 
 
 def getPoem(html):
@@ -49,6 +49,7 @@ def strip_tags(text):
 				line = line.replace(tag, "")
 				if "<br />" in line:
 					line = line.replace("<br />", "\n")
+				line = line.replace("-", " ")
 	return line
 
 def createXML(poem, title):
@@ -115,7 +116,7 @@ def main():
 		# 5
 		for i in al:
 			fileName = str(i) + '.xml'
-			f = open(os.path.join("/media/DATA/AI/EAPoem/Data/SonnetsV2/", fileName), 'w')
+			f = open(os.path.join("/media/DATA/AI/EAPoem/Data/Sonnets/", fileName), 'w')
 		f.write(xml)
 		
 	site.close()

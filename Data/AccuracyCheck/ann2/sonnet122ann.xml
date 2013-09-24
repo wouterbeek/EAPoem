@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 122</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Thy gift thy tables are within my<phoneme category="a">brain</phoneme></line>
+      <line>Full charactered with lasting<phoneme category="b">memory</phoneme></line>
+      <line>Which shall above that idle rank<phoneme category="a">remain</phoneme></line>
+      <line>Beyond all date even to<phoneme category="b">eternity</phoneme></line>
+      <line>Or at the least so long as brain and<phoneme category="c">heart</phoneme></line>
+      <line>Have faculty by nature to<phoneme category="d">subsist</phoneme></line>
+      <line>Till each to razed oblivion yield his<phoneme category="c">part</phoneme></line>
+      <line>Of thee thy record never can be<phoneme category="d">missed</phoneme></line>
+      <line>That poor retention could not so much<phoneme category="e">hold</phoneme></line>
+      <line>Nor need I tallies thy dear love to<phoneme category="f">score</phoneme></line>
+      <line>Therefore to give them from me was I<phoneme category="e">bold</phoneme></line>
+      <line>To trust those tables that receive thee<phoneme category="f">more</phoneme></line>
+      <line>To keep an adjunct to remember<phoneme category="g">thee</phoneme></line>
+      <line>Were to import forgetfulness in<phoneme category="g">me</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

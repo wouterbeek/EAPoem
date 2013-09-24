@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 75</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So are you to my thoughts as food to<phoneme category="a">life</phoneme></line>
+      <line>Or as sweet seasoned showers are to the<phoneme category="b">ground</phoneme></line>
+      <line>And for the peace of you I hold such<phoneme category="a">strife</phoneme></line>
+      <line>As twixt a miser and his wealth is<phoneme category="b">found</phoneme></line>
+      <line>Now proud as an enjoyer and anon</line>
+      <line>Doubting the filching age will steal his<phoneme category="d">treasure</phoneme></line>
+      <line>Now counting best to be with you alone</line>
+      <line>Then bettered that the world may see my<phoneme category="d">pleasure</phoneme></line>
+      <line>Sometime all full with feasting on your<phoneme category="e">sight</phoneme></line>
+      <line>And by and by clean starved for a<phoneme category="f">look</phoneme></line>
+      <line>Possessing or pursuing no<phoneme category="e">delight</phoneme></line>
+      <line>Save what is had or must from you be<phoneme category="f">took</phoneme></line>
+      <line>Thus do I pine and surfeit day by day</line>
+      <line>Or gluttoning on all or all away</line>
+    </stanza>
+  </pbody>
+</poem>

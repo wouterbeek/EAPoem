@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 117</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Accuse me thus that I have scanted<phoneme category="a">all</phoneme></line>
+      <line>Wherein I should your great deserts<phoneme category="b">repay</phoneme></line>
+      <line>Forgot upon your dearest love to<phoneme category="a">call</phoneme></line>
+      <line>Whereto all bonds do tie me day by<phoneme category="b">day</phoneme></line>
+      <line>That I have frequent been with unknown minds</line>
+      <line>And given to time your own dear purchased<phoneme category="d">right</phoneme></line>
+      <line>That I have hoisted sail to all the winds</line>
+      <line>Which should transport me farthest from your<phoneme category="d">sight</phoneme></line>
+      <line>Book both my wilfulness and errors<phoneme category="e">down</phoneme></line>
+      <line>And on just proof surmise<phoneme category="f">accumulate</phoneme></line>
+      <line>Bring me within the level of your<phoneme category="e">frown</phoneme></line>
+      <line>But shoot not at me in your wakened<phoneme category="f">hate</phoneme></line>
+      <line>Since my appeal says I did strive to prove</line>
+      <line>The constancy and virtue of your love</line>
+    </stanza>
+  </pbody>
+</poem>

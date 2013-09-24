@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 135</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Whoever hath her wish thou hast thy will</line>
+      <line>And Will to boot and Will in over<phoneme category="b">plus</phoneme></line>
+      <line>More than enough am I that vex thee still</line>
+      <line>To thy sweet will making addition<phoneme category="b">thus</phoneme></line>
+      <line>Wilt thou whose will is large and<phoneme category="c">spacious</phoneme></line>
+      <line>Not once vouchsafe to hide my will in<phoneme category="d">thine</phoneme></line>
+      <line>Shall will in others seem right<phoneme category="c">gracious</phoneme></line>
+      <line>And in my will no fair acceptance<phoneme category="d">shine</phoneme></line>
+      <line>The sea all water yet<phoneme category="e">still</phoneme><phoneme category="e">still</phoneme><phoneme category="e">still</phoneme></line>
+      <line>And in abundance addeth to his<phoneme category="f">store</phoneme></line>
+      <line>So thou being rich in will add to thy will</line>
+      <line>One will of mine to make thy large will<phoneme category="f">more</phoneme></line>
+      <line>Let no unkind no<phoneme category="g">kill</phoneme><phoneme category="g">kill</phoneme><phoneme category="g">kill</phoneme></line>
+      <line>Think all but one and me in that<phoneme category="g">will</phoneme><phoneme category="g">will</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

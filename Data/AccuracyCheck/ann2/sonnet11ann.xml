@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 11</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>As fast as thou shalt wane so fast thou<phoneme category="a">grow</phoneme></line>
+      <line>In one of thine from that which thou departest</line>
+      <line>And that fresh blood which youngly thou<phoneme category="a">bestow</phoneme></line>
+      <line>Thou mayst call thine when thou from youth convertest</line>
+      <line>Herein lives wisdom beauty and<phoneme category="c">increase</phoneme></line>
+      <line>Without this folly age and cold<phoneme category="d">decay</phoneme></line>
+      <line>If all were minded so the times should<phoneme category="c">cease</phoneme></line>
+      <line>And threescore year would make the world<phoneme category="d">away</phoneme></line>
+      <line>Let those whom nature hath not made for<phoneme category="e">store</phoneme></line>
+      <line>Harsh featureless and rude barrenly<phoneme category="f">perish</phoneme></line>
+      <line>Look whom she best endowed she gave thee<phoneme category="e">more</phoneme></line>
+      <line>Which bounteous gift thou shouldst in bounty<phoneme category="f">cherish</phoneme></line>
+      <line>She carved thee for her seal and meant<phoneme category="g">thereby</phoneme></line>
+      <line>Thou shouldst print more not let that copy<phoneme category="g">die</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

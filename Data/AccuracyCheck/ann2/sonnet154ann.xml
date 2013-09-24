@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 154</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>The little Love god lying once<phoneme category="a">asleep</phoneme></line>
+      <line>Laid by his side his heart inflaming<phoneme category="b">brand</phoneme></line>
+      <line>Whilst many nymphs that vowed chaste life to<phoneme category="a">keep</phoneme></line>
+      <line>Came tripping by but in her maiden<phoneme category="b">hand</phoneme></line>
+      <line>The fairest votary took up that<phoneme category="c">fire</phoneme></line>
+      <line>Which many legions of true hearts had warmed</line>
+      <line>And so the general of hot<phoneme category="c">desire</phoneme></line>
+      <line>Was sleeping by a virgin hand disarmed</line>
+      <line>This brand she quenched in a cool well by</line>
+      <line>Which from Love fire took heat perpetual</line>
+      <line>Growing a bath and healthful remedy</line>
+      <line>For men discased but I my mistress thrall</line>
+      <line>Came there for cure and this by that I prove</line>
+      <line>Love fire heats water water cools not love</line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 78</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So oft have I invoked thee for my<phoneme category="a">muse</phoneme></line>
+      <line>And found such fair assistance in my<phoneme category="b">verse</phoneme></line>
+      <line>As every alien pen hath got my<phoneme category="a">use</phoneme></line>
+      <line>And under thee their poesy<phoneme category="b">disperse</phoneme></line>
+      <line>Thine eyes that taught the dumb on high to<phoneme category="c">sing</phoneme></line>
+      <line>And heavy ignorance aloft to fly</line>
+      <line>Have added feathers to the learned<phoneme category="c">wing</phoneme></line>
+      <line>And given grace a double majesty</line>
+      <line>Yet be most proud of that which I<phoneme category="e">compile</phoneme></line>
+      <line>Whose influence is thine and born of<phoneme category="f">thee</phoneme></line>
+      <line>In others works thou dost but mend the<phoneme category="e">style</phoneme></line>
+      <line>And arts with thy sweet graces graced<phoneme category="f">be</phoneme></line>
+      <line>But thou art all my art and dost advance</line>
+      <line>As high as learning my rude ignorance</line>
+    </stanza>
+  </pbody>
+</poem>

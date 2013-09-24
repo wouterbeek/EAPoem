@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 26</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Lord of my love to whom in vassalage<phoneme category="a">vassalage</phoneme></line>
+      <line>Thy merit hath my duty strongly knit<phoneme category="b">knit</phoneme></line>
+      <line>To thee I send this written embassage<phoneme category="a">embassage</phoneme></line>
+      <line>To witness duty not to show my wit<phoneme category="b">wit</phoneme></line>
+      <line>Duty so great which wit so poor as mine<phoneme category="c">mine</phoneme></line>
+      <line>May make seem bare in wanting words to show it<phoneme category="d">it</phoneme></line>
+      <line>But that I hope some good conceit of thine<phoneme category="c">thine</phoneme></line>
+      <line>In thy soul thought (all naked) will bestow it<phoneme category="d">it</phoneme></line>
+      <line>Till whatsoever star that guides my moving<phoneme category="e">moving</phoneme></line>
+      <line>Points on me graciously with fair aspect<phoneme category="f">aspect</phoneme></line>
+      <line>And puts apparel on my tattered loving<phoneme category="e">loving</phoneme></line>
+      <line>To show me worthy of thy sweet respect<phoneme category="f">respect</phoneme></line>
+      <line>Then may I dare to boast how I do love thee<phoneme category="g">thee</phoneme></line>
+      <line>Till then not show my head where thou mayst prove me<phoneme category="g">me</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

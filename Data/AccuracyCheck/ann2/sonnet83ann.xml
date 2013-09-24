@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 83</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>I never saw that you did painting<phoneme category="a">need</phoneme></line>
+      <line>And therefore to your fair no painting<phoneme category="b">set</phoneme></line>
+      <line>I found or thought I found you did<phoneme category="a">exceed</phoneme></line>
+      <line>That barren tender of a poet<phoneme category="b">debt</phoneme></line>
+      <line>And therefore have I slept in your<phoneme category="c">report</phoneme></line>
+      <line>That you your self being extant well might<phoneme category="d">show</phoneme></line>
+      <line>How far a modern quill doth come too<phoneme category="c">short</phoneme></line>
+      <line>Speaking of worth what worth in you doth<phoneme category="d">grow</phoneme></line>
+      <line>This silence for my sin you did<phoneme category="e">impute</phoneme></line>
+      <line>Which shall be most my glory being dumb</line>
+      <line>For I impair not beauty being<phoneme category="e">mute</phoneme></line>
+      <line>When others would give life and bring a tomb</line>
+      <line>There lives more life in one of your fair<phoneme category="g">eyes</phoneme></line>
+      <line>Than both your poets can in praise<phoneme category="g">devise</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

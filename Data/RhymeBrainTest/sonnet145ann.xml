@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 145</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Those lips that Love own hand did<phoneme category="a">make</phoneme></line>
+      <line>Breathed forth the sound that said I<phoneme category="b">hate</phoneme></line>
+      <line>To me that languished for her<phoneme category="a">sake</phoneme></line>
+      <line>But when she saw my woeful<phoneme category="b">state</phoneme></line>
+      <line>Straight in her heart did mercy come</line>
+      <line>Chiding that tongue that ever<phoneme category="d">sweet</phoneme></line>
+      <line>Was used in giving gentle doom</line>
+      <line>And taught it thus anew to<phoneme category="d">greet</phoneme></line>
+      <line>I hate she altered with an end</line>
+      <line>That followed it as gentle<phoneme category="f">day</phoneme></line>
+      <line>Doth follow night who like a fiend</line>
+      <line>From heaven to hell is flown<phoneme category="f">away</phoneme></line>
+      <line>I hate from hate away she<phoneme category="g">threw</phoneme></line>
+      <line>And saved my life saying not<phoneme category="g">you</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 42</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>That thou hast her it is not all my grief<phoneme category="a">grief</phoneme></line>
+      <line>And yet it may be said I loved her dearly<phoneme category="b">dearly</phoneme></line>
+      <line>That she hath thee is of my wailing chief<phoneme category="a">chief</phoneme></line>
+      <line>A loss in love that touches me more nearly<phoneme category="b">nearly</phoneme></line>
+      <line>Loving offenders thus I will excuse ye<phoneme category="c">ye</phoneme></line>
+      <line>Thou dost love her because thou know I love her<phoneme category="d">her</phoneme></line>
+      <line>And for my sake even so doth she abuse me<phoneme category="c">me</phoneme></line>
+      <line>Suffring my friend for my sake to approve her<phoneme category="d">her</phoneme></line>
+      <line>If I lose thee my loss is my love gain<phoneme category="e">gain</phoneme></line>
+      <line>And losing her my friend hath found that loss<phoneme category="f">loss</phoneme></line>
+      <line>Both find each other and I lose both twain<phoneme category="e">twain</phoneme></line>
+      <line>And both for my sake lay on me this cross<phoneme category="f">cross</phoneme></line>
+      <line>But here the joy my friend and I are one<phoneme category="g">one</phoneme></line>
+      <line>Sweet flattery then she loves but me alone<phoneme category="g">alone</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

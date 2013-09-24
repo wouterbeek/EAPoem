@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 23</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>As an unperfect actor on the<phoneme category="a">stage</phoneme></line>
+      <line>Who with his fear is put beside his<phoneme category="b">part</phoneme></line>
+      <line>Or some fierce thing replete with too much<phoneme category="a">rage</phoneme></line>
+      <line>Whose strength abundance weakens his own<phoneme category="b">heart</phoneme></line>
+      <line>So I for fear of trust forget to say</line>
+      <line>The perfect ceremony of love<phoneme category="d">rite</phoneme></line>
+      <line>And in mine own love strength seem to decay</line>
+      <line>Oercharged with burthen of mine own love<phoneme category="d">might</phoneme></line>
+      <line>O let my looks be then the eloquence</line>
+      <line>And dumb presagers of my speaking<phoneme category="f">breast</phoneme></line>
+      <line>Who plead for love and look for recompense</line>
+      <line>More than that tongue that more hath more<phoneme category="f">expressed</phoneme></line>
+      <line>O learn to read what silent love hath<phoneme category="g">writ</phoneme></line>
+      <line>To hear with eyes belongs to love fine<phoneme category="g">wit</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

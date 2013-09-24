@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 21</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>So is it not with me as with that<phoneme category="a">muse</phoneme></line>
+      <line>Stirred by a painted beauty to his<phoneme category="b">verse</phoneme></line>
+      <line>Who heaven it self for ornament doth<phoneme category="a">use</phoneme></line>
+      <line>And every fair with his fair doth<phoneme category="b">rehearse</phoneme></line>
+      <line>Making a couplement of proud<phoneme category="c">compare</phoneme></line>
+      <line>With sun and moon with earth and sea rich gems</line>
+      <line>With April first born flowers and all things<phoneme category="c">rare</phoneme></line>
+      <line>That heaven air in this huge rondure hems</line>
+      <line>O let me true in love but truly<phoneme category="e">write</phoneme></line>
+      <line>And then believe me my love is as<phoneme category="f">fair</phoneme></line>
+      <line>As any mother child though not so<phoneme category="e">bright</phoneme></line>
+      <line>As those gold candles fixed in heaven air</line>
+      <line>Let them say more that like of hearsay<phoneme category="g">well</phoneme></line>
+      <line>I will not praise that purpose not to<phoneme category="g">sell</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

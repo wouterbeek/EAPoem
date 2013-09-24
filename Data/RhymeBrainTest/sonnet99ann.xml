@@ -1,0 +1,28 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 99</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>The forward violet thus did I<phoneme category="a">chide</phoneme></line>
+      <line>Sweet thief whence didst thou steal thy sweet that<phoneme category="b">smells</phoneme></line>
+      <line>If not from my love breath The purple<phoneme category="a">pride</phoneme></line>
+      <line>Which on thy soft check for complexion<phoneme category="b">dwells</phoneme></line>
+      <line>In my love veins thou hast too grossly<phoneme category="c">dyed</phoneme></line>
+      <line>The lily I condemned for thy<phoneme category="d">hand</phoneme></line>
+      <line>And buds of marjoram had stoln thy<phoneme category="c">hair</phoneme></line>
+      <line>The roses fearfully on thorns did<phoneme category="d">stand</phoneme></line>
+      <line>One blushing shame another white<phoneme category="e">despair</phoneme></line>
+      <line>A third nor red nor white had stoln of<phoneme category="f">both</phoneme></line>
+      <line>And to his robbery had annexed thy<phoneme category="e">breath</phoneme></line>
+      <line>But for his theft in pride of all his<phoneme category="f">growth</phoneme></line>
+      <line>A vengeful canker eat him up to<phoneme category="g">death</phoneme></line>
+      <line>More flowers I noted yet I none could see</line>
+      <line>But sweet or colour it had stoln from thee</line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 148</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O me what eyes hath love put in my head<phoneme category="a">head</phoneme></line>
+      <line>Which have no correspondence with true sight<phoneme category="b">sight</phoneme></line>
+      <line>Or if they have where is my judgment fled<phoneme category="a">fled</phoneme></line>
+      <line>That censures falsely what they see aright<phoneme category="b">aright</phoneme></line>
+      <line>If that be fair whereon my false eyes dote<phoneme category="c">dote</phoneme></line>
+      <line>What means the world to say it is not so<phoneme category="d">so</phoneme></line>
+      <line>If it be not then love doth well denote<phoneme category="c">denote</phoneme></line>
+      <line>Love eye is not so true as all men no<phoneme category="d">no</phoneme></line>
+      <line>How can it O how can love eye be true<phoneme category="e">true</phoneme></line>
+      <line>That is so vexed with watching and with tears<phoneme category="f">tears</phoneme></line>
+      <line>No marvel then though I mistake my view<phoneme category="e">view</phoneme></line>
+      <line>The sun it self sees not till heaven clears<phoneme category="f">clears</phoneme></line>
+      <line>O cunning love with tears thou keep me blind<phoneme category="g">blind</phoneme></line>
+      <line>Lest eyes well-seeing thy foul faults should find<phoneme category="g">find</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

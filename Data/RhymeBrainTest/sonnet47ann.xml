@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 47</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Betwixt mine eye and heart a league is<phoneme category="a">took</phoneme></line>
+      <line>And each doth good turns now unto the<phoneme category="b">other</phoneme></line>
+      <line>When that mine eye is famished for a<phoneme category="a">look</phoneme></line>
+      <line>Or heart in love with sighs himself doth<phoneme category="b">smother</phoneme></line>
+      <line>With my love picture then my eye doth feast</line>
+      <line>And to the painted banquet bids my<phoneme category="d">heart</phoneme></line>
+      <line>Another time mine eye is my heart guest</line>
+      <line>And in his thoughts of love doth share a<phoneme category="d">part</phoneme></line>
+      <line>So either by thy picture or my love</line>
+      <line>Thy self away art present still with<phoneme category="f">me</phoneme></line>
+      <line>For thou not farther than my thoughts canst move</line>
+      <line>And I am still with them and they with<phoneme category="f">thee</phoneme></line>
+      <line>Or if they sleep thy picture in my<phoneme category="g">sight</phoneme></line>
+      <line>Awakes my heart to heart and eye<phoneme category="g">delight</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 41</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Those pretty wrongs that liberty<phoneme category="a">commits</phoneme></line>
+      <line>When I am sometime absent from thy<phoneme category="b">heart</phoneme></line>
+      <line>Thy beauty and thy years full well<phoneme category="a">befits</phoneme></line>
+      <line>For still temptation follows where thou<phoneme category="b">art</phoneme></line>
+      <line>Gentle thou art and therefore to be<phoneme category="c">won</phoneme></line>
+      <line>Beauteous thou art therefore to be<phoneme category="d">assailed</phoneme></line>
+      <line>And when a woman woos what woman<phoneme category="c">son</phoneme></line>
+      <line>Will sourly leave her till he have<phoneme category="d">prevailed</phoneme></line>
+      <line>Ay me but yet thou mightst my seat forbear</line>
+      <line>And chide thy beauty and thy straying<phoneme category="f">youth</phoneme></line>
+      <line>Who lead thee in their riot even there</line>
+      <line>Where thou art forced to break a twofold<phoneme category="f">truth</phoneme></line>
+      <line>Hers by thy beauty tempting her to<phoneme category="g">thee</phoneme></line>
+      <line>Thine by thy beauty being false to<phoneme category="g">me</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

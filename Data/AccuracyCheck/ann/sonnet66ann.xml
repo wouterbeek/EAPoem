@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 66</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Tired with all these for restful death I cry</line>
+      <line>As to behold desert a beggar<phoneme category="b">born</phoneme></line>
+      <line>And needy nothing trimmed in jollity</line>
+      <line>And purest faith unhappily<phoneme category="b">forsworn</phoneme></line>
+      <line>And gilded honour shamefully<phoneme category="c">misplaced</phoneme></line>
+      <line>And maiden virtue rudely strumpeted</line>
+      <line>And right perfection wrongfully<phoneme category="c">disgraced</phoneme></line>
+      <line>And strength by limping sway disabled</line>
+      <line>And art made tongue tied by<phoneme category="e">authority</phoneme></line>
+      <line>And folly doctor like controlling<phoneme category="f">skill</phoneme></line>
+      <line>And simple truth miscalled<phoneme category="e">simplicity</phoneme></line>
+      <line>And captive good attending captain<phoneme category="f">ill</phoneme></line>
+      <line>Tired with all these from these would I be gone</line>
+      <line>Save that to die I leave my love alone</line>
+    </stanza>
+  </pbody>
+</poem>

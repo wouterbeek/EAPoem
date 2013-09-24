@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 13</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O that you were your self but love you are</line>
+      <line>No longer yours than you your self here<phoneme category="b">live</phoneme></line>
+      <line>Against this coming end you should<phoneme category="a">prepare</phoneme></line>
+      <line>And your sweet semblance to some other<phoneme category="b">give</phoneme></line>
+      <line>So should that beauty which you hold in<phoneme category="c">lease</phoneme></line>
+      <line>Find no determination then you were</line>
+      <line>Your self again after your self<phoneme category="c">decease</phoneme></line>
+      <line>When your sweet issue your sweet form should<phoneme category="d">bear</phoneme></line>
+      <line>Who lets so fair a house fall to<phoneme category="e">decay</phoneme></line>
+      <line>Which husbandry in honour might<phoneme category="f">uphold</phoneme></line>
+      <line>Against the stormy gusts of winter<phoneme category="e">day</phoneme></line>
+      <line>And barren rage of death eternal<phoneme category="f">cold</phoneme></line>
+      <line>O none but unthrifts dear my love you<phoneme category="g">know</phoneme></line>
+      <line>You had a father let your son say<phoneme category="g">so</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

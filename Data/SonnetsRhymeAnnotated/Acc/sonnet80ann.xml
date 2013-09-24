@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 80</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O how I faint when I of you do write<phoneme category="a">write</phoneme></line>
+      <line>Knowing a better spirit doth use your name<phoneme category="b">name</phoneme></line>
+      <line>And in the praise thereof spends all his might<phoneme category="a">might</phoneme></line>
+      <line>To make me tongue-tied speaking of your fame<phoneme category="b">fame</phoneme></line>
+      <line>But since your worth (wide as the ocean is)<phoneme category="c">is)</phoneme></line>
+      <line>The humble as the proudest sail doth bear<phoneme category="d">bear</phoneme></line>
+      <line>My saucy bark (inferior far to his)<phoneme category="c">his)</phoneme></line>
+      <line>On your broad main doth wilfully appear<phoneme category="d">appear</phoneme></line>
+      <line>Your shallowest help will hold me up afloat<phoneme category="e">afloat</phoneme></line>
+      <line>Whilst he upon your soundless deep doth ride<phoneme category="f">ride</phoneme></line>
+      <line>Or (being wrecked) I am a worthless boat<phoneme category="e">boat</phoneme></line>
+      <line>He of tall building and of goodly pride<phoneme category="f">pride</phoneme></line>
+      <line>Then if he thrive and I be cast away<phoneme category="g">away</phoneme></line>
+      <line>The worst was this my love was my decay<phoneme category="g">decay</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

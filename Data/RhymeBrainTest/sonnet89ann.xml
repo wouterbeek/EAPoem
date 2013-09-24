@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 89</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Say that thou didst forsake me for some<phoneme category="a">fault</phoneme></line>
+      <line>And I will comment upon that<phoneme category="b">offence</phoneme></line>
+      <line>Speak of my lameness and I straight will<phoneme category="a">halt</phoneme></line>
+      <line>Against thy reasons making no<phoneme category="b">defence</phoneme></line>
+      <line>Thou canst not love disgrace me half so<phoneme category="c">ill</phoneme></line>
+      <line>To set a form upon desired<phoneme category="d">change</phoneme></line>
+      <line>As Ill my self disgrace knowing thy<phoneme category="c">will</phoneme></line>
+      <line>I will acquaintance strangle and look<phoneme category="d">strange</phoneme></line>
+      <line>Be absent from thy walks and in my tongue</line>
+      <line>Thy sweet beloved name no more shall<phoneme category="f">dwell</phoneme></line>
+      <line>Lest I too much profane should do it wronk</line>
+      <line>And haply of our old acquaintance<phoneme category="f">tell</phoneme></line>
+      <line>For thee against my self Ill vow<phoneme category="g">debate</phoneme></line>
+      <line>For I must neer love him whom thou dost<phoneme category="g">hate</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

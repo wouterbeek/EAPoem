@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 81</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Or I shall live your epitaph to<phoneme category="a">make</phoneme></line>
+      <line>Or you survive when I in earth am<phoneme category="b">rotten</phoneme></line>
+      <line>From hence your memory death cannot<phoneme category="a">take</phoneme></line>
+      <line>Although in me each part will be<phoneme category="b">forgotten</phoneme></line>
+      <line>Your name from hence immortal life shall have</line>
+      <line>Though I once gone to all the world must<phoneme category="d">die</phoneme></line>
+      <line>The earth can yield me but a common grave</line>
+      <line>When you entombed in men eyes shall<phoneme category="d">lie</phoneme></line>
+      <line>Your monument shall be my gentle<phoneme category="e">verse</phoneme></line>
+      <line>Which eyes not yet created shall oer<phoneme category="f">read</phoneme></line>
+      <line>And tongues to be your being shall<phoneme category="e">rehearse</phoneme></line>
+      <line>When all the breathers of this world are<phoneme category="f">dead</phoneme></line>
+      <line>You still shall live such virtue hath my<phoneme category="g">pen</phoneme></line>
+      <line>Where breath most breathes even in the mouths of<phoneme category="g">men</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 118</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Like as to make our appetite more<phoneme category="a">keen</phoneme></line>
+      <line>With eager compounds we our palate<phoneme category="b">urge</phoneme></line>
+      <line>As to prevent our maladies<phoneme category="a">unseen</phoneme></line>
+      <line>We sicken to shun sickness when we<phoneme category="b">purge</phoneme></line>
+      <line>Even so being full of your neer cloying<phoneme category="c">sweetness</phoneme></line>
+      <line>To bitter sauces did I frame my<phoneme category="d">feeding</phoneme></line>
+      <line>And sick of welfare found a kind of<phoneme category="c">meetness</phoneme></line>
+      <line>To be diseased ere that there was true<phoneme category="d">needing</phoneme></line>
+      <line>Thus policy in love t<phoneme category="e">anticipate</phoneme></line>
+      <line>The ills that were not grew to faults<phoneme category="f">assured</phoneme></line>
+      <line>And brought to medicine a healthful<phoneme category="e">state</phoneme></line>
+      <line>Which rank of goodness would by ill be<phoneme category="f">cured</phoneme></line>
+      <line>But thence I learn and find the lesson<phoneme category="g">true</phoneme></line>
+      <line>Drugs poison him that so feil sick of<phoneme category="g">you</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

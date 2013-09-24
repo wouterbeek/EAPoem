@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 144</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Two loves I have of comfort and<phoneme category="a">despair</phoneme></line>
+      <line>Which like two spirits do suggest me<phoneme category="b">still</phoneme></line>
+      <line>The better angel is a man right<phoneme category="a">fair</phoneme></line>
+      <line>The worser spirit a woman coloured<phoneme category="b">ill</phoneme></line>
+      <line>To win me soon to hell my female evil</line>
+      <line>Tempteth my better angel from my<phoneme category="d">side</phoneme></line>
+      <line>And would corrupt my saint to be a devil</line>
+      <line>Wooing his purity with her foul<phoneme category="d">pride</phoneme></line>
+      <line>And whether that my angel be turned fiend</line>
+      <line>Suspect I may yet not directly<phoneme category="f">tell</phoneme></line>
+      <line>But being both from me both to each friend</line>
+      <line>I guess one angel in another<phoneme category="f">hell</phoneme></line>
+      <line>Yet this shall I neer know but live in<phoneme category="g">doubt</phoneme></line>
+      <line>Till my bad angel fire my good one<phoneme category="g">out</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

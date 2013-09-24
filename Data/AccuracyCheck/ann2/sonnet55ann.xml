@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 55</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Not marble nor the gilded monuments</line>
+      <line>Of princes shall outlive this powerful<phoneme category="b">rhyme</phoneme></line>
+      <line>But you shall shine more bright in these contents</line>
+      <line>Than unswept stone besmeared with sluttish<phoneme category="b">time</phoneme></line>
+      <line>When wasteful war shall statues overturn</line>
+      <line>And broils<phoneme category="d">masonry</phoneme><phoneme category="d">masonry</phoneme><phoneme category="d">masonry</phoneme><phoneme category="d">masonry</phoneme><phoneme category="d">masonry</phoneme><phoneme category="d">masonry</phoneme></line>
+      <line>Nor Mars his sword nor war quick fire shall burn</line>
+      <line>The<phoneme category="d">memory</phoneme><phoneme category="d">memory</phoneme><phoneme category="d">memory</phoneme><phoneme category="d">memory</phoneme><phoneme category="d">memory</phoneme></line>
+      <line>Gainst death and<phoneme category="e">enmity</phoneme><phoneme category="e">enmity</phoneme><phoneme category="e">enmity</phoneme></line>
+      <line>Shall you pace forth your praise shall still find<phoneme category="f">room</phoneme></line>
+      <line>Even<phoneme category="e">posterity</phoneme><phoneme category="e">posterity</phoneme><phoneme category="e">posterity</phoneme><phoneme category="e">posterity</phoneme><phoneme category="e">posterity</phoneme><phoneme category="e">posterity</phoneme></line>
+      <line>That wear this world out to the ending<phoneme category="f">doom</phoneme></line>
+      <line>So till the judgment that your self<phoneme category="g">arise</phoneme></line>
+      <line>You live in this and dwell in lovers<phoneme category="g">eyes</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

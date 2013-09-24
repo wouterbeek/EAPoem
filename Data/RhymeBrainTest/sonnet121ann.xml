@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 121</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Tis better to be vile than vile<phoneme category="a">esteemed</phoneme></line>
+      <line>When not to be receives reproach of<phoneme category="b">being</phoneme></line>
+      <line>And the just pleasure lost which is so<phoneme category="a">deemed</phoneme></line>
+      <line>Not by our feeling but by others<phoneme category="b">seeing</phoneme></line>
+      <line>For why should others false adulterate<phoneme category="c">eyes</phoneme></line>
+      <line>Give salutation to my sportive blood</line>
+      <line>Or on my frailties why are frailer<phoneme category="c">spies</phoneme></line>
+      <line>Which in their wills count bad what I think good</line>
+      <line>No I am that I am and they that<phoneme category="e">level</phoneme></line>
+      <line>At my abuses reckon up their<phoneme category="f">own</phoneme></line>
+      <line>I may be straight though they themselves be<phoneme category="e">bevel</phoneme></line>
+      <line>By their rank thoughts my deeds must not be<phoneme category="f">shown</phoneme></line>
+      <line>Unless this general evil they<phoneme category="g">maintain</phoneme></line>
+      <line>All men are bad and in their badness<phoneme category="g">reign</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

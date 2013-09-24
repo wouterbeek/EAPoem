@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 92</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>But do thy worst to steal thy self<phoneme category="a">away</phoneme></line>
+      <line>For term of life thou art assured<phoneme category="b">mine</phoneme></line>
+      <line>And life no longer than thy love will<phoneme category="a">stay</phoneme></line>
+      <line>For it depends upon that love of<phoneme category="b">thine</phoneme></line>
+      <line>Then need I not to fear the worst of<phoneme category="c">wrongs</phoneme></line>
+      <line>When in the least of them my life hath<phoneme category="d">end</phoneme></line>
+      <line>I see a better state to me<phoneme category="c">belongs</phoneme></line>
+      <line>Than that which on thy humour doth<phoneme category="d">depend</phoneme></line>
+      <line>Thou canst not vex me with inconstant<phoneme category="e">mind</phoneme></line>
+      <line>Since that my life on thy revolt doth<phoneme category="f">lie</phoneme></line>
+      <line>O what a happy title do I<phoneme category="e">find</phoneme></line>
+      <line>Happy to have thy love happy to<phoneme category="f">die</phoneme></line>
+      <line>But what so blessed fair that fears no<phoneme category="g">blot</phoneme></line>
+      <line>Thou mayst be false and yet I know it<phoneme category="g">not</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 102</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>My love is strengthened though more weak in seeming</line>
+      <line>I love not less though less the show appear</line>
+      <line>That love is merchandized whose rich esteeming</line>
+      <line>The owner tongue doth publish every where</line>
+      <line>Our love was new and then but in the<phoneme category="c">spring</phoneme></line>
+      <line>When I was wont to greet it with my<phoneme category="d">lays</phoneme></line>
+      <line>As Philomel in summer front doth<phoneme category="c">sing</phoneme></line>
+      <line>And stops her pipe in growth of riper<phoneme category="d">days</phoneme></line>
+      <line>Not that the summer is less pleasant<phoneme category="e">now</phoneme></line>
+      <line>Than when her mournful hymns did hush the<phoneme category="f">night</phoneme></line>
+      <line>But that wild music burthens every<phoneme category="e">bough</phoneme></line>
+      <line>And sweets grown common lose their dear<phoneme category="f">delight</phoneme></line>
+      <line>Therefore like her I sometime hold my tongue</line>
+      <line>Because I would not dull you with my song</line>
+    </stanza>
+  </pbody>
+</poem>

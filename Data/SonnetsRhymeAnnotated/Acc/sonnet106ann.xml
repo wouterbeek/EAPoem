@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 106</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When in the chronicle of wasted time<phoneme category="a">time</phoneme></line>
+      <line>I see descriptions of the fairest wights<phoneme category="b">wights</phoneme></line>
+      <line>And beauty making beautiful old rhyme<phoneme category="a">rhyme</phoneme></line>
+      <line>In praise of ladies dead and lovely knights<phoneme category="b">knights</phoneme></line>
+      <line>Then in the blazon of sweet beauty best<phoneme category="c">best</phoneme></line>
+      <line>Of hand of foot of lip of eye of brow<phoneme category="d">brow</phoneme></line>
+      <line>I see their antique pen would have expressed<phoneme category="c">expressed</phoneme></line>
+      <line>Even such a beauty as you master now<phoneme category="d">now</phoneme></line>
+      <line>So all their praises are but prophecies<phoneme category="e">prophecies</phoneme></line>
+      <line>Of this our time all you prefiguring<phoneme category="f">prefiguring</phoneme></line>
+      <line>And for they looked but with divining eyes<phoneme category="e">eyes</phoneme></line>
+      <line>They had not skill enough your worth to sing<phoneme category="f">sing</phoneme></line>
+      <line>For we which now behold these present days<phoneme category="g">days</phoneme></line>
+      <line>Have eyes to wonder but lack tongues to praise<phoneme category="g">praise</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

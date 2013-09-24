@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 63</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Against my love shall be as I am<phoneme category="a">now</phoneme></line>
+      <line>With Time injurious hand crushed and oerworn</line>
+      <line>When hours have drained his blood and filled his<phoneme category="a">brow</phoneme></line>
+      <line>With lines and wrinkles when his youthful morn</line>
+      <line>Hath travelled on to age steepy<phoneme category="c">night</phoneme></line>
+      <line>And all those beauties whereof now he<phoneme category="d">king</phoneme></line>
+      <line>Are vanishing or vanished out of<phoneme category="c">sight</phoneme></line>
+      <line>Stealing away the treasure of his<phoneme category="d">spring</phoneme></line>
+      <line>For such a time do I now fortify</line>
+      <line>Against confounding age cruel<phoneme category="f">knife</phoneme></line>
+      <line>That he shall never cut from memory</line>
+      <line>My sweet love beauty though my lover<phoneme category="f">life</phoneme></line>
+      <line>His beauty shall in these black lines be<phoneme category="g">seen</phoneme></line>
+      <line>And they shall live and he in them still<phoneme category="g">green</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

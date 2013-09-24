@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 20</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>A woman face with nature<phoneme category="a">painted</phoneme><phoneme category="a">painted</phoneme><phoneme category="a">painted</phoneme></line>
+      <line>Hast thou the master mistress of my<phoneme category="b">passion</phoneme></line>
+      <line>A woman gentle heart but not acquainted</line>
+      <line>With shifting change as is false women<phoneme category="b">fashion</phoneme></line>
+      <line>An eye more bright than<phoneme category="c">rolling</phoneme><phoneme category="c">rolling</phoneme><phoneme category="c">rolling</phoneme><phoneme category="c">rolling</phoneme><phoneme category="c">rolling</phoneme></line>
+      <line>Gilding the object whereupon it gazeth</line>
+      <line>A man in<phoneme category="c">controlling</phoneme><phoneme category="c">controlling</phoneme><phoneme category="c">controlling</phoneme><phoneme category="c">controlling</phoneme><phoneme category="c">controlling</phoneme><phoneme category="c">controlling</phoneme></line>
+      <line>Which steals men eyes and women souls amazeth</line>
+      <line>And for a woman wert thou<phoneme category="e">created</phoneme><phoneme category="e">created</phoneme></line>
+      <line>Till nature as<phoneme category="f">doting</phoneme><phoneme category="f">doting</phoneme><phoneme category="f">doting</phoneme><phoneme category="f">doting</phoneme><phoneme category="f">doting</phoneme><phoneme category="f">doting</phoneme></line>
+      <line>And by addition me<phoneme category="e">defeated</phoneme><phoneme category="e">defeated</phoneme><phoneme category="e">defeated</phoneme></line>
+      <line>By adding one thing to<phoneme category="f">nothing</phoneme><phoneme category="f">nothing</phoneme><phoneme category="f">nothing</phoneme></line>
+      <line>But since she pricked thee out for women<phoneme category="g">pleasure</phoneme></line>
+      <line>Mine be thy love and thy love use their<phoneme category="g">treasure</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

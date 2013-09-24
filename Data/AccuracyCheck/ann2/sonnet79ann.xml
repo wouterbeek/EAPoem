@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 79</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Whilst I alone did call upon thy<phoneme category="a">aid</phoneme></line>
+      <line>My verse alone had all thy gentle<phoneme category="b">grace</phoneme></line>
+      <line>But now my gracious numbers are<phoneme category="a">decayed</phoneme></line>
+      <line>And my sick muse doth give an other<phoneme category="b">place</phoneme></line>
+      <line>I grant sweet love thy lovely argument</line>
+      <line>Deserves the travail of a worthier<phoneme category="d">pen</phoneme></line>
+      <line>Yet what of thee thy poet doth invent</line>
+      <line>He robs thee of and pays it thee<phoneme category="d">again</phoneme></line>
+      <line>He lends thee virtue and he stole that word</line>
+      <line>From thy behaviour beauty doth he give</line>
+      <line>And found it in thy cheek he can afford</line>
+      <line>No praise to thee but what in thee doth live</line>
+      <line>Then thank him not for that which he doth<phoneme category="g">say</phoneme></line>
+      <line>Since what he owes thee thou thy self dost<phoneme category="g">pay</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

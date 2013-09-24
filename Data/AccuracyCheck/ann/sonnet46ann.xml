@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 46</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Mine eye and heart are at a mortal war</line>
+      <line>How to divide the conquest of thy<phoneme category="b">sight</phoneme></line>
+      <line>Mine eye my heart thy picture sight would bar</line>
+      <line>My heart mine eye the freedom of that<phoneme category="b">right</phoneme></line>
+      <line>My heart doth plead that thou in him dost lie</line>
+      <line>A closet never pierced with crystal<phoneme category="d">eyes</phoneme></line>
+      <line>But the defendant doth that plea deny</line>
+      <line>And says in him thy fair appearance<phoneme category="d">lies</phoneme></line>
+      <line>To side this title is impanelled</line>
+      <line>A quest of thoughts all tenants to the heart</line>
+      <line>And by their verdict is determined</line>
+      <line>The clear eye moiety and the dear heart part</line>
+      <line>As thus mine eye due is thy outward<phoneme category="g">part</phoneme></line>
+      <line>And my heart right thy inward love of<phoneme category="g">heart</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

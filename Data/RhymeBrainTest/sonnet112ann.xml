@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 112</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Your love and pity doth th impression<phoneme category="a">fill</phoneme></line>
+      <line>Which vulgar scandal stamped upon my<phoneme category="b">brow</phoneme></line>
+      <line>For what care I who calls me well or<phoneme category="a">ill</phoneme></line>
+      <line>So you oer green my bad my good<phoneme category="b">allow</phoneme></line>
+      <line>You are my all the world and I must<phoneme category="c">strive</phoneme></line>
+      <line>To know my shames and praises from your tongue</line>
+      <line>None else to me nor I to none<phoneme category="c">alive</phoneme></line>
+      <line>That my steeled sense or changes right or wrong</line>
+      <line>In so profound abysm I throw all care</line>
+      <line>Of others voices that my adder<phoneme category="f">sense</phoneme></line>
+      <line>To critic and to flatterer stopped are</line>
+      <line>Mark how with my neglect I do<phoneme category="f">dispense</phoneme></line>
+      <line>You are so strongly in my purpose<phoneme category="g">bred</phoneme></line>
+      <line>That all the world besides methinks are<phoneme category="g">dead</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

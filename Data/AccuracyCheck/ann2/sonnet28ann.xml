@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 28</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>How can I then return<phoneme category="a">plight</phoneme><phoneme category="a">plight</phoneme><phoneme category="a">plight</phoneme></line>
+      <line>That am debarred the benefit of<phoneme category="b">rest</phoneme></line>
+      <line>When day oppression is not eased by night</line>
+      <line>But day by night and night by day<phoneme category="b">oppressed</phoneme></line>
+      <line>And each though enemies to either<phoneme category="c">reign</phoneme></line>
+      <line>Do in consent shake hands to torture<phoneme category="d">me</phoneme></line>
+      <line>The one by toil the other to<phoneme category="c">complain</phoneme></line>
+      <line>How far I toil still farther off from<phoneme category="d">thee</phoneme></line>
+      <line>I tell the day to please him thou<phoneme category="e">bright</phoneme><phoneme category="e">bright</phoneme></line>
+      <line>And dost him grace when clouds do blot the heaven</line>
+      <line>So flatter I the<phoneme category="e">night</phoneme><phoneme category="e">night</phoneme><phoneme category="e">night</phoneme></line>
+      <line>When sparkling stars twire not thou gild the even</line>
+      <line>But day doth daily draw my sorrows<phoneme category="g">longer</phoneme></line>
+      <line>And night doth nightly make grief length seem<phoneme category="g">stronger</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

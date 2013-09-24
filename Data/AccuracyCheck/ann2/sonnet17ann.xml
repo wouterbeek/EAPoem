@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 17</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Who will believe my verse in time to come</line>
+      <line>If it were filled with your most high deserts</line>
+      <line>Though yet heaven knows it is but as a tomb</line>
+      <line>Which hides your life and shows not half your parts</line>
+      <line>If I could write the beauty of your<phoneme category="c">eyes</phoneme></line>
+      <line>And in fresh numbers number all your<phoneme category="d">graces</phoneme></line>
+      <line>The age to come would say this poet<phoneme category="c">lies</phoneme></line>
+      <line>Such heavenly touches neer touched earthly<phoneme category="d">faces</phoneme></line>
+      <line>So should my papers yellowed with their<phoneme category="e">age</phoneme></line>
+      <line>Be scorned like old men of less truth than tongue</line>
+      <line>And your true rights be termed a poet<phoneme category="e">rage</phoneme></line>
+      <line>And stretched metre of an antique song</line>
+      <line>But were some child of yours alive that<phoneme category="g">time</phoneme></line>
+      <line>You should live twice in it and in my<phoneme category="g">rhyme</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 88</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When thou shalt be disposed to set me<phoneme category="a">light</phoneme></line>
+      <line>And place my merit in the eye of<phoneme category="b">scorn</phoneme></line>
+      <line>Upon thy side against my self Ill<phoneme category="a">fight</phoneme></line>
+      <line>And prove thee virtuous though thou art<phoneme category="b">forsworn</phoneme></line>
+      <line>With mine own weakness being best acquainted</line>
+      <line>Upon thy part I can set down a<phoneme category="d">story</phoneme></line>
+      <line>Of faults concealed wherein I am attainted</line>
+      <line>That thou in losing me shalt win much<phoneme category="d">glory</phoneme></line>
+      <line>And I by this will be a gainer<phoneme category="e">too</phoneme></line>
+      <line>For bending all my loving thoughts on<phoneme category="f">thee</phoneme></line>
+      <line>The injuries that to my self I<phoneme category="e">do</phoneme></line>
+      <line>Doing thee vantage double vantage<phoneme category="f">me</phoneme></line>
+      <line>Such is my love to thee I so<phoneme category="g">belong</phoneme></line>
+      <line>That for thy right my self will bear all<phoneme category="g">wrong</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

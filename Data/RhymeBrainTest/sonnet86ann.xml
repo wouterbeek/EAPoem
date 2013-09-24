@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 86</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Was it the proud full sail of his great<phoneme category="a">verse</phoneme></line>
+      <line>Bound for the prize of all too precious<phoneme category="b">you</phoneme></line>
+      <line>That did my ripe thoughts in my brain<phoneme category="a">inhearse</phoneme></line>
+      <line>Making their tomb the womb wherein they<phoneme category="b">grew</phoneme></line>
+      <line>Was it his spirit by spirits taught to<phoneme category="c">write</phoneme></line>
+      <line>Above a mortal pitch that struck me dead</line>
+      <line>No neither he nor his compeers by<phoneme category="c">night</phoneme></line>
+      <line>Giving him aid my verse astonished</line>
+      <line>He nor that affable familiar<phoneme category="e">ghost</phoneme></line>
+      <line>Which nightly gulls him with intelligence</line>
+      <line>As victors of my silence cannot<phoneme category="e">boast</phoneme></line>
+      <line>I was not sick of any fear from thence</line>
+      <line>But when your countenance filled up his<phoneme category="g">line</phoneme></line>
+      <line>Then lacked I matter that enfeebled<phoneme category="g">mine</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

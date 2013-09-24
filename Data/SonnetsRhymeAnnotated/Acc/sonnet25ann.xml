@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 25</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Let those who are in favour with their stars<phoneme category="a">stars</phoneme></line>
+      <line>Of public honour and proud titles boast<phoneme category="b">boast</phoneme></line>
+      <line>Whilst I whom fortune of such triumph bars<phoneme category="a">bars</phoneme></line>
+      <line>Unlooked for joy in that I honour most<phoneme category="b">most</phoneme></line>
+      <line>Great princes favourites their fair leaves spread<phoneme category="c">spread</phoneme></line>
+      <line>But as the marigold at the sun eye<phoneme category="d">eye</phoneme></line>
+      <line>And in themselves their pride lies buried<phoneme category="c">buried</phoneme></line>
+      <line>For at a frown they in their glory die<phoneme category="d">die</phoneme></line>
+      <line>The painful warrior famoused for fight<phoneme category="e">fight</phoneme></line>
+      <line>After a thousand victories once foiled<phoneme category="f">foiled</phoneme></line>
+      <line>Is from the book of honour razed quite<phoneme category="e">quite</phoneme></line>
+      <line>And all the rest forgot for which he toiled<phoneme category="f">toiled</phoneme></line>
+      <line>Then happy I that love and am beloved<phoneme category="g">beloved</phoneme></line>
+      <line>Where I may not remove nor be removed<phoneme category="g">removed</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 65</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Since brass nor stone nor earth nor boundless<phoneme category="a">sea</phoneme></line>
+      <line>But sad mortality oersways their<phoneme category="b">power</phoneme></line>
+      <line>How with this rage shall beauty hold a<phoneme category="a">plea</phoneme></line>
+      <line>Whose action is no stronger than a<phoneme category="b">flower</phoneme></line>
+      <line>O how shall summer honey breath hold<phoneme category="c">out</phoneme></line>
+      <line>Against the wrackful siege of battring<phoneme category="d">days</phoneme></line>
+      <line>When rocks impregnable are not so<phoneme category="c">stout</phoneme></line>
+      <line>Nor gates of steel so strong but time<phoneme category="d">decays</phoneme></line>
+      <line>O fearful meditation where alack</line>
+      <line>Shall Time best jewel from Time chest lie<phoneme category="f">hid</phoneme></line>
+      <line>Or what strong hand can hold his swift foot back</line>
+      <line>Or who his spoil of beauty can<phoneme category="f">forbid</phoneme></line>
+      <line>O none unless this miracle have<phoneme category="g">might</phoneme></line>
+      <line>That in black ink my love may still shine<phoneme category="g">bright</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

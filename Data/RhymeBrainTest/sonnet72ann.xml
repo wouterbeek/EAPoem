@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 72</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O lest the world should task you to<phoneme category="a">recite</phoneme></line>
+      <line>What merit lived in me that you should love</line>
+      <line>After my death dear love forget me<phoneme category="a">quite</phoneme></line>
+      <line>For you in me can nothing worthy prove</line>
+      <line>Unless you would devise some virtuous lie</line>
+      <line>To do more for me than mine own desert</line>
+      <line>And hang more praise upon deceased I</line>
+      <line>Than niggard truth would willingly impart</line>
+      <line>O lest your true love may seem false in<phoneme category="e">this</phoneme></line>
+      <line>That you for love speak well of me<phoneme category="f">untrue</phoneme></line>
+      <line>My name be buried where my body<phoneme category="e">is</phoneme></line>
+      <line>And live no more to shame nor me nor<phoneme category="f">you</phoneme></line>
+      <line>For I am shamed by that which I bring forth</line>
+      <line>And so should you to love things nothing worth</line>
+    </stanza>
+  </pbody>
+</poem>

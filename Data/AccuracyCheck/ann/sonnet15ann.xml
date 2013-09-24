@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 15</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>When I consider every thing that<phoneme category="a">grows</phoneme></line>
+      <line>Holds in perfection but a little moment</line>
+      <line>That this huge stage presenteth nought but<phoneme category="a">shows</phoneme></line>
+      <line>Whereon the stars in secret influence comment</line>
+      <line>When I perceive that men as plants<phoneme category="c">increase</phoneme></line>
+      <line>Cheered and checked even by the self same sky</line>
+      <line>Vaunt in their youthful sap at height<phoneme category="c">decrease</phoneme></line>
+      <line>And wear their brave state out of memory</line>
+      <line>Then the conceit of this inconstant stay</line>
+      <line>Sets you most rich in youth before my<phoneme category="f">sight</phoneme></line>
+      <line>Where wasteful time debateth with decay</line>
+      <line>To change your day of youth to sullied<phoneme category="f">night</phoneme></line>
+      <line>And all in war with Time for love of<phoneme category="g">you</phoneme></line>
+      <line>As he takes from you I engraft you<phoneme category="g">new</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

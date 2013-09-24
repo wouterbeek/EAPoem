@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 142</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Love is my sin and thy dear virtue<phoneme category="a">hate</phoneme></line>
+      <line>Hate of my sin grounded on sinful loving</line>
+      <line>O but with mine compare thou thine own<phoneme category="a">state</phoneme></line>
+      <line>And thou shalt find it merits not reproving</line>
+      <line>Or if it do not from those lips of<phoneme category="c">thine</phoneme></line>
+      <line>That have profaned their scarlet ornaments</line>
+      <line>And sealed false bonds of love as oft as<phoneme category="c">mine</phoneme></line>
+      <line>Robbed others beds revenues of their rents</line>
+      <line>Be it lawful I love thee as thou lov<phoneme category="e">those</phoneme></line>
+      <line>Whom thine eyes woo as mine importune<phoneme category="f">thee</phoneme></line>
+      <line>Root pity in thy heart that when it<phoneme category="e">grows</phoneme></line>
+      <line>Thy pity may deserve to pitied<phoneme category="f">be</phoneme></line>
+      <line>If thou dost seek to have what thou dost<phoneme category="g">hide</phoneme></line>
+      <line>By self example mayst thou be<phoneme category="g">denied</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

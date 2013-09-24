@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 44</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>If the dull substance of my flesh were thought</line>
+      <line>Injurious distance should not stop my<phoneme category="b">way</phoneme></line>
+      <line>For then despite of space I would<phoneme category="a">brought</phoneme><phoneme category="a">brought</phoneme></line>
+      <line>From limits far remote where thou dost<phoneme category="b">stay</phoneme></line>
+      <line>No matter then although my foot did<phoneme category="c">stand</phoneme></line>
+      <line>Upon the farthest earth removed from<phoneme category="d">thee</phoneme></line>
+      <line>For nimble thought can jump both sea and<phoneme category="c">land</phoneme></line>
+      <line>As soon as think the place where he would<phoneme category="d">be</phoneme></line>
+      <line>But ah thought kills me that I<phoneme category="e">thought</phoneme><phoneme category="e">thought</phoneme><phoneme category="e">thought</phoneme></line>
+      <line>To leap large lengths of miles when thou art gone</line>
+      <line>But that so much of earth<phoneme category="e">wrought</phoneme><phoneme category="e">wrought</phoneme><phoneme category="e">wrought</phoneme></line>
+      <line>I must attend time leisure with my moan</line>
+      <line>Receiving nought by elements so<phoneme category="g">slow</phoneme></line>
+      <line>But heavy tears badges of either<phoneme category="g">woe</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

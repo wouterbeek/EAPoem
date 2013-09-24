@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 3</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>Look in thy glass and tell the face thou viewest</line>
+      <line>Now is the time that face should form<phoneme category="b">another</phoneme></line>
+      <line>Whose fresh repair if now thou not renewest</line>
+      <line>Thou dost beguile the world unbless some<phoneme category="b">mother</phoneme></line>
+      <line>For where is she so fair whose uneared<phoneme category="c">womb</phoneme></line>
+      <line>Disdains the tillage of thy husbandry</line>
+      <line>Or who is he so fond will be the<phoneme category="c">tomb</phoneme></line>
+      <line>Of his self love to stop posterity</line>
+      <line>Thou art thy mother glass and she in thee</line>
+      <line>Calls back the lovely April of her<phoneme category="f">prime</phoneme></line>
+      <line>So thou through windows of thine<phoneme category="e">see</phoneme><phoneme category="e">see</phoneme><phoneme category="e">see</phoneme></line>
+      <line>Despite of wrinkles this thy golden<phoneme category="f">time</phoneme></line>
+      <line>But if thou live remembered not<phoneme category="g">be</phoneme><phoneme category="g">be</phoneme></line>
+      <line>Die single and thine image<phoneme category="g">thee</phoneme><phoneme category="g">thee</phoneme><phoneme category="g">thee</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>

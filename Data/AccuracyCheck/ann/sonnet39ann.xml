@@ -1,0 +1,27 @@
+<poem>
+  <phead>
+    <ptitle>Sonnet 39</ptitle>
+    <author>
+      <first-name>William</first-name>
+      <last-name>Shakespeare</last-name>
+    </author>
+  </phead>
+  <pbody>
+    <stanza>
+      <line>O how thy worth with manners may I<phoneme category="a">sing</phoneme></line>
+      <line>When thou art all the better part of<phoneme category="b">me</phoneme></line>
+      <line>What can mine own praise to mine own self<phoneme category="a">bring</phoneme></line>
+      <line>And what ist but mine own when I praise<phoneme category="b">thee</phoneme></line>
+      <line>Even for this let us divided<phoneme category="c">live</phoneme></line>
+      <line>And our dear love lose name of single one</line>
+      <line>That by this separation I may<phoneme category="c">give</phoneme></line>
+      <line>That due to thee which thou deserv alone</line>
+      <line>O absence what a torment wouldst thou prove</line>
+      <line>Were it not thy sour leisure gave sweet<phoneme category="f">leave</phoneme></line>
+      <line>To entertain the time with thoughts of love</line>
+      <line>Which time and thoughts so sweetly doth<phoneme category="f">deceive</phoneme></line>
+      <line>And that thou teachest how to make one<phoneme category="g">twain</phoneme></line>
+      <line>By praising him here who doth hence<phoneme category="g">remain</phoneme></line>
+    </stanza>
+  </pbody>
+</poem>
