@@ -3,7 +3,8 @@
   [
   	read_poem/1,
   	shakespeare_csv/0,
-    test_double_metaphone/0
+    test_double_metaphone/0,
+    create_metaphone_file/0
   ]
 ).
 
@@ -69,4 +70,33 @@ test_double_metaphone:-
   Word = 'voorbeeld',
   double_metaphone(Word, Phones),
   format(user_output, 'Word:\t~w\nPhones:\t~w\n', [Word, Phones]).
+  
+  
+% ======================================================= %
+  
+create_metaphone_file:-
+	open('words_unique.txt', read, Stream),
+	read_file(Stream, WordList),
+	test(WordList), 
+	close(Stream).
+
+% TODO: stream moet pas na het schrijven van alle regels gesloten worden	
+test([H|T]):-
+	open('output.txt', write, StreamOut),
+	double_metaphone(H, Meta),
+	write(StreamOut, Meta),
+	nl(StreamOut),
+	close(StreamOut),
+	test(T).	
+
+
+read_file(Stream,[]) :-
+    at_end_of_stream(Stream).
+    
+read_file(Stream,[X|L]) :-
+    \+ at_end_of_stream(Stream),
+    read(Stream,X),
+    read_file(Stream,L).	
+
+	
 
